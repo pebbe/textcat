@@ -3,12 +3,16 @@ A Go package for n-gram based text categorization, with support for utf-8 and ra
 */
 package textcat
 
-var Languages []string
+var (
+	LanguagesUtf8 = make([]string, 0)
+	LanguagesRaw  = make([]string, 0)
+)
 
 func init() {
-	Languages = make([]string, 0)
 	for _, lang := range data {
-		Languages = append(Languages, lang.lang)
+		LanguagesRaw = append(LanguagesRaw, lang.lang)
+		if len(lang.patUtf8) > 0 {
+			LanguagesUtf8 = append(LanguagesUtf8, lang.lang)
+		}
 	}
 }
-

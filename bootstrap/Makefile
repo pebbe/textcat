@@ -10,5 +10,5 @@ pat.go: ../patterns.go
 bootstrap: pat.go bootstrap.go
 	go build .
 
-../data.go: bootstrap ../samples/*.txt
-	./bootstrap ../samples/*.txt
+../data.go: bootstrap ../samples*/*.txt
+	./bootstrap ../samples*/*.txt
