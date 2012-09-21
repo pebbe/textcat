@@ -1,0 +1,94 @@
+Zárodek Wikipedie vznikl v roce 1995, kdy programátor Ward Cunningham
+založil webové stránky nazvané WikiWikiWeb, které mohl upravovat každý
+jejich návštěvník - od té doby se podobných systémů, dnes označovaných
+jako wiki (havajské slovo pro „rychlý“, míněno stránky, na kterých může
+návštěvník cokoliv rychle opravit) objevilo velké množství. Velmi často
+jsou používány např. jako vnitrofiremní báze znalostí.
+
+Wikipedie jako taková vznikla 15. ledna 2001 jako doplňkový projekt k
+dnes již neexistující encyklopedii Nupedia, do které mohli přispívat jen
+odborníci. Zakladateli obou projektů byli Američané Jimmy Wales
+(přezdívaný Jimbo), internetový podnikatel, a Larry Sanger, filosof a
+informatik, který brzy z Wikipedie odešel. Wales 20. června 2003 založil
+podle zákonů státu Florida (USA) neziskovou nadaci Wikimedia, na kterou
+převedl autorská a vlastnická práva související s Wikipedií i
+sesterskými projekty. Sanger na konci roku 2004 rozpoutal diskusi
+článkem, v němž kritizoval anti-elitářství, které od spolupráce odrazuje
+experty, a v roce 2006 založil vlastní projekt Citizendium, který má
+tento nedostatek napravovat.
+
+Popularita Wikipedie vytrvale roste. Postupně vedle ní vzniklo také
+několik sesterských projektů. Wikipedie patří mezi nejpopulárnější
+referenční stránky na webu, každý den obslouží přibližně 60 milionů
+požadavků. Německá verze Wikipedie byla vydána na CD a tisícistránkový
+výběr asi 20 000 článků německé Wikipedie byl ve spolupráci s
+respektovanou vydavatelskou skupinou Bertelsmann v září 2008 vydán také
+knižně (de:Wikipedia Lexikon in einem Band). Na Internetu existuje velké
+množství serverů, které kopii obsahu Wikipedie nabízejí za podmínek
+licence GFDL.
+
+V květnu 2005 obsahovala Wikipedie dohromady přibližně 1,5 milionu
+článků, v listopadu 2006 přes 5,6 milionů a v dubnu 2008 již přes 10
+milionů článků. V červenci 2012 má Wikipedie přes 22,4 milionů článků. V
+roce 2011 proběhl fundraising a Wikipedie tak získala 20 milionů dolarů
+na svůj provoz a zůstává tak dále bez reklamních prostorů.
+
+V porovnání k počtu uživatelů jazyka (údaje z dubna 2010) tabulku s
+náskokem vedou umělé jazyky volapük, ido a interlingua, u nichž počet
+článků převyšuje velmi malý počet jejich mluvčích. Prvním z umělých
+jazyků s velkou uživatelskou základnou je esperanto (se 64 články na
+1000 mluvčích je na 14. místě). Z národních jazyků jsou na čelních
+místech aragonština a kornština (stovky článků na tisíc mluvčích), s
+více než 100 články na tisíc mluvčích pak například normanština, skotská
+gaelština, severní laponština. Hranici 100 článků na 1000 mluvčích dále
+překročily norská, bretonská a irské verze. V české verzi (kolem 40.
+místa v pořadí) na tisíc mluvčích připadá přibližně třináct článků,
+srovnatelná je osetština; u angličtiny cca 6. Podle závěru tabulky v
+nepálském, kašmírském, paštském a paňdžábském jazyce připadá méně než
+100 článků na milión lidí užívajících tyto jazyky. Metodika určování
+počtu uživatelů jazyků je ovšem sporná, zvláště u umělých, menšinových a
+mezinárodně užívaných jazyků.
+
+Encyklopedický obsah Wikipedie je zveřejňován pod svobodnými licencemi,
+což znamená, že při dodržení jistých pravidel je možno jej volně
+kopírovat a upravovat. Texty ve Wikipedii byly zveřejňovány pod
+svobodnou licencí GNU FDL, v červnu 2009 však veškerý textový obsah
+přešel pod licenci CC-BY-SA. Většina dalšího obsahu, například obrázky a
+jiné vložené soubory, má být a většinou je zveřejněna pod svobodnými
+licencemi různých typů. Ty obrázky, jejichž licence byla příliš
+nesvobodná (například vylučovala komerční použití), jsou z Wikipedie
+postupně odstraňovány a pokud možno nahrazovány svobodnými.
+
+V projektu Wikipedie se dbá, aby zveřejnění textů, obrázků a dalšího
+obsahu pod svobodnou licencí bylo v souladu se zákonnou ochranou
+autorského práva, což na webové síti, zvláště na anonymních webech
+užívajících bezplatného hostingu, nebývá vždy obvyklé.
+
+Odlišně jsou podmínky stanoveny pro loga projektů nadace Wikimedia,
+která jsou z režimu svobodných licencí vyjmuta.
+
+Wikipedie běží na svobodném software MediaWiki na clusteru vyhrazených
+serverů na Floridě v USA a dalších třech místech světa. MediaWiki je už
+třetí etapou v softwarovém vývoji. Původně, v první etapě, Wikipedie
+fungovala na UseModWiki od Clifforda Adamse. Zpočátku bylo třeba pro
+odkazy používat zápis slov bez mezer, tzv. CamelCase, později bylo možno
+používat dvojité lomené závorky.
+
+Do druhé etapy Wikipedie vstoupila v lednu 2002, když začala používat
+wiki engine napsaný v PHP s databází MySQL, který speciálně pro
+Wikipedii vytvořil Magnus Manske. Následně byly několikrát provedeny
+úpravy za účelem zvýšení výkonu, aby bylo možno zvládnout narůstající
+provoz. Nakonec bylo programové vybavení znovu přepsáno, tentokrát Lee
+Danielem Crockerem. Tato třetí vývojová etapa byla nazvána MediaWiki a
+do ostrého provozu byla nasazena v červenci 2002. Má svobodnou licencí
+GNU GPL a používají ji všechny projekty nadace Wikimedia.
+
+V roce 2003 byl jediný server, který do té doby obsluhoval Wikipedii,
+rozšířen na distribuovanou architekturu n-tier. V lednu 2005 celý
+projekt fungoval na 39 vyhrazených serverech umístěných na Floridě.
+Konfigurace zahrnovala jeden hlavní databázový server s MySQL, několik
+podřízených databázových serverů, 21 webových serverů s Apache a 7
+serverů se Squid cache. Do ledna 2006 se serverový park rozrostl na 171
+strojů na čtyřech místech světa. Na většině z nich je nainstalován
+operační systém Linux, převládá Fedora Core, po jednom serveru obsazují
+FreeBSD a Solaris.

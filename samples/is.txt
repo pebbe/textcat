@@ -1,0 +1,101 @@
+er frjálst alfræðirit sem er búið til í samvinnu, með svokölluðu wiki
+kerfi. Fyrir utan almennan alfræðitexta, er alfræðiefnið á síðunni oft
+tengt í almanök og landafræðiskrár, að auki er haldið utan um nýlega
+atburði.
+
+Fram að júní 2009 féll mestallur texti á Wikipedia undir Frjálsa GNU
+handbókarleyfið en þá var skipt yfir í Creative Commons
+Attribution-ShareAlike (CC-by-SA) 3.0. Myndir og margmiðlunarefni falla
+stundum undir önnur skilyrði.
+
+Mest af efnisinnihaldi Wikipedia er komið frá notendum. Allt efnið er
+síbreytilegt og það verður aldrei fullkomnað. Vegna þessa er Wikipedia
+einstætt viðfangsefni.
+
+Sú hugmynd, að geta safnað allri þekkingu á einn stað, á rætur sínar að
+rekja allt til Alexandríusafnsins og Pergamon til forna. Með tilkomu
+internetsins, reyndu margir að búa til internetalfræðirit. Talsmaður
+frjáls hugbúnaðar, Richard Stallman, benti á notagildi „frjálsrar
+alhliða alfræðibókar og menntunarauðlindar“ árið 1999. Hann lýsti
+stofnun Wikipedia sem „spennandi frétt“ og frjálsi hugbúnaðarsjóðurinn
+hans hvetur fólk til þess að taka þátt og miðla efni.
+
+Þann 20. september 2004 fóru greinarnar yfir 1 milljón. Milljónasta
+greinin var á hebresku og var um fána Kazakhstan.
+
+Fyrir utan einstaka tæknilega örðugleika hefur enski hluti Wikipedia
+starfað óslitið frá 10. janúar 2001. Nokkuð er hins vegar á reiki hvenær
+íslenski hlutinn var stofnaður, og fer allt eftir því hvernig er talið.
+
+Fyrsta gagnagrunnsbreytingin á íslenska hlutanum var gerð á greininni
+„WIKIng“ (sem síðar var eytt) þann 6. desember 2002 klukkan 19:43 UTC+0
+á dönsku og sú næsta nær ári síðar þann 24. nóvember 2003 á nýnorsku,
+fyrstu viðbótinni á íslensku var hins vegar gerð 5. desember 2003 kl.
+11:54 um morgun og má telja að með henni hafi saga íslensku útgáfunnar
+hafist.
+
+Hugbúnaðurinn sem upprunalega keyrði Wikipedia hét UseModWiki. Hann var
+skrifaður af Clifford Adams („skref I“). Fyrst þurfti að nota CamelCase
+fyrir tengla; en fljótlega varð hægt að nota þá aðferð, sem nú er notuð.
+Í janúar 2002, byrjaði wikipedia að keyra á PHP wiki kerfi, sem notaði
+MySQL gagnagrunnskerfi, og bættust margir nýjir möguleikar við (og í
+leiðinni gerði CamelCase tengla ónothæfa). Nýja kerfið var sérstaklega
+skrifað fyrir Wikipedia verkefnið af Magnus Manske („skref II“). Eftir
+þó nokkurn tíma, hægðist mikið á kerfinu og það var nánast ómögulegt að
+gera neitt. Ýmsar breytingar og uppfærslur voru gerðar en þjónuðu aðeins
+tímabundnum tilgangi. Þá endurskrifaði Lee Daniel Crocke allt wiki
+kerfið frá grunni og hefur nýja útgáfan verið í notkun síðan í júlí 2002
+(„skref III“). Núverandi hugbúnaður heitir MediaWiki og er hann í notkun
+í mörgum öðrum verkefnum. Sá sem nú sér aðallega um að laga galla
+kerfisins og viðhald á gagnagrunninum heitir Brion Vibber.
+
+Árið 2003 hafði sambandsleysi þjónsins rýrt „framleiðslugetu“ notenda.
+Margir kvörtuðu undan vandamálum með að breyta greinum og miklum
+hægagangi. Vandamálið var vegna þess að aðeins var einn þjónn að keyra
+öll wiki verkefnin.
+
+Frá og með júní 2004, keyra verkefnin á níu tileinkuðum þjónum sem eru
+staðsettir í Flórída. Nýja uppsetningin samanstendur af einum
+gagnagrunnsþjóni og þrem vefþjónum, sem allir keyra stýrikerfið Fedora.
+Þjónarnir framreiða allar beiðnir, og túlka allar síður til notenda. Til
+að auka hraða frekar, eru síður sem óskráðir notendur biðja um geymdar í
+skyndiminni þar til þeim er breytt af einhverjum notanda, sem gerir það
+óþarfa að túlka vinsælustu síðurnar aftur og aftur. Beiðnir úr
+skyndiminni eru framreiddar af tveimur Squid þjónum. Annar Squid
+þjónninn þjónar líka sem tölvupóstþjónn Wikipedia.
+
+Í febrúar 2005 var haldin söfnun fyrir nýjum vélbúnaði 75.000$ USD,
+söfnunin tókst vel og fór 15% yfir áætlað mark.
+
+Wikipedia hefur oft verið gagnrýnd harkalega, og efast hefur verið um
+trúverðugleika Wikipediu, þar sem hún er opin og allir geti breytt
+umfjöllunarefni hennar, en Vísindavefurinn bendir á að hið andstæða sé
+satt og að það að allir geti breytt Wikipediu geri hana einungis
+áreiðanlegri en þær alfræðiorðabækur sem eru aðeins lesnar yfir af fáum
+einstaklingum:
+
+Benda má á að hver sem er getur skrifað og breytt Wikipedia-síðum, en
+þar sem svo margir lesa yfir breytingarnar er Wikipedia samt mun
+áreiðanlegri en vefsíður reknar af einum einstaklingi.
+
+Ljós er rafsegulbylgjur innan ákveðins tíðnisviðs, en oftast er átt við
+það tíðnisvið sem mannsaugað greinir. Við nánari athugun er hægt að sýna
+að ljós er í senn bylgjur og ljóseindir og er í því sambandi talað um
+tvíeðli ljóss. Frægasta tilraunin sem sýnir fram á bylgjueðli ljóss er
+tvíraufa tilraun Youngs, þar sem ljósi er beint í gegnum tvær raufar,
+með bili milli raufann af sömu stærðargráður og bylgjulengd ljóssins.
+Ljósið sýnir þá svokallaða samliðunar- eða víxleiginleika. Ein helsta
+tilraunaniðurstaða, sem styður tilvist ljóseinda ljósröfun, þar sem ljós
+örvar frumeind og veldur ljósröfun. Til þessa dags hefur ekki verið unnt
+skýra þess tilraun með ljósbylgjum.
+
+Sýnilegt ljós, sem er það ljós sem mannsaugað getur numið, með
+bylgjulengd á bilinu 400 til 700 nm. Sýnilegt ljós spannar því
+rafsegulrófið milli innrauðs og útfjólublás ljóss. Ljóshraði (í
+tómarúmi) er um 300,000 km/s.
+
+Ljósgjafi er hlutur, áhald eða tæki sem gefur sýnilegt ljós, t.d. kerti,
+ljósapera, flúrljós og tvistur (díóða). Geislatæki gefur geislun, sem að
+mestu utan sýnlega sviðsins, en geislagjafi gefur jónandi geislun, sem
+stafar af geislavirkni.
+

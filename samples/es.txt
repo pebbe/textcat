@@ -1,0 +1,92 @@
+Algunos proyectos, como el de la Stanford Encyclopedia of Philosophy, o
+el de la ahora abandonada Nupedia, se basan en políticas editoriales
+tradicionales y de autoría de artículos tipo «escritura por expertos».
+Ocasionalmente aparecen sitios web como h2g2 o everything2 que siguen
+unas pautas generales preestablecidas, donde los artículos solo pueden
+ser redactados y controlados por cada persona de forma individual.
+
+Contrariamente, proyectos como Wikipedia, Susning.nu o la Enciclopedia
+Libre son wikis en los que los artículos son desarrollados por numerosos
+autores, y no existe un criterio de revisión formal. Wikipedia es la
+enciclopedia más grande en cuanto a número de artículos o palabras jamás
+escrita. Al contrario de lo que sucede con muchas otras, su contenido
+está liberado bajo licencias de contenido abierto.
+
+Wikipedia dispone de un conjunto de políticas y convenciones que sirven
+para decidir qué información debe o no incluirse. Estas políticas se
+utilizan para resolver disputas relativas a la creación, edición y
+borrado de artículos, así como a la transferencia de éstos a un proyecto
+hermano por no tratarse de información enciclopédica (véase la sección
+Fundación Wikimedia y los proyectos hermanos).
+
+La cultura sociedad ha variado, según el estado, en cada versión. En el
+caso principal, la Wikipedia en español cualquier persona tiene la
+posibilidad de crear un artículo nuevo y casi cualquier visitante puede
+editar el contenido, a excepción de los artículos que se encuentran
+protegidos. Sin embargo, en la inglesa los usuarios no registrados no
+pueden comenzar artículos desde cero. Wikipedia fue creada con la idea
+de producir textos de calidad a partir de la colaboración entre
+usuarios, a semejanza de los proyectos de desarrollo de aplicaciones
+libres.
+
+Los artículos evolucionan con el paso del tiempo, y esto es visible en
+su historial de ediciones. Habitualmente, una parte de las ediciones son
+vandálicas —de contenido no relacionado con Wikipedia o con información
+falsa—, y en ocasiones editores con puntos de vista encontrados producen
+lo que se conoce como guerra de ediciones. Esta se produce cuando dos o
+más editores entran en un ciclo de reversiones mutuas debido a disputas
+causadas por diferencias de opinión sobre el contenido del artículo. No
+hay que confundir vandalismo —que frecuentemente afecta una sola vez a
+un artículo o artículos— con guerra de ediciones, la cual afecta
+repetidas veces a un mismo artículo en un breve lapso. Entre los
+artículos vandalizados frecuentemente en la edición en español destacan:
+George W. Bush, Benedicto XVI o Testigos de Jehová; mientras que
+artículos con fuertes guerras de ediciones son Cuba o Comunidad
+Valenciana, debido a la disparidad entre las opiniones de sus
+redactores.
+
+Cada capítulo de Wikipedia cuenta con un grupo de personal, encargado en
+la cooperación. Dentro de esta lista se mencionan a administradores,
+cuyas funciones fundamentales son hacer mantenimiento —tal como borrar
+artículos, bloquear vándalos y otras funciones— y estar al servicio del
+cumplimiento de las normas que la rigen. El capítulo con más
+administradores es la Wikipedia en inglés, con un total de más de
+1600.
+
+Desde sus inicios en 2001, Wikipedia ha utilizado diferentes marcas
+corporativas.
+
+El elemento común en todas ellas es una esfera escrita como elemento
+central, simbolizando el mundo y el conocimiento.
+
+En 2003, se adoptó por concurso internacional el dibujo de una esfera
+incompleta, conocida como wikiesfera, compuesta por piezas de un
+rompecabezas con fragmentos de escritura en diferentes idiomas,
+simbolizando así la condición de «obra en construcción» que tiene
+Wikipedia.
+
+El diseño en forma de rompecabezas esférico incompleto sufrió
+posteriormente algunas modificaciones, como la sustitución de los
+fragmentos de escritura por letras y otros signos de diferentes
+alfabetos.
+
+La denuncia de diversos errores e inconsistencias en los símbolos
+incluidos en la wikiesfera y la posibilidad de diseñar una imagen
+animada o fotorrealista impulsó entre diversos editores de Wikipedia un
+debate sobre la posibilidad de realizar modificaciones en el elemento
+gráfico. Como consecuencia, y tras la labor realizada a través de una
+iniciativa de la Fundación Wikimedia junto a miles de voluntarios para
+modificar la interfaz de la enciclopedia, el dibujo de la wikiesfera fue
+reemplazado en 2010 por un modelo tridimensional, en el que algunos
+símbolos de las piezas de rompecabezas fueron reemplazados por otros y
+se añadieron símbolos de más idiomas, al tiempo que se cambió la
+tipografía del elemento denominativo —«WIKIPEDIA, La enciclopedia
+libre»— a Linux Libertine.
+
+Cada Wikipedia según idioma es autónoma y tiene facultades para elegir
+la marca que la identifique. A partir de 2003 todas han adoptado
+básicamente la misma, con el elemento denominativo «Wikipedia, The free
+encyclopedia» —«Wikipedia, La enciclopedia libre»— traducido al idioma
+en que se escribe cada una. Las marcas han sido realizadas voluntaria y
+gratuitamente por usuarios de Wikipedia, y sus derechos pertenecen a la
+Fundación Wikimedia.

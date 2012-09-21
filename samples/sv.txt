@@ -1,0 +1,87 @@
+Wikipedia kan redigeras av vem som helst. Detta gör att encyklopedin är
+beroende av att ett stort antal välmenande skribenter som på frivillig
+basis håller efter den lilla grupp av skribenter som på olika sätt
+ställer till problem. Det sätt genom vilket materialet på Wikipedia
+skapas leder även till problem då felaktig och vinklad information kan
+läggas till. Grundtanken är dock att de flesta användare är intresserade
+av att bevara och skydda Wikipedia och att dessa därför snabbt kommer
+att återställa klotter och de bidrag som inte anses hålla tillräckligt
+hög standard. Arbetssättet bygger även på idén att samarbete och
+diskussion mellan alla användare leder till att gruppen i helhet
+utvecklas och att konsensus om vad som räknas som neutralt kan uppnås
+även i svårare frågor. Grundtankarna går alltså tvärt emot idén om att
+publiceringen av kunskap bör begränsas till en liten grupp utvalda och
+speciellt kunniga personer som producerar material i en hierarkisk
+arbetsdelning.
+
+Wikipedia innehåller också mekanismer som underlättar arbetet mot
+klotter, vandalisering och konflikter. En del användare väljs till
+administratörer, som har möjlighet att tillfälligt eller tillsvidare
+blockera användare som inte följer reglerna och hindra redigering av
+sidor som är föremål för attacker eller konflikter. Gemenskapen
+poängterar att administratörerna inte skall tillmätas större auktoritet
+i sak, utan endast stödja själva processen.
+
+En del användare förespråkar att man inför granskade versioner av
+artiklar, alltså märker versioner som har bedömts som tillförlitliga av
+etablerade användare. Det skulle då vara den versionen som i första hand
+syns för oregistrerade läsare.
+
+Innehållet i Wikipedia omfattas av juridiska skäl av lagstiftningen
+(särskilt lagen om upphovsrätt) i Florida där Wikipedias servrar
+befinner sig. Utöver detta är Wikipedias redaktionella principer
+sammanfattade i de så kallade "fem pelarna", och många policyer och
+riktlinjer syftar till att utforma innehållet på lämpligt sätt. Även
+dessa regler finns lagrade i wiki-form, och Wikipedia-redaktörer kan
+skriva och revidera dessa policyer och riktlinjer. Dessa riktlinjer och
+policyer tillämpas genom att Wikipedia-redaktörerna kan ta bort, märka
+eller ändra artikelmaterial som inte uppfyller dem. De regler som de
+icke-engelska utgåvorna av Wikipedia har baseras ofta på en översättning
+av reglerna på den engelska Wikipedia och har sedan ändrats i viss
+utsträckning. Medan de fortfarande visar stora likheter, skiljer de sig
+i många detaljer.
+
+Som Internetgemenskap betraktad har Wikipedia utvecklat en egen kultur
+och egna traditioner, som sammanfattas i fem grundpelare:
+
+Projektet är ett uppslagsverk, och bör endast innehålla ämnen som passar
+i ett uppslagsverk, information som kan verifieras i trovärdiga
+publicerade källor, och uppgifter som är av tillräckligt stort
+allmänintresse att ett flertal författare kan bidra till ämnet och
+bevaka artiklarnas kvalitet. Artiklar som inte uppfyller dessa kriterier
+kan raderas. I praktiken har Wikipedia dock ett bredare utbud av
+artiklar än tryckta uppslagsverk
+
+Projektet har öppet och fritt innehåll (Wikipedia använder sig av
+copyleftlicensen Creative Commons CC-BY-SA 3.0). Bilder och texter som
+bryter mot upphovsrätten får inte förekomma på Wikipedia utan raderas.
+Projektet drivs som en wiki, vilket betyder att alla artiklar (med några
+få undantag) kan redigeras av vem som helst, när som helst, och att vem
+som bidragit framgår av wikins historik. Det är fritt att använda
+Wikipedias texter i egna skrifter så länge man följer licensen.
+
+Wikipedia har etikettregler: författarna bör vara sakliga vid
+diskussioner, undvika konflikter och personangrepp, respektera
+konsensusbeslut och inte vandalisera. I annat fall kan
+användaridentiteten eller IP-adressen blockeras. Skrivandet diskuteras
+och beskrivs på sidor som inte ingår i själva uppslagsverket men likaså
+är allmänt tillgängliga, både diskussionssidor för enskilda artiklar och
+mer övergripande sidor. De flesta språkversionerna har en sida för
+allmän diskussion kring arbetet med Wikipedia, den på svenskspråkiga
+Wikipedia heter Bybrunnen.
+
+Wikipedia har inga fasta regler utöver målet att skriva en fri
+encyklopedi, utan endast riktlinjer som ständigt revideras för att
+återspegla den praxis som utvecklas. Riktlinjerna beskriver vad som kan
+raderas, vilken språklig stil man bör använda, hur beslut tas, och
+mycket annat. Riktlinjerna kan ignoreras då man bedömer att gemenskapen
+inte kommer att invända och att handlingen förbättrar uppslagsverket.
+Nybörjare behöver inte känna till riktlinjerna, utan också de uppmuntras
+att vara djärva och att förbättra uppslagsverket enligt eget omdöme.
+
+Principen skriv från en neutral utgångspunkt, ofta förkortad NPOV av
+engelskans neutral point of view, innebär att Wikipedia-artiklar inte
+ska ta ställning och vara vinklade, utan ska återspegla alla
+signifikanta aspekter av ett ämne. Författare bör ha ambitionen att
+presentera idéer och fakta på ett sådant sätt att både anhängare och
+kritiker kan vara överens om formuleringen.

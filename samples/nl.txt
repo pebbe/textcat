@@ -1,0 +1,124 @@
+Verschillende landen in de wereld eisen de eer op dat hun landgenoot de
+uitvinder was van de schrijfmachine. De Engelsen menen dat Henry Mill
+reeds in 1714 een octrooi kreeg voor een apparaat dat op een
+schrijfmachine lijkt.[1] De Italianen zijn van mening dat het Pellegrino
+Turri was. Hij vervaardigde zijn machine, die helaas verloren is gegaan,
+in 1808. Ook de Italiaan Giuseppe Ravizza maakte tussen 1837 en 1855 al
+enkele verschillende modellen. De Fransen beschouwen Xavier Progin als
+de uitvinder, omdat hij in 1837 zijn 'Plume Typografique' presenteerde.
+De Oostenrijkers menen dat de eer is weggelegd voor Peter Mitterhofer
+(1864) en de Russen noemen M. Alissoff als uitvinder. De Verenigde
+Staten blijven niet achter in deze rij van uitvinders en menen dat
+William Austin Burt zijn houten schrijfmachine gebruikte voor een eerste
+(en bewaarde) brief aan zijn vrouw.
+
+De enige echte, als eerste in meervoudige productie genomen
+schrijfmachine werd in 1867 uitgevonden door Christopher Latham Sholes,
+Carlos Glidden en Samuel W. Soule. Zij werkten als team nauw samen in
+een werkplaats in Milwaukee. Het patent uit 1867 werd verkocht en kwam
+terecht bij E. Remington and Sons (die oorspronkelijk naaimachines en
+wapens fabriceerden). Deze eerste commerciële schrijfmachine werd door
+Remington gemaakt op 1 maart 1873 in Ilion, New York.
+
+Naast de kantoorschrijfmachines, die zwaar en degelijk waren, kwamen op
+den duur ook draagbare schrijfmachines in de handel, bedoeld voor
+bijvoorbeeld vertegenwoordigers, journalisten en in het leger. Deze
+waren licht, minder degelijk en de typekwaliteit was een stuk slechter.
+Ook was het werken op deze draagbare machines weinig comfortabel.
+
+Verreweg de meeste schrijfmachines hadden een zogenaamd
+niet-proportioneel lettertype: dat wil zeggen dat brede letters (zoals
+de 'm') evenveel ruimte in beslag nemen als smalle letters (zoals de
+'i'). Op een vel papier staan alle letters en spaties dus ook precies
+onder elkaar. Dit is vergelijkbaar met het huidige computerlettertype
+Courier, waardoor dat er wat 'ouderwets' uitziet. Voordeel van dit
+lettertype is wel dat het aantal lettertekens per regel of vel
+gemakkelijker is uit te rekenen. Ook foutieve 'dubbele spaties' zijn met
+de Courier-letter gemakkelijker te ontdekken.
+
+Er zijn verschillende modellen op de wijze waarop de beïnkting
+geschiedt. De hierboven als voorbeeld genoemde Williams stempelde
+eigenlijk de letters op het papier. Bij de Blickerderfer gaat een klein
+inktbolletje langs de schrijfdrager. De meeste machines werken echter
+met een inktlint. Voor langs de rol loopt een inktlint. Dit lint wordt
+links en rechts op een rolletje gedraaid. Ook het inktlint verschuift
+een beetje na elke aanslag van een letter. Als het lint is verbruikt,
+wordt de richting automatisch omgekeerd. Bij de oudere machines moet het
+lint echter handmatig worden teruggedraaid.
+
+Sommige inktlinten zijn aan de onderzijde rood, aan de bovenzijde zwart
+(of donkerblauw), zodat er in twee kleuren kan worden getypt. Soms gaat
+dat door het inktlint eruit te halen en andersom in de machine te
+zetten, maar de meeste schrijfmachines hebben een aparte toets of hendel
+om het lint iets hoger of lager te zetten, waardoor de andere kleur
+wordt gekozen. Dit is vooral zinvol voor de boekhouding, waar negatieve
+getallen in het rood werden genoteerd. Het inktlint kan met de hand van
+nieuwe inkt worden voorzien, maar moet wel door slijtage of uitdroging
+na enige tijd vervangen worden.
+
+Een schrijfmachine heeft toetsen om de letters met de vingers aan te
+slaan. De indeling van het toetsenbord is vrijwel gelijk aan het
+toetsenbord van een moderne computer. Boven de toetsen met letters
+zitten toetsen voor de cijfers. Een schrijfmachine heeft ook toetsen met
+leestekens, hoewel minder dan op de huidige computertoetsenborden. Door
+vrij hard op een knop met een letter te drukken, komt een staafje
+('hamertje') omhoog, waarop een drukletter (type) is gemonteerd. Deze
+slaat vrij hard tegen het inktlint aan, waardoor er op het achter het
+lint gelegen papier een afdruk van de letter wordt gemaakt. Op hetzelfde
+moment zorgen een veer en een echappement ervoor dat de wagen een
+positie opschuift. De schrijfmachine heeft onder de letters een
+spatiebalk, waarmee alleen de wagen wordt opgeschoven zonder dat er een
+letter wordt getypt.
+
+Als een regel bijna is volgeschreven, klinkt er ongeveer 7 tekens voor
+het einde een bel. Er is dan nog ruimte om het woord te beëindigen, of
+om op de juiste plaats een afbreekteken te typen. Daarna moet de wagen,
+met daarop de rol en het papier, met een hendel worden teruggeduwd. Een
+mechaniek zorgt er daarbij voor dat de rol ook een stukje verdraait,
+zodat de volgende regel kan worden getypt. Deze gebeurtenis klinkt nog
+steeds door in het begrip carriage return voor de wagen; line feed staat
+dan voor het doordraaien van het papier naar de nieuwe regel.
+
+Met de schrijfmachine werd direct een origineel document gemaakt, en het
+was dus van belang om geen typefouten te maken. Fouten konden slechts
+hersteld worden met gummen of wegwerken met witte inkt, maar de fouten
+bleven altijd zichtbaar. Dit was des te erger als er meerdere kopieën
+werden getypt. Dit gebeurde door meerdere vellen papier in de machine te
+draaien, met daartussen telkens een vel carbonpapier. De achterste kopie
+was soms moeilijk leesbaar, en meer dan 4 afdrukken konden eigenlijk
+niet worden gemaakt. Het wegwerken van een fout vergde het naar boven
+draaien van de bundel papier, het weghalen van de foute letter op elke
+afdruk, en daarna weer terugdraaien. Hierbij moest ervoor gezorgd worden
+dat de verschillende afdrukken niet ten opzichte van elkaar verschoven.
+Vaak werden op de kopieën de typefouten dan ook maar niet gecorrigeerd,
+en werd alleen het origineel foutloos verstuurd. Een goede typiste kon
+echter snel en vrijwel foutloos typen.
+
+Het aanslaan van de schrijfmachine met het tienvingersysteem vergde veel
+oefening en kracht in de vingers. Met name moest ook de pink voldoende
+kracht bezitten, waarmee de p, q, a en z worden aangeslagen. Vooral het
+bereiken van een hoge typesnelheid was lastig. Een aanslagsnelheid van
+200 aanslagen per minuut werd als zeer hoog ervaren. Dit is een snelheid
+die op een computertoetsenbord zelfs door met twee vingers te typen kan
+worden overschreden.
+
+Veel mensen hadden thuis voor privégebruik een schrijfmachine, maar de
+schrijfmachine werd vooral op kantoor veel gebruikt.
+
+De schrijfmachine werd op het moderne kantoor (tot ongeveer 1980)
+vrijwel alleen bediend door vrouwen. In die tijd was de rolverdeling
+tussen mannen en vrouwen vaak strikt gescheiden. De mannelijke
+werknemers voerden het creatievere werk uit en schreven met de hand hun
+brieven, of dicteerden deze aan de secretaresses, die ze (al dan niet in
+steno) noteerden en vervolgens uittypten.
+
+De schrijfmachine nam zo'n grote vlucht dat de grotere kantoren een
+typekamer hadden, waar de handgeschreven brieven werden ingeleverd en
+vervolgens uitgetypt. Deze functie van typiste is met de opkomst van de
+tekstverwerkers, die al gauw ook door de mannen op het kantoor werden
+bediend, volledig verloren gegaan. Toch probeerden de vrouwen in het
+begin hun rol vast te houden, doordat elke brief en elk rapport via "het
+secretariaat" het bedrijf moest verlaten voor een laatste controle op
+spelling en bijvoorbeeld huisstijl. Het lukte echter niet om deze
+functie vast te houden, waardoor de functie van typiste inmiddels
+compleet is verdwenen.

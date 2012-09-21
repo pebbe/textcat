@@ -1,0 +1,87 @@
+A Wikipédia começou como um projeto complementar para a Nupedia, um
+projeto de enciclopédia online gratuita de língua inglesa cujos artigos
+eram escritos por especialistas e revistos em um processo formal. A
+Nupedia foi fundada em 9 de março de 2000, sob a posse da Bomis, uma
+empresa de portal web. Suas principais figuras eram Jimmy Wales, CEO da
+Bomis, e Larry Sanger, editor-chefe da Nupedia e posteriormente da
+Wikipédia. A Nupedia foi licenciada inicialmente sob sua própria Licença
+de Conteúdo aberto Nupedia, a mudança para a GNU Free Documentation
+License aconteceu antes da fundação da Wikipédia, a pedido de Richard
+Stallman.
+
+Larry Sanger e Jimmy Wales fundaram a Wikipédia. Embora Wales seja
+creditado por definir o objetivo de fazer uma enciclopédia editável
+publicamente, Sanger é geralmente creditado pela estratégia de usar um
+wiki para alcançar esse objetivo. Em 10 de janeiro de 2001, Larry Sanger
+propôs na lista de discussão da Nupedia a criação de um wiki como um
+projeto "alimentador" para a Nupedia. A Wikipédia foi formalmente
+lançada em 15 de janeiro de 2001, como uma única edição em inglês em
+www.wikipedia.com e anunciada por Sanger na lista de discussão da
+Nupedia. A política do "ponto de vista neutro" da Wikipédia" foi
+codificada em seus meses iniciais e era semelhante à política anterior
+da Nupedia de "não-parcialidade". Por outro lado, inicialmente havia
+relativamente poucas regras e a Wikipédia operava independentemente da
+Nupedia.
+
+A Wikipédia ganhou os primeiros colaboradores da Nupedia, de postagens
+no Slashdot e indexação do motor de busca na web. Até o final de 2001, o
+site já havia crescido para cerca de 20 000 artigos em 18 idiomas. No
+final de 2002, tinha alcançado 26 edições em idiomas diferentes, 46 até
+o final de 2003 e 161 nos últimos dias de 2004. A Nupedia e a Wikipédia
+coexistiram até os servidores da primeira serem retirados de forma
+permanente em 2003 e seu texto incorporado na Wikipedia. A Wikipédia em
+inglês passou a marca dos dois milhões de artigos em 9 de setembro de
+2007, tornando-a a maior enciclopédia já construída, superando até mesmo
+a Enciclopédia Yung-lo Ta-tien (1407), que detinha esse recorde desde há
+exatamente 600 anos.
+
+Citando temores de publicidade comercial ser inserida no site e a falta
+de controle numa Wikipédia que viam como sendo anglo-cêntrica, usuários
+da Wikipédia em espanhol criaram uma versão independente da Wikipédia em
+fevereiro de 2002, a Enciclopedia Libre. Mais tarde naquele ano, Wales
+anunciou que a Wikipédia não iria exibir anúncios publicitários e seu
+site foi movido para wikipedia.org. Vários outros projetos de
+wiki-enciclopédias foram iniciados, em grande parte sob uma filosofia
+diferente do modelo editorial aberto e baseado no chamado "princípio da
+imparcialidade" da Wikipédia. O Wikinfo, por exemplo, não requer um
+ponto de vista neutro e permite pesquisas originais. Novos projetos
+inspirados na Wikipédia — como o Citizendium, Scholarpedia,
+Conservapedia e o Knol, da Google, onde os artigos são um pouco mais
+ensaísticos — foram iniciados para tratar de limitações de percepção da
+Wikipédia, como suas políticas sobre revisão por pares, pesquisa
+original e publicidade comercial.
+
+Embora a Wikipédia em inglês tenha chegado aos três milhões de artigos
+em agosto de 2009, o crescimento de edições, em termos de números de
+artigos e de colaboradores, parece ter estabilizado em torno do início
+de 2007. Em 2006, cerca de 1 800 artigos foram adicionados diariamente à
+enciclopédia; até 2010 essa média era de cerca de 1 000. A equipe do
+Palo Alto Research Center especulou que isso se deve ao aumento da
+exclusividade do projeto. Editores novos ou ocasionais têm taxas
+significativamente mais altas de suas edições revertidas (removidas) do
+que um grupo de elite de editores regulares, coloquialmente conhecido
+como a "panela". Isso poderá estar a tornar mais difícil para o projeto
+recrutar e reter novos colaboradores a longo prazo, resultando na
+estagnação da criação de novos artigos. Outros sugerem que o crescimento
+está a nivelar naturalmente, pois os artigos mais básicos já existem.
+
+Em novembro de 2009, uma tese de doutorado escrita por Felipe Ortega, um
+pesquisador da Universidade Rey Juan Carlos em Madrid, revelou que a
+Wikipédia em inglês havia perdido 49 000 editores nos primeiros três
+meses de 2009, enquanto que durante o mesmo período em 2008 o mesmo
+projeto perdeu apenas 4 900 editores. O The Wall Street Journal relatou
+que "um número sem precedentes de milhões de voluntários online que
+escrevem, editam e policiam a Wikipédia está desistindo." Entre as
+razões citadas no artigo para esta tendência encontram-se a matriz de
+regras aplicadas à edição e disputas relacionadas a tais conteúdos.
+Estas alegações foram contestadas por Jimmy Wales, que negou o declínio
+e questionou a metodologia do estudo.
+
+Em janeiro de 2007, a Wikipédia entrou na lista dos dez sites mais
+populares nos Estados Unidos, segundo a comScore Networks Inc. Com 42,9
+milhões de visitantes únicos e o 9º lugar, a Wikipédia superou os sites
+do The New York Times (10º) e Apple Inc. (11º). Foi um aumento
+significativo em relação a janeiro de 2006, quando o site estava
+posicionado no 33º lugar, com apenas 18,3 milhões de visitantes únicos.
+Em abril de 2011, a Wikipédia foi listada como o quinto site mais
+popular do mundo pela Google Inc.

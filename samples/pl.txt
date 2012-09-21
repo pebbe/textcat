@@ -1,0 +1,86 @@
+Zawartość Wikipedii jest wolna, co oznacza nie tylko, że jest bezpłatna,
+lecz także, że jej treść może być dowolnie kopiowana i modyfikowana
+przez każdego. Wikipedia jest wiki, co oznacza, że każdy, kto ma dostęp
+do Internetu, może ją edytować, dodając do niej nowe treści lub
+korygując błędy w starych poprzez proste kliknięcie na zakładkę "edytuj"
+i pisanie w sposób przypominający działanie prostego edytora tekstu.
+Teoretycznie z punktu widzenia budowania wiarygodnej encyklopedii
+dopuszczenie każdego do modyfikowania zawartości Wikipedii brzmi
+fatalnie, jednak w praktyce ze względu na znaczną przewagę osób
+edytujących w dobrej wierze nad osobami edytującymi w złej wierze,
+koncepcja otwartości Wikipedii sprawdza się. Wyjątkiem od zasady
+otwartości są tylko nieliczne hasła, które są zablokowane, takie jak np.
+Strona Główna, gdyż są one częstym celem aktów wandalizmu.
+
+Jakkolwiek poszczególne wersje językowe Wikipedii technicznie sprawiają
+wrażenie oddzielnych projektów, jest to w istocie jeden wielki,
+wielojęzyczny projekt, którego celem jest tworzenie największej
+encyklopedii we wszelkich możliwych językach. Poszczególne wersje
+językowe Wikipedii są tworzone przez różne grupy użytkowników i dlatego
+nie są one prostym tłumaczeniem jej wersji anglojęzycznej. Z drugiej
+jednak strony nie ma żadnych przeszkód, aby tłumaczyć wybrane artykuły z
+jednej wersji językowej na drugą, gdyż Wikipedia jest jednym projektem w
+wielu językach, funkcjonującym w oparciu o jedną licencję. Aby ułatwić
+nawigację między różnymi wersjami językowymi poszczególnych artykułów,
+istnieją specjalne linki interwiki.
+
+Zawartość Wikipedii nie jest kontrolowana przez ściśle określoną radę
+redakcyjną, lecz jest tworzona przez dynamicznie i spontanicznie
+rozwijającą się społeczność edytorów, do której każdy może w każdej
+chwili dołączyć, pod warunkiem, że akceptuje podstawowe zasady jej
+funkcjonowania. Społeczność ta w dużym stopniu sama ustala poprzez
+dyskusje i głosowania, w którym kierunku podąża to przedsięwzięcie. Brak
+rady redakcyjnej nie oznacza jednak, że treść artykułów nie jest przez
+nikogo weryfikowana. Proces recenzowania, znany z papierowych
+wydawnictw, jest w Wikipedii zastąpiony mechanizmem ciągłego wzajemnego
+poprawiania błędów przez wszystkich uczestników projektów.
+
+Ze względu na to, że Wikipedia znajduje się w permanentnym procesie
+tworzenia, w którym może wziąć udział każdy, kto chce, jeśli tylko
+akceptuje podstawowe zasady jego funkcjonowania, różni się ona znacząco
+od typowych encyklopedii wydawanych na papierze. Z tego względu należy
+korzystać z niej z pewną ostrożnością. Przy tym trybie tworzenia nie
+można zagwarantować, że nie zawiera ona błędów. Niemniej mechanizm
+wzajemnej kontroli jednych edytorów przez drugich powoduje, że zwykle
+artykuły stają się z czasem coraz lepsze. Stąd na ogół można mieć
+większe zaufanie do artykułów, które powstały dość dawno temu i były od
+tego czasu wielokrotnie edytowane. Jednak nawet w przypadku tego rodzaju
+artykułów istnieje ryzyko, że ktoś dodał do nich ostatnio fałszywe
+informacje lub że stały się one ofiarą wandalizmu. Jeżeli znalezione w
+Wikipedii informacje chcesz wykorzystywać np. w pracy, nauce lub innym
+funkcjonalnym celu, powinieneś zweryfikować je w innych źródłach,
+uważanych za wiarygodne. Tylko w ten sposób możesz ustrzec się
+wprowadzenia w błąd przez osoby, które mogły wolną encyklopedię
+potraktować jako platformę do uprawiania mistyfikacji. Najlepiej
+prześledź historię edycji artykułu i sprawdź, kto umieścił interesujące
+Cię informacje, wymaga to jednak pewnej pracy. Historia identyfikuje
+autorów zmian przez adres IP (wtedy jest to autor anonimowy) albo przez
+nazwę konta zarejestrowanego użytkownika, co jednak nie zawsze oznacza
+brak anonimowości. Aby to rozstrzygnąć, sprawdź na stronie danego konta,
+czy jest możliwe ustalenie elementarnych danych jego właściciela, i
+zweryfikuj ich związek z Wikipedią w innych miejscach, np. w Internecie.
+Mając takie informacje, będzie można pewniej oceniać wiarygodność
+autora, gdyż - choć nie jest to prawda absolutna - z praktyki
+wikipedystycznej wiadomo, że autorzy znani z prawdziwego imienia i
+nazwiska są rzetelniejsi niż anonimowi lub półanonimowi.
+
+Z drugiej jednak strony Wikipedia w porównaniu z tradycyjnymi
+encyklopediami znacznie szybciej reaguje na zachodzące w świecie zmiany.
+Dzięki możliwości szybkiego edytowania można w niej modyfikować artykuły
+dotyczące bieżących wydarzeń w chwilę po ich wystąpieniu. Ponadto dzięki
+temu, że nowe artykuły są pisane spontanicznie przez osoby
+zainteresowane ich tematyką, w Wikipedii można często znaleźć opisy
+zagadnień, które są całkowicie pomijane przez tradycyjne encyklopedie.
+Dlatego opracowane w Wikipedii hasła mogą bardziej przypominać artykuły
+na dany temat niż podawać suche dane.
+
+We wszystkich projektach Fundacji Wikimedia obowiązuje zasada śmiało
+edytuj, co oznacza, że nie trzeba nikogo pytać się o zgodę na
+dokonywanie zmian w wybranych przez siebie artykułach. Oprogramowanie
+MediaWiki, na którym oparta jest Wikipedia, zostało napisane w ten
+sposób, aby można było bez trudu odzyskać wcześniejsze wersje artykułów,
+dzięki czemu nie ma obawy, że w wyniku błędnej edycji popsuje się coś na
+trwałe. Należy jednak pamiętać, że inni również mają prawo do edytowania
+Wikipedii. Gdy pojawi się konflikt, należy się czasowo wstrzymać z
+edytowaniem i przedyskutować sprawę na odpowiedniej podstronie
+dyskusyjnej.
