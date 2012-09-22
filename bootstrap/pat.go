@@ -42,7 +42,7 @@ func (c countsType) Less(i, j int) bool {
 func getPatterns(s string, useRunes bool) ([]*countType) {
 	ngrams := make(map[string]int)
 	if useRunes {
-		s = re.ReplaceAllString(s, " ")
+		s = strings.ToLower(re.ReplaceAllString(s, " "))
 		for _, word := range strings.Fields(s) {
 			b := []rune("_" + word + "____")
 			n := len(b) - 4
