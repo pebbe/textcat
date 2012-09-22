@@ -45,7 +45,7 @@ func main() {
 
 			sep2 := "\n"
 			for n, p := range getPatterns(string(b), utf) {
-				fmt.Fprintf(out, "%s\t\t%q: %d", sep2, p.s, n + 1)
+				fmt.Fprintf(out, "%s\t\t%q: %d", sep2, p.s, n)
 				sep2 = ",\n"
 			}
 			fmt.Fprint(out, "}")

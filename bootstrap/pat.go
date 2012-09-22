@@ -14,7 +14,7 @@ const (
 )
 
 var (
-	re = regexp.MustCompile("[^\\p{L}]")
+	re = regexp.MustCompile("[^\\p{L}]+")
 )
 
 type countType struct {

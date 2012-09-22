@@ -15,6 +15,11 @@ const (
 	minDocSize     = 25
 )
 
+var (
+	errShort   = errors.New("SHORT")
+	errUnknown = errors.New("UNKNOWN")
+)
+
 type TextCat struct {
 	utf8 bool
 	lang map[string]bool
@@ -91,16 +96,18 @@ func (tc *TextCat) EnableLanguages(language ...string) {
 }
 
 func (tc *TextCat) Classify(text string) (languages []string, err error) {
-	languages = make([]string, 0)
+	languages = make([]string, 0, maxCandidates)
 
 	l := len(text)
 	if tc.utf8 {
 		l = utf8.RuneCountInString(text)
 	}
 	if l < minDocSize {
-		err = errors.New("SHORT")
+		err = errShort
 		return
 	}
+
+	patt := getPatterns(text, tc.utf8)
 
 	scores := make([]*resultType, 0, len(tc.lang))
 	data := dataRaw
@@ -111,38 +118,49 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 		if !tc.lang[lang] {
 			continue
 		}
-		patt := getPatterns(text, tc.utf8)
 		score := 0
 		for n, p := range patt {
 			i, ok := data[lang][p.s]
 			if !ok {
-				i = maxPatterns + 1
+				i = maxPatterns
 			}
-			score += abs(n + 1 - i)
+			if n > i {
+				score += n - i
+			} else {
+				score += i - n
+			}
 		}
 		scores = append(scores, &resultType{score, lang})
 	}
 
-	sort.Sort(resultsType(scores)) // TO DO: dit kan sneller, niet alles sorteren, maar alleen de scores onder de threshold
-
-	threshold := float64(scores[0].score) * thresholdValue
-
+	minScore := maxPatterns * maxPatterns
 	for _, sco := range scores {
-		if float64(sco.score) > threshold {
-			break
+		if sco.score < minScore {
+			minScore = sco.score
 		}
+	}
+	threshold := float64(minScore) * thresholdValue
+	nCandidates := 0
+	for _, sco := range scores {
+		if float64(sco.score) <= threshold {
+			nCandidates += 1
+		}
+	}
+	if nCandidates > maxCandidates {
+		err = errUnknown
+		return
+	}
+
+	lowScores := make([]*resultType, 0, nCandidates)
+	for _, sco := range scores {
+		if float64(sco.score) <= threshold {
+			lowScores = append(lowScores, sco)
+		}
+	}
+	sort.Sort(resultsType(lowScores))
+	for _, sco := range lowScores {
 		languages = append(languages, sco.lang)
 	}
-	if len(languages) > maxCandidates {
-		languages = languages[0:0]
-		err = errors.New("UNKNOWN")
-	}
-	return
-}
 
-func abs(i int) int {
-	if i < 0 {
-		return -i
-	}
-	return i
+	return
 }
