@@ -1,87 +1,1000 @@
-Wikipedia kan redigeras av vem som helst. Detta gör att encyklopedin är
-beroende av att ett stort antal välmenande skribenter som på frivillig
-basis håller efter den lilla grupp av skribenter som på olika sätt
-ställer till problem. Det sätt genom vilket materialet på Wikipedia
-skapas leder även till problem då felaktig och vinklad information kan
-läggas till. Grundtanken är dock att de flesta användare är intresserade
-av att bevara och skydda Wikipedia och att dessa därför snabbt kommer
-att återställa klotter och de bidrag som inte anses hålla tillräckligt
-hög standard. Arbetssättet bygger även på idén att samarbete och
-diskussion mellan alla användare leder till att gruppen i helhet
-utvecklas och att konsensus om vad som räknas som neutralt kan uppnås
-även i svårare frågor. Grundtankarna går alltså tvärt emot idén om att
-publiceringen av kunskap bör begränsas till en liten grupp utvalda och
-speciellt kunniga personer som producerar material i en hierarkisk
-arbetsdelning.
-
-Wikipedia innehåller också mekanismer som underlättar arbetet mot
-klotter, vandalisering och konflikter. En del användare väljs till
-administratörer, som har möjlighet att tillfälligt eller tillsvidare
-blockera användare som inte följer reglerna och hindra redigering av
-sidor som är föremål för attacker eller konflikter. Gemenskapen
-poängterar att administratörerna inte skall tillmätas större auktoritet
-i sak, utan endast stödja själva processen.
-
-En del användare förespråkar att man inför granskade versioner av
-artiklar, alltså märker versioner som har bedömts som tillförlitliga av
-etablerade användare. Det skulle då vara den versionen som i första hand
-syns för oregistrerade läsare.
-
-Innehållet i Wikipedia omfattas av juridiska skäl av lagstiftningen
-(särskilt lagen om upphovsrätt) i Florida där Wikipedias servrar
-befinner sig. Utöver detta är Wikipedias redaktionella principer
-sammanfattade i de så kallade "fem pelarna", och många policyer och
-riktlinjer syftar till att utforma innehållet på lämpligt sätt. Även
-dessa regler finns lagrade i wiki-form, och Wikipedia-redaktörer kan
-skriva och revidera dessa policyer och riktlinjer. Dessa riktlinjer och
-policyer tillämpas genom att Wikipedia-redaktörerna kan ta bort, märka
-eller ändra artikelmaterial som inte uppfyller dem. De regler som de
-icke-engelska utgåvorna av Wikipedia har baseras ofta på en översättning
-av reglerna på den engelska Wikipedia och har sedan ändrats i viss
-utsträckning. Medan de fortfarande visar stora likheter, skiljer de sig
-i många detaljer.
-
-Som Internetgemenskap betraktad har Wikipedia utvecklat en egen kultur
-och egna traditioner, som sammanfattas i fem grundpelare:
-
-Projektet är ett uppslagsverk, och bör endast innehålla ämnen som passar
-i ett uppslagsverk, information som kan verifieras i trovärdiga
-publicerade källor, och uppgifter som är av tillräckligt stort
-allmänintresse att ett flertal författare kan bidra till ämnet och
-bevaka artiklarnas kvalitet. Artiklar som inte uppfyller dessa kriterier
-kan raderas. I praktiken har Wikipedia dock ett bredare utbud av
-artiklar än tryckta uppslagsverk
-
-Projektet har öppet och fritt innehåll (Wikipedia använder sig av
-copyleftlicensen Creative Commons CC-BY-SA 3.0). Bilder och texter som
-bryter mot upphovsrätten får inte förekomma på Wikipedia utan raderas.
-Projektet drivs som en wiki, vilket betyder att alla artiklar (med några
-få undantag) kan redigeras av vem som helst, när som helst, och att vem
-som bidragit framgår av wikins historik. Det är fritt att använda
-Wikipedias texter i egna skrifter så länge man följer licensen.
-
-Wikipedia har etikettregler: författarna bör vara sakliga vid
-diskussioner, undvika konflikter och personangrepp, respektera
-konsensusbeslut och inte vandalisera. I annat fall kan
-användaridentiteten eller IP-adressen blockeras. Skrivandet diskuteras
-och beskrivs på sidor som inte ingår i själva uppslagsverket men likaså
-är allmänt tillgängliga, både diskussionssidor för enskilda artiklar och
-mer övergripande sidor. De flesta språkversionerna har en sida för
-allmän diskussion kring arbetet med Wikipedia, den på svenskspråkiga
-Wikipedia heter Bybrunnen.
-
-Wikipedia har inga fasta regler utöver målet att skriva en fri
-encyklopedi, utan endast riktlinjer som ständigt revideras för att
-återspegla den praxis som utvecklas. Riktlinjerna beskriver vad som kan
-raderas, vilken språklig stil man bör använda, hur beslut tas, och
-mycket annat. Riktlinjerna kan ignoreras då man bedömer att gemenskapen
-inte kommer att invända och att handlingen förbättrar uppslagsverket.
-Nybörjare behöver inte känna till riktlinjerna, utan också de uppmuntras
-att vara djärva och att förbättra uppslagsverket enligt eget omdöme.
-
-Principen skriv från en neutral utgångspunkt, ofta förkortad NPOV av
-engelskans neutral point of view, innebär att Wikipedia-artiklar inte
-ska ta ställning och vara vinklade, utan ska återspegla alla
-signifikanta aspekter av ett ämne. Författare bör ha ambitionen att
-presentera idéer och fakta på ett sådant sätt att både anhängare och
-kritiker kan vara överens om formuleringen.
+jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag jag 
+det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det det 
+är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är är 
+du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du du 
+inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte inte 
+att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att att 
+en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en 
+och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och och 
+har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har har 
+vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi vi 
+på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på på 
+i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i 
+för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för för 
+han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han han 
+vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad vad 
+med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med med 
+mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig 
+som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som som 
+här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här här 
+om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om om 
+dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig dig 
+var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var 
+den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den den 
+så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så så 
+till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till till 
+kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan kan 
+de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de 
+ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni ni 
+ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska ska 
+ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett ett 
+men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men men 
+av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av av 
+vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill vill 
+nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu 
+ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja 
+vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet vet 
+nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej nej 
+bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara 
+hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon hon 
+kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer kommer 
+hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur hur 
+min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min min 
+där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där där 
+honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom honom 
+gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör gör 
+måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste måste 
+kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom kom 
+din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din din 
+skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle skulle 
+då då då då då då då då då då då då då då då då då då då då då då då då då då då då då då då då då då då då 
+bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra bra 
+när när när när när när när när när när när när när när när när när när när när när när när när när när när när när när när när när när när 
+ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha 
+er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er 
+ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta 
+ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut ut 
+får får får får får får får får får får får får får får får får får får får får får får får får får får får får får får får får får 
+man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man 
+vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara vara 
+oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss oss 
+göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra göra 
+dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem dem 
+eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller eller 
+varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför varför 
+alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla 
+från från från från från från från från från från från från från från från från från från från från från från från från från från 
+upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp 
+tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror tror 
+okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej okej 
+igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen igen 
+sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa 
+tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack tack 
+gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå gå 
+hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade hade 
+sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig sig 
+in in in in in in in in in in in in in in in in in in in in in in in in 
+allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt 
+se se se se se se se se se se se se se se se se se se se se se se se 
+ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen ingen 
+få få få få få få få få få få få få få få få få få få få få få få 
+henne henne henne henne henne henne henne henne henne henne henne henne henne henne henne henne henne henne henne henne henne 
+lite lite lite lite lite lite lite lite lite lite lite lite lite lite lite lite lite lite lite lite lite 
+mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket mycket 
+vem vem vem vem vem vem vem vem vem vem vem vem vem vem vem vem vem vem vem vem 
+går går går går går går går går går går går går går går går går går går går går 
+ser ser ser ser ser ser ser ser ser ser ser ser ser ser ser ser ser ser ser ser 
+mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt mitt 
+hej hej hej hej hej hej hej hej hej hej hej hej hej hej hej hej hej hej hej 
+aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig aldrig 
+kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske kanske 
+nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt nåt 
+behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver behöver 
+finns finns finns finns finns finns finns finns finns finns finns finns finns finns finns finns finns 
+blir blir blir blir blir blir blir blir blir blir blir blir blir blir blir blir blir 
+än än än än än än än än än än än än än än än än 
+inget inget inget inget inget inget inget inget inget inget inget inget inget inget inget inget 
+efter efter efter efter efter efter efter efter efter efter efter efter efter efter efter efter 
+bli bli bli bli bli bli bli bli bli bli bli bli bli bli bli bli 
+ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju 
+två två två två två två två två två två två två två två två två 
+något något något något något något något något något något något något något något något 
+tar tar tar tar tar tar tar tar tar tar tar tar tar tar tar 
+tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka tillbaka 
+hans hans hans hans hans hans hans hans hans hans hans hans hans hans hans 
+över över över över över över över över över över över över över över över 
+sen sen sen sen sen sen sen sen sen sen sen sen sen sen sen 
+säger säger säger säger säger säger säger säger säger säger säger säger säger säger säger 
+ge ge ge ge ge ge ge ge ge ge ge ge ge ge ge 
+mer mer mer mer mer mer mer mer mer mer mer mer mer mer 
+ditt ditt ditt ditt ditt ditt ditt ditt ditt ditt ditt ditt ditt ditt 
+gjorde gjorde gjorde gjorde gjorde gjorde gjorde gjorde gjorde gjorde gjorde gjorde gjorde gjorde 
+mina mina mina mina mina mina mina mina mina mina mina mina mina mina 
+ner ner ner ner ner ner ner ner ner ner ner ner ner 
+åt åt åt åt åt åt åt åt åt åt åt åt åt 
+fan fan fan fan fan fan fan fan fan fan fan fan fan 
+någon någon någon någon någon någon någon någon någon någon någon någon någon 
+väl väl väl väl väl väl väl väl väl väl väl väl väl 
+nån nån nån nån nån nån nån nån nån nån nån nån 
+vänta vänta vänta vänta vänta vänta vänta vänta vänta vänta vänta vänta 
+också också också också också också också också också också också också 
+fick fick fick fick fick fick fick fick fick fick fick fick 
+mr mr mr mr mr mr mr mr mr mr mr mr 
+säga säga säga säga säga säga säga säga säga säga säga säga 
+år år år år år år år år år år år år 
+kunde kunde kunde kunde kunde kunde kunde kunde kunde kunde kunde 
+nog nog nog nog nog nog nog nog nog nog nog 
+låt låt låt låt låt låt låt låt låt låt låt 
+varit varit varit varit varit varit varit varit varit varit varit 
+hit hit hit hit hit hit hit hit hit hit hit 
+pappa pappa pappa pappa pappa pappa pappa pappa pappa pappa pappa 
+mamma mamma mamma mamma mamma mamma mamma mamma mamma mamma mamma 
+mot mot mot mot mot mot mot mot mot mot mot 
+andra andra andra andra andra andra andra andra andra andra andra 
+hela hela hela hela hela hela hela hela hela hela hela 
+detta detta detta detta detta detta detta detta detta detta detta 
+känner känner känner känner känner känner känner känner känner känner känner 
+vid vid vid vid vid vid vid vid vid vid vid 
+några några några några några några några några några några 
+komma komma komma komma komma komma komma komma komma komma 
+borde borde borde borde borde borde borde borde borde borde 
+rätt rätt rätt rätt rätt rätt rätt rätt rätt rätt 
+va va va va va va va va va va 
+menar menar menar menar menar menar menar menar menar 
+själv själv själv själv själv själv själv själv själv 
+alltid alltid alltid alltid alltid alltid alltid alltid alltid 
+hem hem hem hem hem hem hem hem hem 
+gjort gjort gjort gjort gjort gjort gjort gjort gjort 
+dina dina dina dina dina dina dina dina dina 
+ville ville ville ville ville ville ville ville ville 
+såg såg såg såg såg såg såg såg såg 
+titta titta titta titta titta titta titta titta titta 
+dag dag dag dag dag dag dag dag dag 
+verkligen verkligen verkligen verkligen verkligen verkligen verkligen verkligen verkligen 
+fel fel fel fel fel fel fel fel fel 
+utan utan utan utan utan utan utan utan utan 
+visst visst visst visst visst visst visst visst visst 
+tre tre tre tre tre tre tre tre tre 
+prata prata prata prata prata prata prata prata prata 
+vår vår vår vår vår vår vår vår 
+liv liv liv liv liv liv liv liv 
+sätt sätt sätt sätt sätt sätt sätt sätt 
+förstår förstår förstår förstår förstår förstår förstår förstår 
+älskar älskar älskar älskar älskar älskar älskar älskar 
+blev blev blev blev blev blev blev blev 
+tog tog tog tog tog tog tog tog 
+håll håll håll håll håll håll håll håll 
+dom dom dom dom dom dom dom dom 
+döda döda döda döda döda döda döda döda 
+tid tid tid tid tid tid tid tid 
+tycker tycker tycker tycker tycker tycker tycker tycker 
+sluta sluta sluta sluta sluta sluta sluta sluta 
+trodde trodde trodde trodde trodde trodde trodde trodde 
+gillar gillar gillar gillar gillar gillar gillar gillar 
+precis precis precis precis precis precis precis precis 
+säg säg säg säg säg säg säg säg 
+bort bort bort bort bort bort bort bort 
+sin sin sin sin sin sin sin sin 
+gång gång gång gång gång gång gång gång 
+inga inga inga inga inga inga inga inga 
+sir sir sir sir sir sir sir sir 
+tänker tänker tänker tänker tänker tänker tänker tänker 
+hör hör hör hör hör hör hör hör 
+veta veta veta veta veta veta veta 
+gud gud gud gud gud gud gud 
+bättre bättre bättre bättre bättre bättre bättre 
+just just just just just just just 
+berätta berätta berätta berätta berätta berätta berätta 
+många många många många många många många 
+barn barn barn barn barn barn barn 
+gick gick gick gick gick gick gick 
+god god god god god god god 
+hjälp hjälp hjälp hjälp hjälp hjälp hjälp 
+händer händer händer händer händer händer händer 
+under under under under under under under 
+sett sett sett sett sett sett sett 
+visste visste visste visste visste visste visste 
+innan innan innan innan innan innan innan 
+förlåt förlåt förlåt förlåt förlåt förlåt förlåt 
+helt helt helt helt helt helt helt 
+folk folk folk folk folk folk folk 
+pengar pengar pengar pengar pengar pengar pengar 
+död död död död död död död 
+första första första första första första första 
+hjälpa hjälpa hjälpa hjälpa hjälpa hjälpa hjälpa 
+ursäkta ursäkta ursäkta ursäkta ursäkta ursäkta ursäkta 
+snälla snälla snälla snälla snälla snälla snälla 
+länge länge länge länge länge länge 
+heter heter heter heter heter heter 
+jävla jävla jävla jävla jävla jävla 
+ledsen ledsen ledsen ledsen ledsen ledsen 
+stanna stanna stanna stanna stanna stanna 
+vart vart vart vart vart vart 
+helvete helvete helvete helvete helvete helvete 
+vilken vilken vilken vilken vilken vilken 
+hennes hennes hennes hennes hennes hennes 
+står står står står står står 
+saker saker saker saker saker saker 
+far far far far far far 
+borta borta borta borta borta borta 
+hallå hallå hallå hallå hallå hallå 
+håller håller håller håller håller håller 
+fortfarande fortfarande fortfarande fortfarande fortfarande fortfarande 
+kör kör kör kör kör kör 
+ur ur ur ur ur ur 
+hand hand hand hand hand hand 
+problem problem problem problem problem problem 
+ger ger ger ger ger ger 
+sak sak sak sak sak sak 
+morgon morgon morgon morgon morgon morgon 
+ens ens ens ens ens ens 
+åh åh åh åh åh åh 
+väg väg väg väg väg väg 
+vän vän vän vän vän vän 
+våra våra våra våra våra våra 
+mår mår mår mår mår 
+enda enda enda enda enda 
+hitta hitta hitta hitta hitta 
+kvar kvar kvar kvar kvar 
+samma samma samma samma samma 
+kväll kväll kväll kväll kväll 
+försöker försöker försöker försöker försöker 
+ute ute ute ute ute 
+vägen vägen vägen vägen vägen 
+namn namn namn namn namn 
+dit dit dit dit dit 
+ingenting ingenting ingenting ingenting ingenting 
+e e e e e 
+snart snart snart snart snart 
+fått fått fått fått fått 
+annan annan annan annan annan 
+väldigt väldigt väldigt väldigt väldigt 
+fru fru fru fru fru 
+längre längre längre längre längre 
+sitt sitt sitt sitt sitt 
+hände hände hände hände hände 
+herregud herregud herregud herregud herregud 
+redan redan redan redan redan 
+bästa bästa bästa bästa bästa 
+pratar pratar pratar pratar pratar 
+visa visa visa visa visa 
+kolla kolla kolla kolla kolla 
+tiden tiden tiden tiden tiden 
+slut slut slut slut slut 
+sedan sedan sedan sedan sedan 
+skit skit skit skit skit 
+härifrån härifrån härifrån härifrån härifrån 
+låter låter låter låter låter 
+tro tro tro tro tro 
+fram fram fram fram fram 
+fråga fråga fråga fråga fråga 
+era era era era era 
+jo jo jo jo jo 
+stor stor stor stor stor 
+träffa träffa träffa träffa träffa 
+varje varje varje varje varje 
+först först först först först 
+säkert säkert säkert säkert säkert 
+deras deras deras deras deras 
+börjar börjar börjar börjar börjar 
+åka åka åka åka åka 
+rädd rädd rädd rädd rädd 
+därför därför därför därför därför 
+jobb jobb jobb jobb jobb 
+lämna lämna lämna lämna lämna 
+hos hos hos hos 
+fem fem fem fem 
+tänkte tänkte tänkte tänkte 
+säker säker säker säker 
+hoppas hoppas hoppas hoppas 
+liten liten liten liten 
+genom genom genom genom 
+kunna kunna kunna kunna 
+ses ses ses ses 
+hörde hörde hörde hörde 
+nästa nästa nästa nästa 
+sex sex sex sex 
+livet livet livet livet 
+lyssna lyssna lyssna lyssna 
+son son son son 
+verkar verkar verkar verkar 
+dollar dollar dollar dollar 
+s s s s 
+bilen bilen bilen bilen 
+sista sista sista sista 
+vänner vänner vänner vänner 
+tag tag tag tag 
+hålla hålla hålla hålla 
+annat annat annat annat 
+riktigt riktigt riktigt riktigt 
+tala tala tala tala 
+dö dö dö dö 
+sant sant sant sant 
+klarar klarar klarar klarar 
+män män män män 
+sina sina sina sina 
+ihop ihop ihop ihop 
+gav gav gav gav 
+dra dra dra dra 
+nya nya nya nya 
+väntar väntar väntar väntar 
+vilket vilket vilket vilket 
+minuter minuter minuter minuter 
+ligger ligger ligger ligger 
+höra höra höra höra 
+världen världen världen världen 
+tills tills tills tills 
+lägg lägg lägg lägg 
+älskling älskling älskling älskling 
+denna denna denna denna 
+fyra fyra fyra fyra 
+åker åker åker åker 
+fast fast fast fast 
+människor människor människor människor 
+hemma hemma hemma hemma 
+klart klart klart klart 
+blivit blivit blivit blivit 
+idag idag idag idag 
+minns minns minns minns 
+betyder betyder betyder betyder 
+hämta hämta hämta hämta 
+lugnt lugnt lugnt lugnt 
+runt runt runt runt 
+helst helst helst helst 
+del del del del 
+sagt sagt sagt sagt 
+vårt vårt vårt vårt 
+rör rör rör rör 
+stora stora stora stora 
+tänk tänk tänk tänk 
+annars annars annars annars 
+inne inne inne inne 
+lilla lilla lilla lilla 
+öppna öppna öppna öppna 
+polisen polisen polisen 
+tur tur tur 
+även även även 
+spelar spelar spelar 
+lika lika lika 
+haft haft haft 
+illa illa illa 
+hittade hittade hittade 
+kvinna kvinna kvinna 
+ensam ensam ensam 
+släpp släpp släpp 
+ihåg ihåg ihåg 
+sånt sånt sånt 
+hört hört hört 
+ok ok ok 
+ändå ändå ändå 
+bil bil bil 
+faktiskt faktiskt faktiskt 
+fall fall fall 
+pa pa pa 
+nästan nästan nästan 
+gången gången gången 
+pengarna pengarna pengarna 
+ny ny ny 
+slå slå slå 
+kul kul kul 
+natt natt natt 
+spela spela spela 
+ifrån ifrån ifrån 
+dog dog dog 
+långt långt långt 
+börja börja börja 
+senare senare senare 
+killen killen killen 
+bäst bäst bäst 
+fort fort fort 
+emot emot emot 
+be be be 
+heller heller heller 
+gott gott gott 
+huset huset huset 
+kille kille kille 
+tillsammans tillsammans tillsammans 
+trevligt trevligt trevligt 
+plats plats plats 
+hus hus hus 
+ringer ringer ringer 
+hittar hittar hittar 
+familj familj familj 
+bor bor bor 
+sitter sitter sitter 
+tio tio tio 
+hänt hänt hänt 
+vilka vilka vilka 
+klara klara klara 
+redo redo redo 
+vilja vilja vilja 
+jobbar jobbar jobbar 
+stan stan stan 
+dr dr dr 
+fattar fattar fattar 
+gammal gammal gammal 
+äta äta äta 
+dörren dörren dörren 
+glad glad glad 
+dödade dödade dödade 
+ert ert ert 
+tyst tyst tyst 
+chans chans chans 
+försökte försökte försökte 
+rum rum rum 
+känns känns känns 
+båda båda båda 
+vore vore vore 
+gamla gamla gamla 
+tänka tänka tänka 
+nära nära nära 
+klockan klockan klockan 
+svårt svårt svårt 
+gått gått gått 
+ber ber ber 
+par par par 
+lever lever lever 
+gärna gärna gärna 
+dessa dessa dessa 
+mannen mannen mannen 
+all all all 
+mrs mrs mrs 
+dagar dagar dagar 
+bryr bryr bryr 
+ord ord ord 
+ibland ibland ibland 
+klar klar klar 
+fint fint fint 
+iväg iväg iväg 
+bror bror bror 
+gånger gånger gånger 
+kommit kommit kommit 
+ännu ännu ännu 
+galen galen galen 
+låta låta låta 
+l l l 
+a a a 
+rädda rädda rädda 
+dags dags dags 
+dör dör dör 
+mor mor mor 
+bakom bakom bakom 
+mellan mellan mellan 
+oroa oroa oroa 
+sån sån sån 
+ringa ringa ringa 
+timmar timmar timmar 
+john john john 
+fler fler fler 
+skynda skynda skynda 
+kapten kapten kapten 
+killar killar killar 
+mat mat mat 
+stannar stannar 
+alls alls 
+jack jack 
+stå stå 
+försök försök 
+känna känna 
+leva leva 
+jobbet jobbet 
+vapen vapen 
+dotter dotter 
+kände kände 
+ben ben 
+började började 
+varandra varandra 
+glöm glöm 
+igenom igenom 
+egen egen 
+uppe uppe 
+flicka flicka 
+miss miss 
+ring ring 
+räcker räcker 
+skull skull 
+stället stället 
+idiot idiot 
+kvinnor kvinnor 
+lnte lnte 
+herr herr 
+syster syster 
+dagen dagen 
+skolan skolan 
+talar talar 
+lätt lätt 
+fin fin 
+fanns fanns 
+nere nere 
+new new 
+ikväll ikväll 
+sätta sätta 
+idé idé 
+vatten vatten 
+handlar handlar 
+följa följa 
+roligt roligt 
+reda reda 
+följer följer 
+ganska ganska 
+vacker vacker 
+lovar lovar 
+flytta flytta 
+kallar kallar 
+bad bad 
+fara fara 
+fortsätt fortsätt 
+försöka försöka 
+tagit tagit 
+någonting någonting 
+eftersom eftersom 
+hatar hatar 
+lång lång 
+stort stort 
+skall skall 
+lära lära 
+dödar dödar 
+köra köra 
+grabben grabben 
+förut förut 
+hjälper hjälper 
+ringde ringde 
+antar antar 
+lugn lugn 
+jaså jaså 
+perfekt perfekt 
+undan undan 
+the the 
+skicka skicka 
+utanför utanför 
+letar letar 
+ont ont 
+kompis kompis 
+stoppa stoppa 
+plan plan 
+betala betala 
+imorgon imorgon 
+önskar önskar 
+stämmer stämmer 
+nummer nummer 
+drar drar 
+snäll snäll 
+nytt nytt 
+huvudet huvudet 
+stick stick 
+gifta gifta 
+tom tom 
+kalla kalla 
+självklart självklart 
+mest mest 
+natten natten 
+full full 
+sidan sidan 
+herre herre 
+kärlek kärlek 
+följ följ 
+sent sent 
+t t 
+månader månader 
+lär lär 
+jobba jobba 
+käften käften 
+hoppa hoppa 
+sätter sätter 
+slår slår 
+ställe ställe 
+snabbt snabbt 
+vadå vadå 
+berättade berättade 
+pojke pojke 
+lugna lugna 
+skriva skriva 
+saken saken 
+direkt direkt 
+d d 
+köpa köpa 
+före före 
+tittar tittar 
+sova sova 
+någonsin någonsin 
+kort kort 
+äter äter 
+tjej tjej 
+sköt sköt 
+hittat hittat 
+vecka vecka 
+sticker sticker 
+gäller gäller 
+sanningen sanningen 
+nå nå 
+roll roll 
+viktigt viktigt 
+tänkt tänkt 
+ögon ögon 
+föräldrar föräldrar 
+tyckte tyckte 
+välkommen välkommen 
+herrar herrar 
+lita lita 
+ar ar 
+lämnade lämnade 
+skjuta skjuta 
+n n 
+oh oh 
+resten resten 
+hjärta hjärta 
+lycka lycka 
+vidare vidare 
+hända hända 
+lämnar lämnar 
+sitta sitta 
+veckor veckor 
+satt satt 
+dum dum 
+sju sju 
+hårt hårt 
+använda använda 
+frank frank 
+undrar undrar 
+sida sida 
+flera flera 
+svara svara 
+fixa fixa 
+egentligen egentligen 
+trött trött 
+medan medan 
+träffas träffas 
+allihop allihop 
+blod blod 
+alltså alltså 
+lägga lägga 
+ursäkt ursäkt 
+förstå förstå 
+pratade pratade 
+små små 
+älskade älskade 
+val val 
+kära kära 
+inom inom 
+vissa vissa 
+miljoner miljoner 
+barnen barnen 
+tv tv 
+tyvärr tyvärr 
+land land 
+igår igår 
+tidigare tidigare 
+visar visar 
+skyldig skyldig 
+typ typ 
+jävel jävel 
+arg arg 
+massa massa 
+order order 
+york york 
+gift gift 
+r r 
+konstigt konstigt 
+varsågod varsågod 
+kaffe kaffe 
+hämtar hämtar 
+sam sam 
+o o 
+skjut skjut 
+spring spring 
+läget läget 
+jaha jaha 
+förklara förklara 
+slog slog 
+otroligt otroligt 
+tillräckligt tillräckligt 
+mindre mindre 
+själva själva 
+synd synd 
+åtta åtta 
+toppen toppen 
+hälsa hälsa 
+riktig riktig 
+misstag misstag 
+ögonblick ögonblick 
+läsa läsa 
+slåss slåss 
+sjuk sjuk 
+goda goda 
+igång igång 
+betalar betalar 
+tjänst tjänst 
+strax 
+dricka 
+polis 
+frågor 
+historia 
+sägs 
+middag 
+fart 
+absolut 
+stund 
+bo 
+behövde 
+förbi 
+george 
+lägger 
+joe 
+la 
+krig 
+möjligt 
+framför 
+såna 
+flickan 
+fortsätta 
+david 
+skiten 
+skjuter 
+slutar 
+jorden 
+händerna 
+resa 
+pâ 
+omkring 
+ung 
+hemskt 
+fungerar 
+enkelt 
+frågar 
+förra 
+exakt 
+tja 
+dåligt 
+snackar 
+berättar 
+hund 
+m 
+skrev 
+doktorn 
+ansikte 
+lät 
+arbete 
+träffade 
+förrän 
+huvud 
+landet 
+allting 
+nånsin 
+trevlig 
+använder 
+guds 
+överallt 
+förr 
+jobbat 
+värre 
+skriver 
+saknar 
+inför 
+åkte 
+större 
+vänster 
+höll 
+michael 
+kriget 
+tiii 
+familjen 
+ögonen 
+rakt 
+egna 
+dess 
+behöva 
+charlie 
+bör 
+vinna 
+skaffa 
+brukar 
+person 
+glömde 
+frågade 
+låg 
+senaste 
+stod 
+leta 
+annorlunda 
+damer 
+javisst 
+tvungen 
+grund 
+söker 
+jesus 
+eget 
+grabbar 
+brukade 
+aning 
+smart 
+älska 
+enligt 
+eld 
+underbart 
+största 
+sover 
+början 
+vinner 
+www 
+menade 
+chefen 
+veckan 
+fred 
+råd 
+dan 
+general 
+sekunder 
+fantastiskt 
+ofta 
+pojken 
+må 
+vakna 
+lyssnar 
+uppfattat 
+nånting 
+lngen 
+dålig 
+kläder 
+fortsätter 
+rummet 
+harry 
+höger 
+kropp 
+andas 
+mike 
+timme 
+peter 
+öl 
+skada 
+ned 
+människa 
+vita 
+telefon 
+snygg 
+kung 
+passar 
+värld 
+vattnet 
+farbror 
+kvinnan 
+svart 
+hår 
+orolig 
+kallas 
+röra 
+snacka 
+arbetar 
+lycklig 
+bär 
+fixar 
+ers 
+oj 
+ställa 
+dansa 
+tjejen 
+försiktig 
+skickade 
+jimmy 
+allvar 
+max 
+adjö 
+planet 
+usa 
+pojkar 
+levande 
+naturligtvis 
+alldeles 
+beklagar 
+bob 
+akta 
+tjejer 
+svar 
+hel 
+finnas 
+staden 
+fri 
+paul 
+träffat 
+djur 
+vackert 
+särskilt 
+körde 
+förlorade 
+gett 
+läkare 
+ljuger 
+nio 
+döden 
+försvinn 
+kvällen 
+nånstans 
+skojar 
+fängelse 
+ända 
+stark 
+raring 
+förlora 
+litet 
+affärer 
+stopp 
+skydda 
+bok 
+sticka 
+skickar 
+funkar 
+advokat 
+meter 
+duktig 
+olika 
+sälja 
+jösses 
+f 
+h 
+flickor 
+mark 
+fader 
+problemet 
+bevis 
+rätta 
+berättat 
+kasta 
+tredje 
+stolt 
+stäng 
+meddelande 
+söt 
+mord 
+behövs 
+film 
+spel 
+mej 
+gatan 
+satte 
+underbar 
+jävlar 
+köpte 
+james 
+frun 
+dar 
+sjukhuset 
+gillade 
+glömma 
+tacka 
+johnny 
+dröm 
+hungrig 
+ordna 
+äntligen 
+fina 
+dödat 
+baby 
+räddade 
+snyggt 
+b 
+riktiga 
+sov 
+intressant 
+slutet 
+musik 
+högt 
+samtal 
+försiktigt 
+istället 
+speciellt 
+nyheter 
+barnet 
+förutom 
+sättet 
+j 
+skitsnack 
+chef 
+ungefär 
+svarta 
+åtminstone 
+klarade 
+fröken 
+glömt 
+frågan 
+trots 
+da 
+fest 
