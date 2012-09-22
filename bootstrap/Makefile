@@ -12,3 +12,4 @@ bootstrap: pat.go bootstrap.go
 
 ../data.go: bootstrap ../samples*/*.txt
 	./bootstrap ../samples*/*.txt
+	gofmt -w ../data.go
