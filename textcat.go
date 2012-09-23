@@ -47,23 +47,19 @@ func (r resultsType) Less(i, j int) bool {
 	return r[i].lang < r[j].lang
 }
 
-func NewTextCat(enableUtf8, enableRaw bool) *TextCat {
-	tc := &TextCat{utf8: enableUtf8, raw: enableRaw, lang: make(map[string]bool)}
+func NewTextCat() *TextCat {
+	tc := &TextCat{lang: make(map[string]bool)}
 	for d := range data {
-		tc.lang[d] = true
+		tc.lang[d] = false
 	}
 	return tc
 }
 
 func (tc *TextCat) ActiveLanguages() []string {
 	a := make([]string, 0, len(tc.lang))
-	for l := range tc.lang {
-		if tc.lang[l] {
-			if tc.utf8 && strings.HasSuffix(l, ".utf8") {
-				a = append(a, l)
-			} else if tc.raw && strings.HasSuffix(l, ".raw") {
-				a = append(a, l)
-			}
+	for lang := range tc.lang {
+		if tc.lang[lang] {
+			a = append(a, lang)
 		}
 	}
 	sort.Strings(a)
@@ -72,8 +68,8 @@ func (tc *TextCat) ActiveLanguages() []string {
 
 func (tc *TextCat) AvailableLanguages() []string {
 	a := make([]string, 0, len(tc.lang))
-	for l := range tc.lang {
-		a = append(a, l)
+	for lang := range tc.lang {
+		a = append(a, lang)
 	}
 	sort.Strings(a)
 	return a
@@ -85,30 +81,69 @@ func (tc *TextCat) DisableLanguages(language ...string) {
 			tc.lang[lang] = false
 		}
 	}
-}
-
-func (tc *TextCat) DisableRawLanguages() {
 	tc.raw = false
+	tc.utf8 = false
+	for lang := range tc.lang {
+		if tc.lang[lang] {
+			if !tc.raw && strings.HasSuffix(lang, ".raw") {
+				tc.raw = true
+			} else if !tc.utf8 && strings.HasSuffix(lang, ".utf8") {
+				tc.utf8 = true
+			}
+			if tc.raw && tc.utf8 {
+				break
+			}
+		}
+	}
 }
 
-func (tc *TextCat) DisableUtf8Languages() {
+func (tc *TextCat) DisableAllRawLanguages() {
+	tc.raw = false
+	for lang := range tc.lang {
+		if strings.HasSuffix(lang, ".raw") {
+			tc.lang[lang] = false
+		}
+	}
+}
+
+func (tc *TextCat) DisableAllUtf8Languages() {
 	tc.utf8 = false
+	for lang := range tc.lang {
+		if strings.HasSuffix(lang, ".utf8") {
+			tc.lang[lang] = false
+		}
+	}
 }
 
 func (tc *TextCat) EnableLanguages(language ...string) {
 	for _, lang := range language {
 		if _, exists := tc.lang[lang]; exists {
 			tc.lang[lang] = true
+			if strings.HasSuffix(lang, ".raw") {
+				tc.raw = true
+			} else if strings.HasSuffix(lang, ".utf8") {
+				tc.utf8 = true
+			}
 		}
 	}
 }
 
-func (tc *TextCat) EnableRawLanguages() {
-	tc.raw = true
+func (tc *TextCat) EnableAllRawLanguages() {
+	for lang := range tc.lang {
+		if strings.HasSuffix(lang, ".raw") {
+			tc.lang[lang] = true
+			tc.raw = true
+		}
+	}
 }
 
-func (tc *TextCat) EnableUtf8Languages() {
-	tc.utf8 = true
+func (tc *TextCat) EnableAllUtf8Languages() {
+	for lang := range tc.lang {
+		if strings.HasSuffix(lang, ".utf8") {
+			tc.lang[lang] = true
+			tc.utf8 = true
+		}
+	}
 }
 
 func (tc *TextCat) Classify(text string) (languages []string, err error) {
