@@ -153,7 +153,7 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 		err = errShort
 		return
 	}
-	if tc.utf8 && utf8.RuneCountInString(text) < minDocSize {
+	if tc.utf8 && utf8.RuneCountInString(strings.TrimSpace(reInvalid.ReplaceAllString(text, " "))) < minDocSize {
 		err = errShort
 		return
 	}
