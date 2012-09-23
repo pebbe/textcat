@@ -3,8 +3,8 @@
 
 package textcat
 
-var dataUtf8 = map[string]map[string]int{
-	"af": {
+var data = map[string]map[string]int{
+	"af.utf8": {
 		"_":     0,
 		"e":     1,
 		"i":     2,
@@ -405,7 +405,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ki":    397,
 		"lon":   398,
 		"long":  399},
-	"ar": {
+	"ar.utf8": {
 		"_":     0,
 		"ا":     1,
 		"ل":     2,
@@ -806,7 +806,7 @@ var dataUtf8 = map[string]map[string]int{
 		"بعد_":  397,
 		"تق":    398,
 		"حر_":   399},
-	"bg": {
+	"bg.utf8": {
 		"_":     0,
 		"а":     1,
 		"и":     2,
@@ -1207,7 +1207,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ори_":  397,
 		"при":   398,
 		"ра_":   399},
-	"ca": {
+	"ca.utf8": {
 		"_":     0,
 		"a":     1,
 		"e":     2,
@@ -1608,7 +1608,7 @@ var dataUtf8 = map[string]map[string]int{
 		"xe":    397,
 		"ça":    398,
 		"_al":   399},
-	"cs": {
+	"cs.utf8": {
 		"_":     0,
 		"e":     1,
 		"o":     2,
@@ -2009,7 +2009,7 @@ var dataUtf8 = map[string]map[string]int{
 		"se_":   397,
 		"ské":   398,
 		"sou":   399},
-	"cy": {
+	"cy.utf8": {
 		"_":     0,
 		"a":     1,
 		"y":     2,
@@ -2410,7 +2410,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_am":   397,
 		"_nif":  398,
 		"_nife": 399},
-	"da": {
+	"da.utf8": {
 		"_":     0,
 		"e":     1,
 		"d":     2,
@@ -2811,7 +2811,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ro":    397,
 		"_hav":  398,
 		"ave":   399},
-	"de": {
+	"de.utf8": {
 		"_":     0,
 		"e":     1,
 		"i":     2,
@@ -3212,7 +3212,7 @@ var dataUtf8 = map[string]map[string]int{
 		"at_":   397,
 		"geh":   398,
 		"hat_":  399},
-	"el": {
+	"el.utf8": {
 		"_":     0,
 		"α":     1,
 		"τ":     2,
@@ -3613,7 +3613,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ήτη":   397,
 		"ίο":    398,
 		"αντιν": 399},
-	"en": {
+	"en.utf8": {
 		"_":     0,
 		"e":     1,
 		"t":     2,
@@ -4014,7 +4014,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_but_": 397,
 		"_wel":  398,
 		"but":   399},
-	"eo": {
+	"eo.utf8": {
 		"_":     0,
 		"a":     1,
 		"n":     2,
@@ -4415,7 +4415,7 @@ var dataUtf8 = map[string]map[string]int{
 		"platz": 397,
 		"ram":   398,
 		"rbf":   399},
-	"es": {
+	"es.utf8": {
 		"_":     0,
 		"e":     1,
 		"a":     2,
@@ -4816,7 +4816,7 @@ var dataUtf8 = map[string]map[string]int{
 		"son":   397,
 		"ten":   398,
 		"va":    399},
-	"et": {
+	"et.utf8": {
 		"_":     0,
 		"a":     1,
 		"e":     2,
@@ -5217,7 +5217,7 @@ var dataUtf8 = map[string]map[string]int{
 		"hä":    397,
 		"ide":   398,
 		"iga":   399},
-	"eu": {
+	"eu.utf8": {
 		"_":     0,
 		"a":     1,
 		"e":     2,
@@ -5618,7 +5618,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ute":   397,
 		"uten":  398,
 		"uten_": 399},
-	"fa": {
+	"fa.utf8": {
 		"_":     0,
 		"ا":     1,
 		"ی":     2,
@@ -6019,7 +6019,7 @@ var dataUtf8 = map[string]map[string]int{
 		"متد":   397,
 		"متدا":  398,
 		"متداد": 399},
-	"fi": {
+	"fi.utf8": {
 		"_":     0,
 		"a":     1,
 		"i":     2,
@@ -6420,7 +6420,7 @@ var dataUtf8 = map[string]map[string]int{
 		"smo":   397,
 		"smou":  398,
 		"smout": 399},
-	"fr": {
+	"fr.utf8": {
 		"_":     0,
 		"e":     1,
 		"s":     2,
@@ -6821,7 +6821,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ec":    397,
 		"out_":  398,
 		"bo":    399},
-	"fy": {
+	"fy.utf8": {
 		"_":     0,
 		"e":     1,
 		"n":     2,
@@ -7222,7 +7222,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_al":   397,
 		"_dê":   398,
 		"_dêr":  399},
-	"ga": {
+	"ga.utf8": {
 		"_":     0,
 		"a":     1,
 		"i":     2,
@@ -7623,7 +7623,7 @@ var dataUtf8 = map[string]map[string]int{
 		"faoi_": 397,
 		"gc":    398,
 		"hne":   399},
-	"gd": {
+	"gd.utf8": {
 		"_":     0,
 		"a":     1,
 		"h":     2,
@@ -8024,7 +8024,7 @@ var dataUtf8 = map[string]map[string]int{
 		"gu_":   397,
 		"heal":  398,
 		"heara": 399},
-	"he": {
+	"he.utf8": {
 		"_":     0,
 		"ה":     1,
 		"י":     2,
@@ -8425,7 +8425,7 @@ var dataUtf8 = map[string]map[string]int{
 		"בר_":   397,
 		"דת":    398,
 		"דת_":   399},
-	"hi": {
+	"hi.utf8": {
 		"_":     0,
 		"र":     1,
 		"क":     2,
@@ -8826,7 +8826,7 @@ var dataUtf8 = map[string]map[string]int{
 		"रथ":    397,
 		"रथम":   398,
 		"रथम_":  399},
-	"hr": {
+	"hr.utf8": {
 		"_":     0,
 		"a":     1,
 		"o":     2,
@@ -9227,7 +9227,7 @@ var dataUtf8 = map[string]map[string]int{
 		"mačk":  397,
 		"nja_":  398,
 		"njema": 399},
-	"hu": {
+	"hu.utf8": {
 		"_":     0,
 		"e":     1,
 		"t":     2,
@@ -9628,7 +9628,7 @@ var dataUtf8 = map[string]map[string]int{
 		"gy_":   397,
 		"ig":    398,
 		"ik_":   399},
-	"ia": {
+	"ia.utf8": {
 		"_":     0,
 		"e":     1,
 		"a":     2,
@@ -10029,7 +10029,7 @@ var dataUtf8 = map[string]map[string]int{
 		"usa":   397,
 		"_du":   398,
 		"_exp":  399},
-	"id": {
+	"id.utf8": {
 		"a":     0,
 		"_":     1,
 		"i":     2,
@@ -10430,7 +10430,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_dari": 397,
 		"aru":   398,
 		"ih_":   399},
-	"is": {
+	"is.utf8": {
 		"_":     0,
 		"a":     1,
 		"i":     2,
@@ -10831,7 +10831,7 @@ var dataUtf8 = map[string]map[string]int{
 		"du":    397,
 		"e_":    398,
 		"eins":  399},
-	"it": {
+	"it.utf8": {
 		"_":     0,
 		"e":     1,
 		"i":     2,
@@ -11232,7 +11232,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ono":   397,
 		"rc":    398,
 		"rd":    399},
-	"ja": {
+	"ja.utf8": {
 		"_":     0,
 		"の":     1,
 		"に":     2,
@@ -11633,7 +11633,7 @@ var dataUtf8 = map[string]map[string]int{
 		"位":     397,
 		"定":     398,
 		"最":     399},
-	"kk": {
+	"kk.utf8": {
 		"а":     0,
 		"_":     1,
 		"ы":     2,
@@ -12034,7 +12034,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_өнер": 397,
 		"ай_":   398,
 		"ама":   399},
-	"ko": {
+	"ko.utf8": {
 		"_":     0,
 		"이":     1,
 		"로":     2,
@@ -12435,7 +12435,7 @@ var dataUtf8 = map[string]map[string]int{
 		"삼":     397,
 		"시대에":   398,
 		"야":     399},
-	"la": {
+	"la.utf8": {
 		"_":     0,
 		"i":     1,
 		"e":     2,
@@ -12836,7 +12836,7 @@ var dataUtf8 = map[string]map[string]int{
 		"av":    397,
 		"bat":   398,
 		"cr":    399},
-	"lb": {
+	"lb.utf8": {
 		"_":     0,
 		"e":     1,
 		"n":     2,
@@ -13237,7 +13237,7 @@ var dataUtf8 = map[string]map[string]int{
 		"mi":    397,
 		"mm":    398,
 		"nert":  399},
-	"lt": {
+	"lt.utf8": {
 		"_":     0,
 		"i":     1,
 		"a":     2,
@@ -13638,7 +13638,7 @@ var dataUtf8 = map[string]map[string]int{
 		"lo":    397,
 		"lsi":   398,
 		"mu":    399},
-	"lv": {
+	"lv.utf8": {
 		"_":     0,
 		"i":     1,
 		"a":     2,
@@ -14039,7 +14039,7 @@ var dataUtf8 = map[string]map[string]int{
 		"sī":    397,
 		"tika":  398,
 		"ut":    399},
-	"ms": {
+	"ms.utf8": {
 		"a":     0,
 		"_":     1,
 		"n":     2,
@@ -14440,7 +14440,7 @@ var dataUtf8 = map[string]map[string]int{
 		"una":   397,
 		"_ce":   398,
 		"_ne":   399},
-	"nl": {
+	"nl.utf8": {
 		"_":     0,
 		"e":     1,
 		"n":     2,
@@ -14841,7 +14841,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ok":    397,
 		"_kan":  398,
 		"kan":   399},
-	"no": {
+	"no.utf8": {
 		"_":     0,
 		"e":     1,
 		"n":     2,
@@ -15242,7 +15242,7 @@ var dataUtf8 = map[string]map[string]int{
 		"kommu": 397,
 		"med":   398,
 		"mmu":   399},
-	"pl": {
+	"pl.utf8": {
 		"_":     0,
 		"e":     1,
 		"i":     2,
@@ -15643,7 +15643,7 @@ var dataUtf8 = map[string]map[string]int{
 		"kl":    397,
 		"mi_":   398,
 		"nac":   399},
-	"pt": {
+	"pt.utf8": {
 		"_":     0,
 		"e":     1,
 		"a":     2,
@@ -16044,7 +16044,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_enci": 397,
 		"_esta": 398,
 		"_foi":  399},
-	"ro": {
+	"ro.utf8": {
 		"_":     0,
 		"a":     1,
 		"e":     2,
@@ -16445,7 +16445,7 @@ var dataUtf8 = map[string]map[string]int{
 		"sta":   397,
 		"th":    398,
 		"tre":   399},
-	"ru": {
+	"ru.utf8": {
 		"_":     0,
 		"и":     1,
 		"о":     2,
@@ -16846,7 +16846,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_те":   397,
 		"_явл":  398,
 		"_явля": 399},
-	"sk": {
+	"sk.utf8": {
 		"_":     0,
 		"o":     1,
 		"a":     2,
@@ -17247,7 +17247,7 @@ var dataUtf8 = map[string]map[string]int{
 		"nes":   397,
 		"ngr":   398,
 		"ngre":  399},
-	"sl": {
+	"sl.utf8": {
 		"_":     0,
 		"a":     1,
 		"e":     2,
@@ -17648,7 +17648,7 @@ var dataUtf8 = map[string]map[string]int{
 		"bolj":  397,
 		"bur":   398,
 		"burg":  399},
-	"sr": {
+	"sr.utf8": {
 		"_":     0,
 		"а":     1,
 		"о":     2,
@@ -18049,7 +18049,7 @@ var dataUtf8 = map[string]map[string]int{
 		"или":   397,
 		"ир":    398,
 		"ка_":   399},
-	"sv": {
+	"sv.utf8": {
 		"_":     0,
 		"a":     1,
 		"e":     2,
@@ -18450,7 +18450,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ns_":   397,
 		"nä":    398,
 		"ste":   399},
-	"sw": {
+	"sw.utf8": {
 		"a":     0,
 		"_":     1,
 		"i":     2,
@@ -18851,7 +18851,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_zi":   397,
 		"ag":    398,
 		"alip":  399},
-	"ta": {
+	"ta.utf8": {
 		"_":     0,
 		"த":     1,
 		"த_":    2,
@@ -19252,7 +19252,7 @@ var dataUtf8 = map[string]map[string]int{
 		"யரச":   397,
 		"ரம":    398,
 		"ரம_":   399},
-	"tl": {
+	"tl.utf8": {
 		"a":     0,
 		"_":     1,
 		"n":     2,
@@ -19653,7 +19653,7 @@ var dataUtf8 = map[string]map[string]int{
 		"tan":   397,
 		"u_":    398,
 		"ud":    399},
-	"tr": {
+	"tr.utf8": {
 		"_":     0,
 		"a":     1,
 		"r":     2,
@@ -20054,7 +20054,7 @@ var dataUtf8 = map[string]map[string]int{
 		"_ço":   397,
 		"adı":   398,
 		"ae":    399},
-	"uk": {
+	"uk.utf8": {
 		"_":     0,
 		"о":     1,
 		"а":     2,
@@ -20455,7 +20455,7 @@ var dataUtf8 = map[string]map[string]int{
 		"ка_":   397,
 		"ло":    398,
 		"ля_":   399},
-	"ur": {
+	"ur.utf8": {
 		"_":     0,
 		"ا":     1,
 		"ی":     2,
@@ -20856,7 +20856,7 @@ var dataUtf8 = map[string]map[string]int{
 		"خل":    397,
 		"دگ":    398,
 		"دگی":   399},
-	"vi": {
+	"vi.utf8": {
 		"_":     0,
 		"n":     1,
 		"h":     2,
@@ -21257,7 +21257,7 @@ var dataUtf8 = map[string]map[string]int{
 		"guồ":   397,
 		"guồn":  398,
 		"guồn_": 399},
-	"vo": {
+	"vo.utf8": {
 		"_":     0,
 		"n":     1,
 		"e":     2,
@@ -21658,7 +21658,7 @@ var dataUtf8 = map[string]map[string]int{
 		"mon_":  397,
 		"nam":   398,
 		"nöl":   399},
-	"yi": {
+	"yi.utf8": {
 		"_":     0,
 		"י":     1,
 		"א":     2,
@@ -22059,7 +22059,7 @@ var dataUtf8 = map[string]map[string]int{
 		"נדערע": 397,
 		"נו":    398,
 		"נציק":  399},
-	"yo": {
+	"yo.utf8": {
 		"_":     0,
 		"i":     1,
 		"a":     2,
@@ -22460,7 +22460,7 @@ var dataUtf8 = map[string]map[string]int{
 		"rt":    397,
 		"su_":   398,
 		"t_":    399},
-	"zh": {
+	"zh.utf8": {
 		"_":     0,
 		"中":     1,
 		"的":     2,
@@ -22860,10 +22860,8 @@ var dataUtf8 = map[string]map[string]int{
 		"权":     396,
 		"权_":    397,
 		"梯":     398,
-		"梯_":    399}}
-
-var dataRaw = map[string]map[string]int{
-	"af": {
+		"梯_":    399},
+	"af.raw": {
 		"_":          0,
 		"e":          1,
 		"i":          2,
@@ -23264,7 +23262,7 @@ var dataRaw = map[string]map[string]int{
 		"argip":      397,
 		"der_":       398,
 		"gip":        399},
-	"ar": {
+	"ar.raw": {
 		"\xd8":      0,
 		"\xd9":      1,
 		"_":         2,
@@ -23665,7 +23663,7 @@ var dataRaw = map[string]map[string]int{
 		"أو":        397,
 		"ار":        398,
 		"ام_":       399},
-	"bg": {
+	"bg.raw": {
 		"\xd0":      0,
 		"\xd1":      1,
 		"_":         2,
@@ -24066,7 +24064,7 @@ var dataRaw = map[string]map[string]int{
 		"\x90вс":    397,
 		"\xb2а\xd1": 398,
 		"\xb2о":     399},
-	"ca": {
+	"ca.raw": {
 		"_":        0,
 		"a":        1,
 		"e":        2,
@@ -24467,7 +24465,7 @@ var dataRaw = map[string]map[string]int{
 		"Sants":    397,
 		"_F":       398,
 		"_II":      399},
-	"cs": {
+	"cs.raw": {
 		"_":         0,
 		"e":         1,
 		"o":         2,
@@ -24868,7 +24866,7 @@ var dataRaw = map[string]map[string]int{
 		"jek":       397,
 		"jekt":      398,
 		"ky_":       399},
-	"cy": {
+	"cy.raw": {
 		"_":     0,
 		"a":     1,
 		"y":     2,
@@ -25269,7 +25267,7 @@ var dataRaw = map[string]map[string]int{
 		"wyd_":  397,
 		"yng_":  398,
 		"ynn":   399},
-	"da": {
+	"da.raw": {
 		"_":      0,
 		"e":      1,
 		"d":      2,
@@ -25670,7 +25668,7 @@ var dataRaw = map[string]map[string]int{
 		"_ma":    397,
 		"_sa":    398,
 		"go":     399},
-	"de": {
+	"de.raw": {
 		"_":      0,
 		"e":      1,
 		"i":      2,
@@ -26071,7 +26069,7 @@ var dataRaw = map[string]map[string]int{
 		"_sei":   397,
 		"all":    398,
 		"ehe":    399},
-	"el": {
+	"el.raw": {
 		"\xce":      0,
 		"\xcf":      1,
 		"_":         2,
@@ -26472,7 +26470,7 @@ var dataRaw = map[string]map[string]int{
 		"_λο":       397,
 		"\x80ε\xcf": 398,
 		"\x80ερ":    399},
-	"en": {
+	"en.raw": {
 		"_":     0,
 		"e":     1,
 		"t":     2,
@@ -26873,7 +26871,7 @@ var dataRaw = map[string]map[string]int{
 		"if":    397,
 		"wit":   398,
 		"with":  399},
-	"eo": {
+	"eo.raw": {
 		"_":       0,
 		"a":       1,
 		"n":       2,
@@ -27274,7 +27272,7 @@ var dataRaw = map[string]map[string]int{
 		"_En_":    397,
 		"_Ka":     398,
 		"_dis":    399},
-	"es": {
+	"es.raw": {
 		"_":        0,
 		"e":        1,
 		"a":        2,
@@ -27675,7 +27673,7 @@ var dataRaw = map[string]map[string]int{
 		"liz":      397,
 		"liza":     398,
 		"lop":      399},
-	"et": {
+	"et.raw": {
 		"_":      0,
 		"a":      1,
 		"e":      2,
@@ -28076,7 +28074,7 @@ var dataRaw = map[string]map[string]int{
 		"meet":   397,
 		"nud":    398,
 		"puud":   399},
-	"eu": {
+	"eu.raw": {
 		"_":     0,
 		"a":     1,
 		"e":     2,
@@ -28477,7 +28475,7 @@ var dataRaw = map[string]map[string]int{
 		"re_":   397,
 		"rta":   398,
 		"tak":   399},
-	"fa": {
+	"fa.raw": {
 		"\xd8":           0,
 		"\xd9":           1,
 		"_":              2,
@@ -28878,7 +28876,7 @@ var dataRaw = map[string]map[string]int{
 		"_را":            397,
 		"_ق":             398,
 		"_ق\xd8":         399},
-	"fi": {
+	"fi.raw": {
 		"_":        0,
 		"a":        1,
 		"i":        2,
@@ -29279,7 +29277,7 @@ var dataRaw = map[string]map[string]int{
 		"l\xc3":    397,
 		"mat":      398,
 		"met":      399},
-	"fr": {
+	"fr.raw": {
 		"_":      0,
 		"e":      1,
 		"s":      2,
@@ -29680,7 +29678,7 @@ var dataRaw = map[string]map[string]int{
 		"_peu":   397,
 		"_ve":    398,
 		"comme":  399},
-	"fy": {
+	"fy.raw": {
 		"_":      0,
 		"e":      1,
 		"n":      2,
@@ -30081,7 +30079,7 @@ var dataRaw = map[string]map[string]int{
 		"ld":     397,
 		"ll":     398,
 		"or":     399},
-	"ga": {
+	"ga.raw": {
 		"_":           0,
 		"a":           1,
 		"i":           2,
@@ -30482,7 +30480,7 @@ var dataRaw = map[string]map[string]int{
 		"ott":         397,
 		"ra_":         398,
 		"rac":         399},
-	"gd": {
+	"gd.raw": {
 		"_":       0,
 		"a":       1,
 		"h":       2,
@@ -30883,7 +30881,7 @@ var dataRaw = map[string]map[string]int{
 		"si":      397,
 		"so":      398,
 		"tha":     399},
-	"he": {
+	"he.raw": {
 		"\xd7":      0,
 		"_":         1,
 		"_\xd7":     2,
@@ -31284,7 +31282,7 @@ var dataRaw = map[string]map[string]int{
 		"\x90ש":     397,
 		"\x91רי":    398,
 		"\x94,":     399},
-	"hi": {
+	"hi.raw": {
 		"\xe0":             0,
 		"\xa4":             1,
 		"\xe0\xa4":         2,
@@ -31685,7 +31683,7 @@ var dataRaw = map[string]map[string]int{
 		"\xb9ा\xe0":        397,
 		"\xbeल\xe0":        398,
 		"अ":                399},
-	"hr": {
+	"hr.raw": {
 		"_":      0,
 		"a":      1,
 		"o":      2,
@@ -32086,7 +32084,7 @@ var dataRaw = map[string]map[string]int{
 		"vn":     397,
 		"\x87i_": 398,
 		"\x91":   399},
-	"hu": {
+	"hu.raw": {
 		"_":         0,
 		"\xc3":      1,
 		"e":         2,
@@ -32487,7 +32485,7 @@ var dataRaw = map[string]map[string]int{
 		"II.":       397,
 		"II._":      398,
 		"N":         399},
-	"ia": {
+	"ia.raw": {
 		"_":     0,
 		"e":     1,
 		"a":     2,
@@ -32888,7 +32886,7 @@ var dataRaw = map[string]map[string]int{
 		"_es":   397,
 		"_exp":  398,
 		"_im":   399},
-	"id": {
+	"id.raw": {
 		"a":     0,
 		"_":     1,
 		"i":     2,
@@ -33289,7 +33287,7 @@ var dataRaw = map[string]map[string]int{
 		"_dari": 397,
 		"aru":   398,
 		"ih_":   399},
-	"is": {
+	"is.raw": {
 		"_":         0,
 		"\xc3":      1,
 		"a":         2,
@@ -33690,7 +33688,7 @@ var dataRaw = map[string]map[string]int{
 		"_til_":     397,
 		"_um_":      398,
 		"by":        399},
-	"it": {
+	"it.raw": {
 		"_":     0,
 		"e":     1,
 		"i":     2,
@@ -34091,7 +34089,7 @@ var dataRaw = map[string]map[string]int{
 		"ba":    397,
 		"edi":   398,
 		"ello":  399},
-	"ja": {
+	"ja.raw": {
 		"\xe3":             0,
 		"\x81":             1,
 		"\xe3\x81":         2,
@@ -34492,7 +34490,7 @@ var dataRaw = map[string]map[string]int{
 		"ロ":                397,
 		"\xe5\x85":         398,
 		"\xe5\x88":         399},
-	"kk": {
+	"kk.raw": {
 		"\xd0":      0,
 		"\xd1":      1,
 		"_":         2,
@@ -34893,7 +34891,7 @@ var dataRaw = map[string]map[string]int{
 		"\x80т":     397,
 		"\x81а":     398,
 		"\x81т\xd0": 399},
-	"ko": {
+	"ko.raw": {
 		"\xec":             0,
 		"_":                1,
 		"\xeb":             2,
@@ -35294,7 +35292,7 @@ var dataRaw = map[string]map[string]int{
 		"\x97\x90\xec":     397,
 		"\x99\x94":         398,
 		"\x9a\xb0":         399},
-	"la": {
+	"la.raw": {
 		"_":     0,
 		"i":     1,
 		"e":     2,
@@ -35695,7 +35693,7 @@ var dataRaw = map[string]map[string]int{
 		"_In":   397,
 		"_cum":  398,
 		"_cum_": 399},
-	"lb": {
+	"lb.raw": {
 		"_":       0,
 		"e":       1,
 		"n":       2,
@@ -36096,7 +36094,7 @@ var dataRaw = map[string]map[string]int{
 		"iert":    397,
 		"ko":      398,
 		"lec":     399},
-	"lt": {
+	"lt.raw": {
 		"_":        0,
 		"i":        1,
 		"a":        2,
@@ -36497,7 +36495,7 @@ var dataRaw = map[string]map[string]int{
 		"\x85._":   397,
 		"\x93":     398,
 		"\x97l":    399},
-	"lv": {
+	"lv.raw": {
 		"_":        0,
 		"i":        1,
 		"a":        2,
@@ -36898,7 +36896,7 @@ var dataRaw = map[string]map[string]int{
 		"ic":       397,
 		"ido":      398,
 		"iek":      399},
-	"ms": {
+	"ms.raw": {
 		"a":     0,
 		"_":     1,
 		"n":     2,
@@ -37299,7 +37297,7 @@ var dataRaw = map[string]map[string]int{
 		"guna":  397,
 		"haw":   398,
 		"hawa":  399},
-	"nl": {
+	"nl.raw": {
 		"_":     0,
 		"e":     1,
 		"n":     2,
@@ -37700,7 +37698,7 @@ var dataRaw = map[string]map[string]int{
 		"ok":    397,
 		"_kan":  398,
 		"kan":   399},
-	"no": {
+	"no.raw": {
 		"_":        0,
 		"e":        1,
 		"n":        2,
@@ -38101,7 +38099,7 @@ var dataRaw = map[string]map[string]int{
 		"e,":       397,
 		"e,_":      398,
 		"ede":      399},
-	"pl": {
+	"pl.raw": {
 		"_":        0,
 		"e":        1,
 		"i":        2,
@@ -38502,7 +38500,7 @@ var dataRaw = map[string]map[string]int{
 		"tór":      397,
 		"we_":      398,
 		"wer":      399},
-	"pt": {
+	"pt.raw": {
 		"_":        0,
 		"e":        1,
 		"a":        2,
@@ -38903,7 +38901,7 @@ var dataRaw = map[string]map[string]int{
 		"_proj":    397,
 		"_\xc3":    398,
 		"al_":      399},
-	"ro": {
+	"ro.raw": {
 		"_":         0,
 		"a":         1,
 		"e":         2,
@@ -39304,7 +39302,7 @@ var dataRaw = map[string]map[string]int{
 		"st_":       397,
 		"tat":       398,
 		"tec":       399},
-	"ru": {
+	"ru.raw": {
 		"\xd0":      0,
 		"\xd1":      1,
 		"_":         2,
@@ -39705,7 +39703,7 @@ var dataRaw = map[string]map[string]int{
 		"\x87а":     397,
 		"\xb4ии":    398,
 		"\xb8т\xd0": 399},
-	"sk": {
+	"sk.raw": {
 		"_":        0,
 		"o":        1,
 		"a":        2,
@@ -40106,7 +40104,7 @@ var dataRaw = map[string]map[string]int{
 		"ačal":     397,
 		"ek":       398,
 		"el":       399},
-	"sl": {
+	"sl.raw": {
 		"_":     0,
 		"a":     1,
 		"e":     2,
@@ -40507,7 +40505,7 @@ var dataRaw = map[string]map[string]int{
 		"_Pi":   397,
 		"_Pit":  398,
 		"_Pitt": 399},
-	"sr": {
+	"sr.raw": {
 		"\xd0":      0,
 		"\xd1":      1,
 		"_":         2,
@@ -40908,7 +40906,7 @@ var dataRaw = map[string]map[string]int{
 		"\xb0о":     397,
 		"\xb2а\xd1": 398,
 		"\xb8в":     399},
-	"sv": {
+	"sv.raw": {
 		"_":      0,
 		"a":      1,
 		"e":      2,
@@ -41309,7 +41307,7 @@ var dataRaw = map[string]map[string]int{
 		"_av_":   397,
 		"_komm":  398,
 		"_si":    399},
-	"sw": {
+	"sw.raw": {
 		"a":     0,
 		"_":     1,
 		"i":     2,
@@ -41710,7 +41708,7 @@ var dataRaw = map[string]map[string]int{
 		"_pa":   397,
 		"_si":   398,
 		"_wat":  399},
-	"ta": {
+	"ta.raw": {
 		"\xe0":             0,
 		"\xae":             1,
 		"\xe0\xae":         2,
@@ -42111,7 +42109,7 @@ var dataRaw = map[string]map[string]int{
 		"\x85\xe0\xae":     397,
 		"\xa4ல":            398,
 		"\xa4ல\xe0":        399},
-	"tl": {
+	"tl.raw": {
 		"a":     0,
 		"_":     1,
 		"n":     2,
@@ -42512,7 +42510,7 @@ var dataRaw = map[string]map[string]int{
 		"sy":    397,
 		"ud":    398,
 		"yo_":   399},
-	"tr": {
+	"tr.raw": {
 		"_":           0,
 		"a":           1,
 		"r":           2,
@@ -42913,7 +42911,7 @@ var dataRaw = map[string]map[string]int{
 		"akı":         397,
 		"ard":         398,
 		"aşa":         399},
-	"uk": {
+	"uk.raw": {
 		"\xd0":      0,
 		"\xd1":      1,
 		"_":         2,
@@ -43314,7 +43312,7 @@ var dataRaw = map[string]map[string]int{
 		"\xbeл":     397,
 		"\xbeп":     398,
 		"ах\xd1":    399},
-	"ur": {
+	"ur.raw": {
 		"\xd8":      0,
 		"_":         1,
 		"\xd9":      2,
@@ -43715,7 +43713,7 @@ var dataRaw = map[string]map[string]int{
 		"\x8cا\xd8": 397,
 		"\x8cہ_":    398,
 		"\xa9ر":     399},
-	"vi": {
+	"vi.raw": {
 		"_":            0,
 		"\xe1":         1,
 		"n":            2,
@@ -44116,7 +44114,7 @@ var dataRaw = map[string]map[string]int{
 		"\xb9n":        397,
 		"\xb9ng":       398,
 		"\xba\xbf_":    399},
-	"vo": {
+	"vo.raw": {
 		"_":         0,
 		"n":         1,
 		"e":         2,
@@ -44517,7 +44515,7 @@ var dataRaw = map[string]map[string]int{
 		"nolav":     397,
 		"nota":      398,
 		"nuli":      399},
-	"yi": {
+	"yi.raw": {
 		"\xd7":      0,
 		"_":         1,
 		"_\xd7":     2,
@@ -44918,7 +44916,7 @@ var dataRaw = map[string]map[string]int{
 		"\x90ז":     397,
 		"\x91א":     398,
 		"\x95וא":    399},
-	"yo": {
+	"yo.raw": {
 		"_":     0,
 		"i":     1,
 		"a":     2,
@@ -45319,7 +45317,7 @@ var dataRaw = map[string]map[string]int{
 		"oba_":  397,
 		"odun":  398,
 		"odun_": 399},
-	"zh": {
+	"zh.raw": {
 		"\xe5":             0,
 		"\xe6":             1,
 		"\xe4":             2,

@@ -21,20 +21,22 @@ func main() {
 	checkErr(err)
 	fmt.Fprint(out, header)
 
+	sep := "\n"
+	fmt.Fprint(out, "var data = map[string]map[string]int{")
 	for _, utf := range []bool{true, false} {
-		s := "Raw"
+		suffix := ".raw"
+		other := "utf8"
 		if utf {
-			s = "Utf8"
+			suffix = ".utf8"
+			other = "raw"
 		}
-		fmt.Fprintf(out, "var data%s = map[string]map[string]int{", s)
-		sep := "\n"
 		for _, filename := range os.Args[1:] {
-			if utf && strings.HasSuffix(path.Dir(filename), "raw") {
+			if strings.HasSuffix(path.Dir(filename), other) {
 				continue
 			}
 			lang := path.Base(filename)
 			lang = lang[:len(lang)-len(path.Ext(lang))]
-			fmt.Fprintf(out, "%s\t%q: {", sep, lang)
+			fmt.Fprintf(out, "%s\t%q: {", sep, lang + suffix)
 			sep = ",\n"
 
 			r, e := os.Open(filename)
@@ -50,8 +52,8 @@ func main() {
 			}
 			fmt.Fprint(out, "}")
 		}
-		fmt.Fprint(out, "}\n\n")
 	}
+	fmt.Fprint(out, "}\n\n")
 
 	out.Close()
 }

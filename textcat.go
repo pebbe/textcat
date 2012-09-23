@@ -3,6 +3,7 @@ package textcat
 import (
 	"errors"
 	"sort"
+	"strings"
 	"unicode/utf8"
 )
 
@@ -15,10 +16,12 @@ const (
 var (
 	errShort   = errors.New("SHORT")
 	errUnknown = errors.New("UNKNOWN")
+	errAvail   = errors.New("NOPATTERNS")
 )
 
 type TextCat struct {
 	utf8 bool
+	raw  bool
 	lang map[string]bool
 }
 
@@ -44,12 +47,8 @@ func (r resultsType) Less(i, j int) bool {
 	return r[i].lang < r[j].lang
 }
 
-func NewTextCat(utf8 bool) *TextCat {
-	tc := &TextCat{utf8: utf8, lang: make(map[string]bool)}
-	data := dataRaw
-	if utf8 {
-		data = dataUtf8
-	}
+func NewTextCat(enableUtf8, enableRaw bool) *TextCat {
+	tc := &TextCat{utf8: enableUtf8, raw: enableRaw, lang: make(map[string]bool)}
 	for d := range data {
 		tc.lang[d] = true
 	}
@@ -60,7 +59,11 @@ func (tc *TextCat) ActiveLanguages() []string {
 	a := make([]string, 0, len(tc.lang))
 	for l := range tc.lang {
 		if tc.lang[l] {
-			a = append(a, l)
+			if tc.utf8 && strings.HasSuffix(l, ".utf8") {
+				a = append(a, l)
+			} else if tc.raw && strings.HasSuffix(l, ".raw") {
+				a = append(a, l)
+			}
 		}
 	}
 	sort.Strings(a)
@@ -84,6 +87,14 @@ func (tc *TextCat) DisableLanguages(language ...string) {
 	}
 }
 
+func (tc *TextCat) DisableRawLanguages() {
+	tc.raw = false
+}
+
+func (tc *TextCat) DisableUtf8Languages() {
+	tc.utf8 = false
+}
+
 func (tc *TextCat) EnableLanguages(language ...string) {
 	for _, lang := range language {
 		if _, exists := tc.lang[lang]; exists {
@@ -92,42 +103,62 @@ func (tc *TextCat) EnableLanguages(language ...string) {
 	}
 }
 
+func (tc *TextCat) EnableRawLanguages() {
+	tc.raw = true
+}
+
+func (tc *TextCat) EnableUtf8Languages() {
+	tc.utf8 = true
+}
+
 func (tc *TextCat) Classify(text string) (languages []string, err error) {
 	languages = make([]string, 0, maxCandidates)
 
-	l := len(text)
-	if tc.utf8 {
-		l = utf8.RuneCountInString(text)
+	if tc.raw && len(text) < minDocSize {
+		err = errShort
+		return
 	}
-	if l < minDocSize {
+	if tc.utf8 && utf8.RuneCountInString(text) < minDocSize {
 		err = errShort
 		return
 	}
 
-	patt := getPatterns(text, tc.utf8)
-
 	scores := make([]*resultType, 0, len(tc.lang))
-	data := dataRaw
+	pattypes := make([]bool, 0, 2)
 	if tc.utf8 {
-		data = dataUtf8
+		pattypes = append(pattypes, true)
 	}
-	for lang := range tc.lang {
-		if !tc.lang[lang] {
-			continue
+	if tc.raw {
+		pattypes = append(pattypes, false)
+	}
+	for _, utf8 := range pattypes {
+		patt := getPatterns(text, utf8)
+		suffix := ".raw"
+		if utf8 {
+			suffix = ".utf8"
 		}
-		score := 0
-		for n, p := range patt {
-			i, ok := data[lang][p.s]
-			if !ok {
-				i = maxPatterns
+		for lang := range tc.lang {
+			if !tc.lang[lang] || !strings.HasSuffix(lang, suffix) {
+				continue
 			}
-			if n > i {
-				score += n - i
-			} else {
-				score += i - n
+			score := 0
+			for n, p := range patt {
+				i, ok := data[lang][p.s]
+				if !ok {
+					i = maxPatterns
+				}
+				if n > i {
+					score += n - i
+				} else {
+					score += i - n
+				}
 			}
+			scores = append(scores, &resultType{score, lang})
 		}
-		scores = append(scores, &resultType{score, lang})
+	}
+	if len(scores) == 0 {
+		err = errAvail
+		return
 	}
 
 	minScore := maxPatterns * maxPatterns
