@@ -1,104 +1,1000 @@
-Vikipēdija (Wikipedia) ir brīva, daudzvalodu enciklopēdija ar bezmaksas
-saturu, kuru atbalsta bezpeļņas organizācija Wikimedia Foundation.
-Nosaukums "Vikipēdija" ir hibrīdvārds, kas cēlies no vārdiem "wiki" un
-"enciklopēdija". Vikipēdijas rakstus brīvprātīgi veido tās lietotāji, kā
-arī jebkuru no šiem rakstiem, izņemot aizsargātos, var rediģēt ikviens,
-kam ir nodrošināta pieeja Vikipēdijai. Vikipēdija tika palaista darbībā
-2001. gada 15. janvārī. Par tās dibinātājiem uzskata Džimiju Veilsu un
-Leriju Sendžeru. Vikipēdija ir viena no populārākajām uzziņu vietnēm
-globālajā tīmeklī. Vikipēdijā kopā ir vairāk par 20 miljoniem rakstu, no
-tiem visvairāk ir angļu valodas (vairāk nekā 3 800 000), vācu valodas un
-franču valodas (vairāk nekā 1 000 000) Vikipēdijas versijās.
-
-Vikipēdijas kritiķi norāda uz tās sistemātisko aizspriedumainību un
-nesaskaņotību, kā arī par to, ka rakstus var rediģēt arī tādi cilvēki,
-kuriem nav zināšanas konkrētajā jomā.
-
-2011. gada 23. jūlijā Vikipēdijā bija 282 dažādu valodu versijas (208 no
-tām bija vairāk par 1000 rakstiem). Vikipēdija darbojas ar wiki
-programmatūru MediaWiki.
-
-Latviešu Vikipēdija tika izveidota 2003. gada jūnijā, un tajā pašlaik ir
-vairāk nekā 37 000 rakstu.
-
-Vikipēdija bija turpinājums projektam Nupedia, kur angļu valodā tika
-rakstīti raksti, kurus caurskata eksperti un tikai tad tie tiek
-publicēti. Tā kā šis process bija ļoti laikietilpīgs, tad Džimijs
-Veilss, Nupedia veidotājs, nolēma izveidot Vikipēdiju, kur ikviens var
-veidot, mainīt, uzlabot enciklopēdiskos rakstus. Nupedia tika izveidota
-2000. gada 9. martā.
-
-Vikipēdija paredzēta plašam lasītāju lokam - no skolēniem līdz pat
-zinātniekiem.
-
-Atšķirībā no tradicionālajām enciklopēdijām, piemēram, Encyclopædia
-Britannica, nevienu rakstu Vikipēdijā nenovērtē eksperti. Neviens raksts
-nepieder tā izveidotājam vai kādam citam lietotājam. Tā kā Vikipēdija
-aptver visas tēmas, tā var saturēt materiālus, kurus daži cilvēki,
-ieskaitot Vikipēdijas lietotājus, var uzskatīt par nevēlamiem,
-aizskarošiem vai pornogrāfiskiem.
-
-Vikipēdijā nav maksas autoru un lietotāju, visa informācija tiek
-pievienota bez atlīdzības, to dara Vikipēdijas lietotāji. Aktīvākie
-lietotāji pēc savas vēlmes var kļūt arī par administratoriem.
-Administratoram ir pienākums uzturēt Vikipēdiju, novērst vandālismu, bet
-viņiem nav nekādu priekšrocību rakstu izveidošanas vai rediģēšanas ziņā,
-salīdzinājumā ar pārējiem lietotājiem.
-
-Rakstot rakstus, lietotāju darbībām jābūt saskaņotām ar autortiesību
-likumiem, kuri darbojas ASV un Floridas štatā, kur atrodas Vikipēdijas
-serveri.
-
-Publicējot savus darbus vikipēdijā, tās autori automātiski piekrīt, ka
-viss raksta saturs ir brīvi izmantojams pēc Creative Commons
-Attribution/Share-Alike License licences. Pie tam tiek ievērotas visas
-autortiesības.
-
-Kā jebkuram lielam projektam, arī Vikipēdijai ir savi trūkumi.
-
-Tomēr brīvajā enciklopēdijā (tajā katrs var papildināt informāciju),
-pastāv mehānismi, kuri nodrošina atbildes uz šo kritiku, un vismaz
-daļēji izskaidro, kā vajag cīnīties ar trūkumiem vai arī kāpēc ar tiem
-var samierināties.
-
-Galvenais kritikas iemesls ir tas, ka Vikipēdiju var papildināt pilnīgi
-jebkurš lietotājs, neviens nevar garantēt, ka informācija ir patiesa, ne
-pilnīgi visas tēmas ir apskatītas vienādā daudzumā (par vienu tēmu ir
-uzrakstīts daudz labu rakstu, bet pat otru tikai viens mazs aizmetnis),
-par Vikipēdijas administratoru var kļūt lietotājs, kurš jau ilgāku laiku
-šeit darbojas, tāpēc pastāv risks, ka administrators izmantos savas
-tiesības sliktiem mērķiem.
-
-Anonīmās izmaiņas un vandalisms
-
-Vikipēdijā jebkurš var ievietot jaunu informāciju. Tāpēc var gadīties,
-ka tiek ievietota ļoti zemas kvalitātes informācija. Daži lietotāji veic
-vandalismu - lapu satura dzēšanu vai bojāšanu, lai tajā būtu nepatiesa
-informācija un mazinātos tās autoritāte. Parasti vandalisms ir lapas
-satura dzēšana, kur tā vietā tiek ierakstīta lamāšanās un cits saturs,
-kuram nav nekāda sakara ar raksta tēmu.
-
-Enciklopēdija (no latīņu: encyclopaedia, kas savukārt cēlies no
-sengrieķu: ἐγκύκλιος παιδεία — ‘apmācīšanā pilnā aplī’; κύκλος —
-‘aplis’, παιδεία — ‘apmācīšana’) ir rakstisks zināšanu apkopojums.
-Enciklopēdijas var būt vispārīgas, saturot rakstus par daudzām dažādām
-nozarēm, vai arī specializēties kādā no tām — piemēram, medicīnas
-enciklopēdijas.
-
-Doma par visu pasaules zināšanu apkopošanu vienuviet radās jau senajā
-pasaulē, kaut gan termins "enciklopēdija" radās 16. gadsimtā.
-Terminoloģiskās vārdnīcas un zināšanu apkopojumi tika sastādīti jau
-Senajā Ēģiptē un Senajā Ķīnā 2. gadu tūkstotī p.m.ē. Viens šāds
-apkopojums ir Aleksandrijas bibliotēka. Daudzi senatnes rakstnieki
-(piemēram, Aristotelis) centās izsmeļoši aprakstīt zināšanas visās
-nozarēs. Viens no nozīmīgākajiem enciklopēdistiem bija Plīnijs Vecākais,
-kas uzrakstīja "Dabas Vēsturi" — 37 sējumu dabas aprakstu, kas bija
-plaši izplatīts Eiropā līdz pat viduslaikiem.
-
-Aristotelis ir studējis praktiski visas tēmas, kas tajā laikā bija
-pieejamas, un viņa darbu kopums ir praktiski senās Grieķijas
-enciklopēdija. Aristotelis definēja arī mūsdienu izpratni par dabiskajām
-tiesībām: dabiskās tiesības kā nerakstītas vienmēr un visur spēkā esošas
-tiesības (vienlīdzība, brīvība, tiesiskums), kam rakstītās tiesības ir
-jāpieskaņo. Aristoteļa uzskati iedvesmoja Akvīnas Tomu, kurš sengrieķu
-filozofa uzskatus pārveidoja atbilstoši katolicisma dogmām.
+ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir ir 
+es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es 
+un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un 
+tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu 
+tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas tas 
+ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka 
+to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man man 
+vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai vai 
+ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko 
+ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar ar 
+kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas kas 
+kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā kā 
+tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā tā 
+par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par par 
+viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš viņš 
+uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz uz 
+no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no 
+tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev tev 
+nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav nav 
+mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs mēs 
+labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi labi 
+lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai lai 
+bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet 
+jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs jūs 
+jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā jā 
+nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē nē 
+ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja 
+mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani mani 
+bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija bija 
+esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu esmu 
+esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi esi 
+viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa viņa 
+tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi tevi 
+viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu viņu 
+mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums mums 
+tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad tad 
+tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai tikai 
+kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad kad 
+viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi viņi 
+arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī arī 
+ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne 
+jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums jums 
+nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu nu 
+viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss viss 
+kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur 
+pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie 
+jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau jau 
+tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik tik 
+šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit šeit 
+tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur tur 
+būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs būs 
+vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl vēl 
+visu visu visu visu visu visu visu visu visu visu visu visu visu visu visu visu visu visu visu visu visu visu 
+tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad tagad 
+te te te te te te te te te te te te te te te te te te te te te 
+pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc pēc 
+kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut kaut 
+viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam viņam 
+ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti ļoti 
+savu savu savu savu savu savu savu savu savu savu savu savu savu savu savu savu savu savu savu 
+būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu būtu 
+taču taču taču taču taču taču taču taču taču taču taču taču taču taču taču taču taču taču 
+mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu mūsu 
+šo šo šo šo šo šo šo šo šo šo šo šo šo šo šo šo šo 
+gan gan gan gan gan gan gan gan gan gan gan gan gan gan gan gan gan 
+paldies paldies paldies paldies paldies paldies paldies paldies paldies paldies paldies paldies paldies paldies paldies paldies paldies 
+mans mans mans mans mans mans mans mans mans mans mans mans mans mans mans mans 
+lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu lūdzu 
+jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo 
+kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc kāpēc 
+zini zini zini zini zini zini zini zini zini zini zini zini zini zini zini 
+jūsu jūsu jūsu jūsu jūsu jūsu jūsu jūsu jūsu jūsu jūsu jūsu jūsu jūsu jūsu 
+daudz daudz daudz daudz daudz daudz daudz daudz daudz daudz daudz daudz daudz daudz 
+tās tās tās tās tās tās tās tās tās tās tās tās tās tās 
+kāds kāds kāds kāds kāds kāds kāds kāds kāds kāds kāds kāds kāds kāds 
+ak ak ak ak ak ak ak ak ak ak ak ak ak ak 
+cik cik cik cik cik cik cik cik cik cik cik cik cik cik 
+mana mana mana mana mana mana mana mana mana mana mana mana mana mana 
+zinu zinu zinu zinu zinu zinu zinu zinu zinu zinu zinu zinu zinu 
+tam tam tam tam tam tam tam tam tam tam tam tam tam 
+līdz līdz līdz līdz līdz līdz līdz līdz līdz līdz līdz līdz līdz 
+šī šī šī šī šī šī šī šī šī šī šī šī šī 
+varbūt varbūt varbūt varbūt varbūt varbūt varbūt varbūt varbūt varbūt varbūt varbūt varbūt 
+pa pa pa pa pa pa pa pa pa pa pa pa pa 
+kungs kungs kungs kungs kungs kungs kungs kungs kungs kungs kungs kungs kungs 
+esam esam esam esam esam esam esam esam esam esam esam esam esam 
+nekad nekad nekad nekad nekad nekad nekad nekad nekad nekad nekad nekad nekad 
+būt būt būt būt būt būt būt būt būt būt būt būt 
+dievs dievs dievs dievs dievs dievs dievs dievs dievs dievs dievs dievs 
+visi visi visi visi visi visi visi visi visi visi visi visi 
+var var var var var var var var var var var var 
+pat pat pat pat pat pat pat pat pat pat pat pat 
+viens viens viens viens viens viens viens viens viens viens viens viens 
+domāju domāju domāju domāju domāju domāju domāju domāju domāju domāju domāju domāju 
+esat esat esat esat esat esat esat esat esat esat esat esat 
+varētu varētu varētu varētu varētu varētu varētu varētu varētu varētu varētu 
+nezinu nezinu nezinu nezinu nezinu nezinu nezinu nezinu nezinu nezinu nezinu 
+kurš kurš kurš kurš kurš kurš kurš kurš kurš kurš kurš 
+tiešām tiešām tiešām tiešām tiešām tiešām tiešām tiešām tiešām tiešām tiešām 
+neesmu neesmu neesmu neesmu neesmu neesmu neesmu neesmu neesmu neesmu neesmu 
+vairs vairs vairs vairs vairs vairs vairs vairs vairs vairs vairs 
+vien vien vien vien vien vien vien vien vien vien vien 
+tie tie tie tie tie tie tie tie tie tie tie 
+šis šis šis šis šis šis šis šis šis šis 
+vienkārši vienkārši vienkārši vienkārši vienkārši vienkārši vienkārši vienkārši vienkārši vienkārši 
+aiziet aiziet aiziet aiziet aiziet aiziet aiziet aiziet aiziet aiziet 
+kārtībā kārtībā kārtībā kārtībā kārtībā kārtībā kārtībā kārtībā kārtībā kārtībā 
+tieši tieši tieši tieši tieši tieši tieši tieši tieši tieši 
+atpakaļ atpakaļ atpakaļ atpakaļ atpakaļ atpakaļ atpakaļ atpakaļ atpakaļ atpakaļ 
+iet iet iet iet iet iet iet iet iet iet 
+varu varu varu varu varu varu varu varu varu varu 
+nāc nāc nāc nāc nāc nāc nāc nāc nāc nāc 
+kādu kādu kādu kādu kādu kādu kādu kādu kādu kādu 
+pats pats pats pats pats pats pats pats pats 
+prom prom prom prom prom prom prom prom prom 
+domā domā domā domā domā domā domā domā domā 
+neko neko neko neko neko neko neko neko neko 
+pirms pirms pirms pirms pirms pirms pirms pirms pirms 
+gribu gribu gribu gribu gribu gribu gribu gribu gribu 
+tāpēc tāpēc tāpēc tāpēc tāpēc tāpēc tāpēc tāpēc tāpēc 
+manu manu manu manu manu manu manu manu manu 
+viņiem viņiem viņiem viņiem viņiem viņiem viņiem viņiem viņiem 
+nekas nekas nekas nekas nekas nekas nekas nekas nekas 
+protams protams protams protams protams protams protams protams protams 
+vajag vajag vajag vajag vajag vajag vajag vajag vajag 
+mūs mūs mūs mūs mūs mūs mūs mūs mūs 
+kopā kopā kopā kopā kopā kopā kopā kopā kopā 
+vienu vienu vienu vienu vienu vienu vienu vienu vienu 
+tava tava tava tava tava tava tava tava tava 
+bez bez bez bez bez bez bez bez bez 
+vienmēr vienmēr vienmēr vienmēr vienmēr vienmēr vienmēr vienmēr vienmēr 
+nevaru nevaru nevaru nevaru nevaru nevaru nevaru nevaru 
+vairāk vairāk vairāk vairāk vairāk vairāk vairāk vairāk 
+pret pret pret pret pret pret pret pret 
+gribi gribi gribi gribi gribi gribi gribi gribi 
+ej ej ej ej ej ej ej ej 
+kādēļ kādēļ kādēļ kādēļ kādēļ kādēļ kādēļ kādēļ 
+notiek notiek notiek notiek notiek notiek notiek notiek 
+tavs tavs tavs tavs tavs tavs tavs tavs 
+cilvēki cilvēki cilvēki cilvēki cilvēki cilvēki cilvēki cilvēki 
+dari dari dari dari dari dari dari 
+vari vari vari vari vari vari vari 
+neviens neviens neviens neviens neviens neviens neviens 
+dēļ dēļ dēļ dēļ dēļ dēļ dēļ 
+tavu tavu tavu tavu tavu tavu tavu 
+sevi sevi sevi sevi sevi sevi sevi 
+biju biju biju biju biju biju biju 
+teica teica teica teica teica teica teica 
+patīk patīk patīk patīk patīk patīk patīk 
+laiku laiku laiku laiku laiku laiku laiku 
+viņai viņai viņai viņai viņai viņai viņai 
+labāk labāk labāk labāk labāk labāk labāk 
+ārā ārā ārā ārā ārā ārā ārā 
+viņus viņus viņus viņus viņus viņus 
+manis manis manis manis manis manis 
+viņas viņas viņas viņas viņas viņas 
+nebija nebija nebija nebija nebija nebija 
+mājās mājās mājās mājās mājās mājās 
+laika laika laika laika laika laika 
+labs labs labs labs labs labs 
+piedod piedod piedod piedod piedod piedod 
+trīs trīs trīs trīs trīs trīs 
+tāds tāds tāds tāds tāds tāds 
+nekā nekā nekā nekā nekā nekā 
+kāda kāda kāda kāda kāda kāda 
+atkal atkal atkal atkal atkal atkal 
+tika tika tika tika tika tika 
+vecīt vecīt vecīt vecīt vecīt vecīt 
+šīs šīs šīs šīs šīs šīs 
+darīt darīt darīt darīt darīt darīt 
+laiks laiks laiks laiks laiks laiks 
+ejam ejam ejam ejam ejam ejam 
+laikā laikā laikā laikā laikā laikā 
+tēvs tēvs tēvs tēvs tēvs tēvs 
+teicu teicu teicu teicu teicu teicu 
+ser ser ser ser ser ser 
+nevar nevar nevar nevar nevar nevar 
+viena viena viena viena viena viena 
+šodien šodien šodien šodien šodien šodien 
+šķiet šķiet šķiet šķiet šķiet šķiet 
+iekšā iekšā iekšā iekšā iekšā iekšā 
+neesi neesi neesi neesi neesi neesi 
+naudu naudu naudu naudu naudu naudu 
+šurp šurp šurp šurp šurp šurp 
+pagaidi pagaidi pagaidi pagaidi pagaidi pagaidi 
+kuru kuru kuru kuru kuru kuru 
+tos tos tos tos tos tos 
+dienu dienu dienu dienu dienu dienu 
+tevis tevis tevis tevis tevis 
+tātad tātad tātad tātad tātad 
+hei hei hei hei hei 
+pārāk pārāk pārāk pārāk pārāk 
+bijis bijis bijis bijis bijis 
+tiem tiem tiem tiem tiem 
+sveiks sveiks sveiks sveiks sveiks 
+cilvēku cilvēku cilvēku cilvēku cilvēku 
+visiem visiem visiem visiem visiem 
+zināt zināt zināt zināt zināt 
+sauc sauc sauc sauc sauc 
+tajā tajā tajā tajā tajā 
+tiek tiek tiek tiek tiek 
+tādu tādu tādu tādu tādu 
+lieliski lieliski lieliski lieliski lieliski 
+savas savas savas savas savas 
+draugs draugs draugs draugs draugs 
+šajā šajā šajā šajā šajā 
+teikt teikt teikt teikt teikt 
+mīlu mīlu mīlu mīlu mīlu 
+notika notika notika notika notika 
+varam varam varam varam varam 
+saka saka saka saka saka 
+laikam laikam laikam laikam laikam 
+citu citu citu citu citu 
+tāpat tāpat tāpat tāpat tāpat 
+dēls dēls dēls dēls dēls 
+nozīmē nozīmē nozīmē nozīmē nozīmē 
+jābūt jābūt jābūt jābūt jābūt 
+runā runā runā runā runā 
+noteikti noteikti noteikti noteikti 
+redzi redzi redzi redzi 
+kamēr kamēr kamēr kamēr 
+tēt tēt tēt tēt 
+manas manas manas manas 
+katru katru katru katru 
+visus visus visus visus 
+lietas lietas lietas lietas 
+gadus gadus gadus gadus 
+nebūtu nebūtu nebūtu nebūtu 
+rokas rokas rokas rokas 
+redzēt redzēt redzēt redzēt 
+kam kam kam kam 
+pateikt pateikt pateikt pateikt 
+iespējams iespējams iespējams iespējams 
+cilvēks cilvēks cilvēks cilvēks 
+taisnība taisnība taisnība taisnība 
+gadu gadu gadu gadu 
+visas visas visas visas 
+grib grib grib grib 
+jauki jauki jauki jauki 
+tāda tāda tāda tāda 
+vietā vietā vietā vietā 
+negribu negribu negribu negribu 
+divi divi divi divi 
+vajadzētu vajadzētu vajadzētu vajadzētu 
+atvainojiet atvainojiet atvainojiet atvainojiet 
+sev sev sev sev 
+dzīvi dzīvi dzīvi dzīvi 
+naudas naudas naudas naudas 
+džek džek džek džek 
+pasaules pasaules pasaules pasaules 
+cilvēkiem cilvēkiem cilvēkiem cilvēkiem 
+saki saki saki saki 
+paskaties paskaties paskaties paskaties 
+klau klau klau klau 
+it it it it 
+vīrs vīrs vīrs vīrs 
+joprojām joprojām joprojām joprojām 
+izskatās izskatās izskatās izskatās 
+pareizi pareizi pareizi pareizi 
+starp starp starp starp 
+noticis noticis noticis noticis 
+priekšu priekšu priekšu priekšu 
+ilgi ilgi ilgi ilgi 
+patiesībā patiesībā patiesībā patiesībā 
+augšā augšā augšā augšā 
+nevis nevis nevis nevis 
+būšu būšu būšu būšu 
+nevajag nevajag nevajag nevajag 
+gandrīz gandrīz gandrīz gandrīz 
+žēl žēl žēl žēl 
+līdzi līdzi līdzi līdzi 
+tomēr tomēr tomēr tomēr 
+kundze kundze kundze kundze 
+savā savā savā savā 
+vārds vārds vārds vārds 
+ātri ātri ātri ātri 
+dod dod dod dod 
+priekš priekš priekš 
+darbu darbu darbu 
+tūlīt tūlīt tūlīt 
+reizi reizi reizi 
+saproti saproti saproti 
+nāk nāk nāk 
+aiz aiz aiz 
+dieva dieva dieva 
+oh oh oh 
+lūk lūk lūk 
+liekas liekas liekas 
+velna velna velna 
+visa visa visa 
+nebūs nebūs nebūs 
+tikko tikko tikko 
+ceru ceru ceru 
+palīdzēt palīdzēt palīdzēt 
+asv asv asv 
+skaidrs skaidrs skaidrs 
+gada gada gada 
+velns velns velns 
+klausies klausies klausies 
+gribēju gribēju gribēju 
+droši droši droši 
+dienas dienas dienas 
+zina zina zina 
+sveiki sveiki sveiki 
+tādēļ tādēļ tādēļ 
+jüs jüs jüs 
+mašīnu mašīnu mašīnu 
+tavas tavas tavas 
+miris miris miris 
+tālāk tālāk tālāk 
+skaties skaties skaties 
+galā galā galā 
+liels liels liels 
+bērni bērni bērni 
+gatavs gatavs gatavs 
+vēlies vēlies vēlies 
+ļauj ļauj ļauj 
+gadā gadā gadā 
+priekšā priekšā priekšā 
+pasaulē pasaulē pasaulē 
+patiešām patiešām patiešām 
+mazliet mazliet mazliet 
+vieta vieta vieta 
+beidz beidz beidz 
+lejā lejā lejā 
+manā manā manā 
+dzīve dzīve dzīve 
+vēlāk vēlāk vēlāk 
+savus savus savus 
+šie šie šie 
+zemes zemes zemes 
+gribētu gribētu gribētu 
+roku roku roku 
+vajadzīgs vajadzīgs vajadzīgs 
+vārdu vārdu vārdu 
+nemaz nemaz nemaz 
+varat varat varat 
+vajadzēja vajadzēja vajadzēja 
+nedaudz nedaudz nedaudz 
+dara dara dara 
+tikt tikt tikt 
+pāri pāri pāri 
+ūdens ūdens ūdens 
+ātrāk ātrāk ātrāk 
+grūti grūti grūti 
+kura kura kura 
+šovakar šovakar šovakar 
+doties doties doties 
+vismaz vismaz vismaz 
+durvis durvis durvis 
+atceries atceries atceries 
+ņem ņem ņem 
+vietu vietu vietu 
+redzējis redzējis redzējis 
+redzu redzu redzu 
+jāiet jāiet jāiet 
+cilvēkus cilvēkus cilvēkus 
+nevari nevari nevari 
+kopš kopš kopš 
+lieta lieta lieta 
+saprotu saprotu saprotu 
+pāris pāris pāris 
+biji biji biji 
+laba laba laba 
+cauri cauri cauri 
+saku saku saku 
+rīt rīt rīt 
+puiši puiši puiši 
+vecais vecais vecais 
+vaļā vaļā vaļā 
+šejienes šejienes šejienes 
+drīz drīz drīz 
+a a a 
+jādara jādara jādara 
+teici teici teici 
+nesaprotu nesaprotu nesaprotu 
+runāt runāt runāt 
+nakti nakti nakti 
+redzēju redzēju redzēju 
+pasaki pasaki pasaki 
+darbs darbs darbs 
+cits cits cits 
+diena diena diena 
+labu labu labu 
+pilnīgi pilnīgi pilnīgi 
+paliec paliec paliec 
+kaa kaa kaa 
+nopietni nopietni 
+bērns bērns 
+divas divas 
+pašu pašu 
+sava sava 
+sveika sveika 
+vienalga vienalga 
+nauda nauda 
+ceļu ceļu 
+kādas kādas 
+tai tai 
+nedomāju nedomāju 
+mārtij mārtij 
+abi abi 
+nekādu nekādu 
+nespēju nespēju 
+ei ei 
+izdarīt izdarīt 
+garām garām 
+pirmais pirmais 
+atrast atrast 
+vēlos vēlos 
+lietu lietu 
+dzīves dzīves 
+mājas mājas 
+gadiem gadiem 
+dzīvot dzīvot 
+vietas vietas 
+runāju runāju 
+atvaino atvaino 
+būsi būsi 
+nogalināt nogalināt 
+vēlreiz vēlreiz 
+sieviete sieviete 
+caur caur 
+palikt palikt 
+laukā laukā 
+pati pati 
+kādreiz kādreiz 
+klāt klāt 
+acis acis 
+tiks tiks 
+diezgan diezgan 
+doktor doktor 
+iespēja iespēja 
+gluži gluži 
+pīter pīter 
+vienīgais vienīgais 
+mieru mieru 
+kādam kādam 
+sieva sieva 
+džon džon 
+turpini turpini 
+sirds sirds 
+bērnu bērnu 
+mamma mamma 
+otru otru 
+reiz reiz 
+ceļā ceļā 
+nevienam nevienam 
+nost nost 
+paliek paliek 
+šobrīd šobrīd 
+nolādēts nolādēts 
+dzīvību dzīvību 
+draugi draugi 
+šiem šiem 
+suns suns 
+o o 
+nepatīk nepatīk 
+vinjsh vinjsh 
+galvu galvu 
+saviem saviem 
+daži daži 
+mazais mazais 
+daļa daļa 
+hallo hallo 
+valsts valsts 
+pasaule pasaule 
+kurā kurā 
+brauc brauc 
+dr dr 
+meitene meitene 
+kļūst kļūst 
+apkārt apkārt 
+vēlas vēlas 
+mister mister 
+dienā dienā 
+notiks notiks 
+nāves nāves 
+dzīvo dzīvo 
+kuri kuri 
+pirmo pirmo 
+ejiet ejiet 
+sievietes sievietes 
+mašīna mašīna 
+iesim iesim 
+strādā strādā 
+nogalināja nogalināja 
+slikti slikti 
+atvainojos atvainojos 
+jēzus jēzus 
+māja māja 
+īsti īsti 
+darba darba 
+daru daru 
+zem zem 
+sapratu sapratu 
+vīru vīru 
+kä kä 
+visā visā 
+šos šos 
+tavā tavā 
+esot esot 
+rīta rīta 
+māte māte 
+mīļā mīļā 
+parasti parasti 
+dzirdēju dzirdēju 
+tādas tādas 
+vinji vinji 
+šim šim 
+nevienu nevienu 
+aizveries aizveries 
+taa taa 
+roze roze 
+jūtos jūtos 
+gribat gribat 
+dzīvs dzīvs 
+svarīgi svarīgi 
+tālu tālu 
+spēlē spēlē 
+mājā mājā 
+pusi pusi 
+vārdā vārdā 
+tām tām 
+laipni laipni 
+māju māju 
+the the 
+kuras kuras 
+hey hey 
+patiesi patiesi 
+liec liec 
+mierā mierā 
+viegli viegli 
+citi citi 
+vajadzēs vajadzēs 
+kādi kādi 
+pasauli pasauli 
+palīdzi palīdzi 
+mammu mammu 
+varēja varēja 
+satikt satikt 
+piedodiet piedodiet 
+dok dok 
+zemē zemē 
+kungi kungi 
+vaina vaina 
+pietiek pietiek 
+ieroci ieroci 
+dažas dažas 
+tuvu tuvu 
+jauks jauks 
+piemēram piemēram 
+vispār vispār 
+puika puika 
+mees mees 
+prieks prieks 
+vinu vinu 
+kādā kādā 
+sen sen 
+gadījumā gadījumā 
+šādi šādi 
+liela liela 
+frodo frodo 
+jaunu jaunu 
+beidzot beidzot 
+nakts nakts 
+ūdeni ūdeni 
+nomierinies nomierinies 
+uzmanīgi uzmanīgi 
+forši forši 
+izskaties izskaties 
+sievu sievu 
+minūtes minūtes 
+atā atā 
+nedrīkst nedrīkst 
+ha ha 
+vispirms vispirms 
+traks traks 
+brālis brālis 
+sāka sāka 
+bankas bankas 
+tepat tepat 
+sasodīts sasodīts 
+katrs katrs 
+pēdējā pēdējā 
+manuprāt manuprāt 
+dzirdi dzirdi 
+atrodas atrodas 
+patiesību patiesību 
+šai šai 
+dievam dievam 
+pavisam pavisam 
+pirmā pirmā 
+vinju vinju 
+ziniet ziniet 
+pagaidiet pagaidiet 
+pārliecināts pārliecināts 
+uzmanību uzmanību 
+tādi tādi 
+neesam neesam 
+ap ap 
+karš karš 
+vienam vienam 
+tēva tēva 
+vienīgā vienīgā 
+puisis puisis 
+nezināju nezināju 
+būsim būsim 
+bijām bijām 
+sāk sāk 
+nebiju nebiju 
+neviena neviena 
+jautājums jautājums 
+vienā vienā 
+palīgā palīgā 
+vēlaties vēlaties 
+stundas stundas 
+kurienes kurienes 
+liek liek 
+tiesa tiesa 
+lr lr 
+tētis tētis 
+īpaši īpaši 
+dolāru dolāru 
+nāciet nāciet 
+nomira nomira 
+mierīgi 
+tici 
+citiem 
+otrā 
+blakus 
+cilvēka 
+nevaram 
+palīdzību 
+bērniem 
+atceros 
+dabūt 
+spēj 
+labā 
+meitenes 
+paši 
+gadi 
+gribēja 
+cita 
+maz 
+turies 
+bijusi 
+i 
+tä 
+vēlu 
+tiesības 
+pietiekami 
+spēle 
+ziņu 
+dzirdēt 
+domāt 
+smieklīgi 
+neuztraucies 
+problēma 
+princese 
+asinis 
+zinām 
+priecājos 
+tiksimies 
+mazā 
+celies 
+izdarīja 
+pēdējo 
+s 
+zināju 
+mīlestība 
+elija 
+nezini 
+citādi 
+paklau 
+jauna 
+iešu 
+tavi 
+mašīnā 
+vajadzīga 
+you 
+vakar 
+seju 
+drošs 
+iespēju 
+grāmatu 
+pieder 
+manam 
+gaida 
+sevis 
+tēvu 
+muļķības 
+apmēram 
+svēto 
+bērnus 
+brāli 
+saprast 
+gatavi 
+agrāk 
+džeik 
+spēles 
+citas 
+dzimšanas 
+visām 
+runa 
+bieži 
+paņem 
+izbeidz 
+jaunais 
+māsa 
+vinja 
+gredzenu 
+kenai 
+suni 
+kājas 
+labākais 
+iedod 
+nevēlos 
+vīri 
+ziņas 
+atradu 
+skrien 
+braukt 
+spēli 
+juus 
+reizes 
+izdarīji 
+pilnībā 
+zināms 
+jauns 
+re 
+pusē 
+desmit 
+visur 
+sīkais 
+ceļš 
+tādā 
+negribi 
+čārlij 
+uh 
+mirt 
+dzirdējis 
+vecs 
+dzīvē 
+ellē 
+mamm 
+mašīnas 
+rokās 
+jebkad 
+šīm 
+veidā 
+ģimenes 
+apsolu 
+lielu 
+vērts 
+vēlētos 
+bail 
+savām 
+meklē 
+prātā 
+redz 
+divus 
+problēmas 
+meiteni 
+nedēļas 
+klājas 
+iepriekš 
+sem 
+palīdzība 
+draugu 
+mazāk 
+pietiks 
+čau 
+palīdziet 
+jä 
+darāt 
+galvenais 
+ļaudis 
+gana 
+zemi 
+redzat 
+nāvi 
+neesat 
+skaista 
+spēku 
+labrīt 
+nedari 
+daļu 
+banku 
+šoreiz 
+dāmas 
+strādāju 
+brīdi 
+vienīgi 
+pār 
+dodies 
+policija 
+harij 
+spēlēt 
+zelta 
+galvas 
+veids 
+minūtēm 
+prātu 
+īsts 
+parādi 
+atgriezies 
+noticēt 
+nespēj 
+stāsts 
+kristus 
+tevī 
+paga 
+kara 
+kurus 
+vēi 
+daudzi 
+doma 
+jauka 
+uzreiz 
+šonakt 
+beigas 
+akmens 
+manai 
+džeks 
+izmantot 
+karalis 
+kurieni 
+likās 
+varēsi 
+nekāda 
+tikpat 
+gulēt 
+teikts 
+atbildi 
+devās 
+istabā 
+uzmanies 
+komanda 
+beigās 
+mīļais 
+ticu 
+numuru 
+šrek 
+bojā 
+gaisā 
+jātiek 
+paklausies 
+pateikšu 
+diez 
+iemesls 
+ģimene 
+gultā 
+pēkšņi 
+galu 
+pašlaik 
+eju 
+ceļa 
+atdod 
+turp 
+g 
+vis 
+gars 
+sakot 
+vel 
+gredzens 
+balboa 
+seko 
+teiktu 
+padomā 
+dabū 
+nākotnē 
+godīgi 
+domājat 
+plāns 
+jūtu 
+durvīm 
+atver 
+otra 
+braucam 
+izdevās 
+jaa 
+varas 
+nevarat 
+teikšu 
+darīšu 
+dodas 
+dienām 
+pašā 
+pakaļ 
+meita 
+pilsētā 
+ved 
+manī 
+mazs 
+ielas 
+dievu 
+izmanto 
+mr 
+sāp 
+esiet 
+sāra 
+saules 
+brāl 
+vinš 
+jādodas 
+nevarētu 
+tiktu 
+nekur 
+vīrietis 
+dīvaini 
+atgriezties 
+atrada 
+bailes 
+redzēji 
+puses 
+sirdi 
+skolā 
+draugiem 
+pazīstu 
+nezina 
+nevajadzētu 
+pēdējais 
+jauno 
+aizmirsti 
+četri 
+maniem 
+kuriem 
+vina 
+darīsim 
+zaudēt 
+cenšos 
+došos 
+pašam 
+rakstīts 
+ideja 
+dot 
+paša 
+gads 
+nāve 
+turi 
+saprati 
+smagi 
+savādāk 
+ļaujiet 
+zināja 
+stāstu 
+atstāt 
+kājām 
+brīdī 
+kuģa 
+jūties 
+vārdus 
+sistēma 
+lietām 
+kļūt 
+negribēju 
+frenk 
+okay 
+ričij 
+reičela 
+jautājumu 
+skaidri 
+īstais 
+mūžu 
+beidzies 
+sauca 
+nepieciešams 
+iespējas 
+gaismas 
+jautri 
+lika 
+kāp 
+pieci 
+katra 
+padara 
+nesaki 
+zināji 
+nepareizi 
+malā 
+māti 
+turpināt 
+pārējie 
+vins 
+maksā 
+teicis 
+sievieti 
+zvēru 
+virs 
+tuvāk 
+izdarījis 
+nevarēju 
+skaisti 
+paskatieties 
+patiesība 
+aizgāja 
+diemžēl 
+šejieni 
+nee 
+katram 

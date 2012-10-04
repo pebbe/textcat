@@ -1,94 +1,1000 @@
-Zárodek Wikipedie vznikl v roce 1995, kdy programátor Ward Cunningham
-založil webové stránky nazvané WikiWikiWeb, které mohl upravovat každý
-jejich návštěvník - od té doby se podobných systémů, dnes označovaných
-jako wiki (havajské slovo pro „rychlý“, míněno stránky, na kterých může
-návštěvník cokoliv rychle opravit) objevilo velké množství. Velmi často
-jsou používány např. jako vnitrofiremní báze znalostí.
-
-Wikipedie jako taková vznikla 15. ledna 2001 jako doplňkový projekt k
-dnes již neexistující encyklopedii Nupedia, do které mohli přispívat jen
-odborníci. Zakladateli obou projektů byli Američané Jimmy Wales
-(přezdívaný Jimbo), internetový podnikatel, a Larry Sanger, filosof a
-informatik, který brzy z Wikipedie odešel. Wales 20. června 2003 založil
-podle zákonů státu Florida (USA) neziskovou nadaci Wikimedia, na kterou
-převedl autorská a vlastnická práva související s Wikipedií i
-sesterskými projekty. Sanger na konci roku 2004 rozpoutal diskusi
-článkem, v němž kritizoval anti-elitářství, které od spolupráce odrazuje
-experty, a v roce 2006 založil vlastní projekt Citizendium, který má
-tento nedostatek napravovat.
-
-Popularita Wikipedie vytrvale roste. Postupně vedle ní vzniklo také
-několik sesterských projektů. Wikipedie patří mezi nejpopulárnější
-referenční stránky na webu, každý den obslouží přibližně 60 milionů
-požadavků. Německá verze Wikipedie byla vydána na CD a tisícistránkový
-výběr asi 20 000 článků německé Wikipedie byl ve spolupráci s
-respektovanou vydavatelskou skupinou Bertelsmann v září 2008 vydán také
-knižně (de:Wikipedia Lexikon in einem Band). Na Internetu existuje velké
-množství serverů, které kopii obsahu Wikipedie nabízejí za podmínek
-licence GFDL.
-
-V květnu 2005 obsahovala Wikipedie dohromady přibližně 1,5 milionu
-článků, v listopadu 2006 přes 5,6 milionů a v dubnu 2008 již přes 10
-milionů článků. V červenci 2012 má Wikipedie přes 22,4 milionů článků. V
-roce 2011 proběhl fundraising a Wikipedie tak získala 20 milionů dolarů
-na svůj provoz a zůstává tak dále bez reklamních prostorů.
-
-V porovnání k počtu uživatelů jazyka (údaje z dubna 2010) tabulku s
-náskokem vedou umělé jazyky volapük, ido a interlingua, u nichž počet
-článků převyšuje velmi malý počet jejich mluvčích. Prvním z umělých
-jazyků s velkou uživatelskou základnou je esperanto (se 64 články na
-1000 mluvčích je na 14. místě). Z národních jazyků jsou na čelních
-místech aragonština a kornština (stovky článků na tisíc mluvčích), s
-více než 100 články na tisíc mluvčích pak například normanština, skotská
-gaelština, severní laponština. Hranici 100 článků na 1000 mluvčích dále
-překročily norská, bretonská a irské verze. V české verzi (kolem 40.
-místa v pořadí) na tisíc mluvčích připadá přibližně třináct článků,
-srovnatelná je osetština; u angličtiny cca 6. Podle závěru tabulky v
-nepálském, kašmírském, paštském a paňdžábském jazyce připadá méně než
-100 článků na milión lidí užívajících tyto jazyky. Metodika určování
-počtu uživatelů jazyků je ovšem sporná, zvláště u umělých, menšinových a
-mezinárodně užívaných jazyků.
-
-Encyklopedický obsah Wikipedie je zveřejňován pod svobodnými licencemi,
-což znamená, že při dodržení jistých pravidel je možno jej volně
-kopírovat a upravovat. Texty ve Wikipedii byly zveřejňovány pod
-svobodnou licencí GNU FDL, v červnu 2009 však veškerý textový obsah
-přešel pod licenci CC-BY-SA. Většina dalšího obsahu, například obrázky a
-jiné vložené soubory, má být a většinou je zveřejněna pod svobodnými
-licencemi různých typů. Ty obrázky, jejichž licence byla příliš
-nesvobodná (například vylučovala komerční použití), jsou z Wikipedie
-postupně odstraňovány a pokud možno nahrazovány svobodnými.
-
-V projektu Wikipedie se dbá, aby zveřejnění textů, obrázků a dalšího
-obsahu pod svobodnou licencí bylo v souladu se zákonnou ochranou
-autorského práva, což na webové síti, zvláště na anonymních webech
-užívajících bezplatného hostingu, nebývá vždy obvyklé.
-
-Odlišně jsou podmínky stanoveny pro loga projektů nadace Wikimedia,
-která jsou z režimu svobodných licencí vyjmuta.
-
-Wikipedie běží na svobodném software MediaWiki na clusteru vyhrazených
-serverů na Floridě v USA a dalších třech místech světa. MediaWiki je už
-třetí etapou v softwarovém vývoji. Původně, v první etapě, Wikipedie
-fungovala na UseModWiki od Clifforda Adamse. Zpočátku bylo třeba pro
-odkazy používat zápis slov bez mezer, tzv. CamelCase, později bylo možno
-používat dvojité lomené závorky.
-
-Do druhé etapy Wikipedie vstoupila v lednu 2002, když začala používat
-wiki engine napsaný v PHP s databází MySQL, který speciálně pro
-Wikipedii vytvořil Magnus Manske. Následně byly několikrát provedeny
-úpravy za účelem zvýšení výkonu, aby bylo možno zvládnout narůstající
-provoz. Nakonec bylo programové vybavení znovu přepsáno, tentokrát Lee
-Danielem Crockerem. Tato třetí vývojová etapa byla nazvána MediaWiki a
-do ostrého provozu byla nasazena v červenci 2002. Má svobodnou licencí
-GNU GPL a používají ji všechny projekty nadace Wikimedia.
-
-V roce 2003 byl jediný server, který do té doby obsluhoval Wikipedii,
-rozšířen na distribuovanou architekturu n-tier. V lednu 2005 celý
-projekt fungoval na 39 vyhrazených serverech umístěných na Floridě.
-Konfigurace zahrnovala jeden hlavní databázový server s MySQL, několik
-podřízených databázových serverů, 21 webových serverů s Apache a 7
-serverů se Squid cache. Do ledna 2006 se serverový park rozrostl na 171
-strojů na čtyřech místech světa. Na většině z nich je nainstalován
-operační systém Linux, převládá Fedora Core, po jednom serveru obsazují
-FreeBSD a Solaris.
+to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se 
+je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je 
+a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na 
+jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem jsem 
+že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že že 
+co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co 
+v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v v 
+si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si 
+tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak 
+ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne 
+ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale 
+s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s 
+já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já 
+mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi 
+mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě mě 
+jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi jsi 
+do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty 
+jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak 
+už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už už 
+z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z 
+jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste jste 
+ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti 
+za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za 
+tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady tady 
+tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu 
+ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho 
+když když když když když když když když když když když když když když když když když když když když když když když když když když když když když když když když když když když 
+ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano ano 
+jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako jako 
+jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen jen 
+jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo 
+jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme jsme 
+by by by by by by by by by by by by by by by by by by by by by by by by by by by by by by 
+pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro pro 
+tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě tě 
+není není není není není není není není není není není není není není není není není není není není není není není není není není není není 
+dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře dobře 
+něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco něco 
+tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam 
+mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám mám 
+proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč proč 
+byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl byl 
+jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou jsou 
+k k k k k k k k k k k k k k k k k k k k k k k k k 
+teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď teď 
+no no no no no no no no no no no no no no no no no no no no no no no no no 
+ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten 
+vás vás vás vás vás vás vás vás vás vás vás vás vás vás vás vás vás vás vás vás vás vás 
+nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic 
+bude bude bude bude bude bude bude bude bude bude bude bude bude bude bude bude bude bude bude bude bude bude 
+pane pane pane pane pane pane pane pane pane pane pane pane pane pane pane pane pane pane pane pane pane pane 
+toho toho toho toho toho toho toho toho toho toho toho toho toho toho toho toho toho toho toho toho toho toho 
+vám vám vám vám vám vám vám vám vám vám vám vám vám vám vám vám vám vám vám vám vám 
+tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle tohle 
+být být být být být být být být být být být být být být být být být být být být 
+bych bych bych bych bych bych bych bych bych bych bych bych bych bych bych bych bych bych bych bych 
+kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo kdo 
+má má má má má má má má má má má má má má má má má má má 
+ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve 
+kde kde kde kde kde kde kde kde kde kde kde kde kde kde kde kde kde kde kde 
+ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě ještě 
+nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo nebo 
+ji ji ji ji ji ji ji ji ji ji ji ji ji ji ji ji ji 
+máš máš máš máš máš máš máš máš máš máš máš máš máš máš máš máš máš 
+tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom tom 
+po po po po po po po po po po po po po po po po 
+prosím prosím prosím prosím prosím prosím prosím prosím prosím prosím prosím prosím prosím prosím prosím prosím 
+aby aby aby aby aby aby aby aby aby aby aby aby aby aby aby aby 
+i i i i i i i i i i i i i i i i 
+můj můj můj můj můj můj můj můj můj můj můj můj můj můj můj můj 
+bylo bylo bylo bylo bylo bylo bylo bylo bylo bylo bylo bylo bylo bylo bylo bylo 
+vy vy vy vy vy vy vy vy vy vy vy vy vy vy vy 
+všechno všechno všechno všechno všechno všechno všechno všechno všechno všechno všechno všechno všechno všechno všechno 
+byla byla byla byla byla byla byla byla byla byla byla byla byla byla byla 
+nás nás nás nás nás nás nás nás nás nás nás nás nás nás nás 
+než než než než než než než než než než než než než než než 
+jestli jestli jestli jestli jestli jestli jestli jestli jestli jestli jestli jestli jestli jestli jestli 
+od od od od od od od od od od od od od od 
+nikdy nikdy nikdy nikdy nikdy nikdy nikdy nikdy nikdy nikdy nikdy nikdy nikdy nikdy 
+chci chci chci chci chci chci chci chci chci chci chci chci chci chci 
+měl měl měl měl měl měl měl měl měl měl měl měl měl měl 
+mu mu mu mu mu mu mu mu mu mu mu mu mu mu 
+myslím myslím myslím myslím myslím myslím myslím myslím myslím myslím myslím myslím myslím myslím 
+víš víš víš víš víš víš víš víš víš víš víš víš víš víš 
+moc moc moc moc moc moc moc moc moc moc moc moc moc moc 
+ani ani ani ani ani ani ani ani ani ani ani ani ani ani 
+jeho jeho jeho jeho jeho jeho jeho jeho jeho jeho jeho jeho jeho jeho 
+tím tím tím tím tím tím tím tím tím tím tím tím tím tím 
+takže takže takže takže takže takže takže takže takže takže takže takže takže 
+sem sem sem sem sem sem sem sem sem sem sem sem sem 
+protože protože protože protože protože protože protože protože protože protože protože protože protože 
+vím vím vím vím vím vím vím vím vím vím vím vím vím 
+taky taky taky taky taky taky taky taky taky taky taky taky 
+moje moje moje moje moje moje moje moje moje moje moje moje 
+možná možná možná možná možná možná možná možná možná možná možná možná 
+tebe tebe tebe tebe tebe tebe tebe tebe tebe tebe tebe tebe 
+až až až až až až až až až až až až 
+nevím nevím nevím nevím nevím nevím nevím nevím nevím nevím nevím nevím 
+ahoj ahoj ahoj ahoj ahoj ahoj ahoj ahoj ahoj ahoj ahoj ahoj 
+chceš chceš chceš chceš chceš chceš chceš chceš chceš chceš chceš 
+nám nám nám nám nám nám nám nám nám nám nám 
+on on on on on on on on on on on 
+hej hej hej hej hej hej hej hej hej hej hej 
+ta ta ta ta ta ta ta ta ta ta 
+jí jí jí jí jí jí jí jí jí jí 
+máme máme máme máme máme máme máme máme máme máme 
+díky díky díky díky díky díky díky díky díky díky 
+pořádku pořádku pořádku pořádku pořádku pořádku pořádku pořádku pořádku pořádku 
+u u u u u u u u u u 
+pak pak pak pak pak pak pak pak pak pak 
+musím musím musím musím musím musím musím musím musím musím 
+dobrý dobrý dobrý dobrý dobrý dobrý dobrý dobrý dobrý dobrý 
+budu budu budu budu budu budu budu budu budu budu 
+všichni všichni všichni všichni všichni všichni všichni všichni všichni všichni 
+řekl řekl řekl řekl řekl řekl řekl řekl řekl řekl 
+jít jít jít jít jít jít jít jít jít 
+opravdu opravdu opravdu opravdu opravdu opravdu opravdu opravdu opravdu 
+asi asi asi asi asi asi asi asi asi 
+říct říct říct říct říct říct říct říct říct 
+před před před před před před před před před 
+pojď pojď pojď pojď pojď pojď pojď pojď pojď 
+někdo někdo někdo někdo někdo někdo někdo někdo někdo 
+máte máte máte máte máte máte máte máte máte 
+rád rád rád rád rád rád rád rád rád 
+tomu tomu tomu tomu tomu tomu tomu tomu tomu 
+myslíš myslíš myslíš myslíš myslíš myslíš myslíš myslíš myslíš 
+my my my my my my my my my 
+mít mít mít mít mít mít mít mít 
+trochu trochu trochu trochu trochu trochu trochu trochu 
+ze ze ze ze ze ze ze ze 
+den den den den den den den den 
+dělat dělat dělat dělat dělat dělat dělat dělat 
+pokud pokud pokud pokud pokud pokud pokud pokud 
+dva dva dva dva dva dva dva dva 
+mohl mohl mohl mohl mohl mohl mohl mohl 
+všechny všechny všechny všechny všechny všechny všechny všechny 
+bys bys bys bys bys bys bys bys 
+chtěl chtěl chtěl chtěl chtěl chtěl chtěl chtěl 
+jenom jenom jenom jenom jenom jenom jenom 
+mnou mnou mnou mnou mnou mnou mnou 
+musíme musíme musíme musíme musíme musíme musíme 
+děkuji děkuji děkuji děkuji děkuji děkuji děkuji 
+budeš budeš budeš budeš budeš budeš budeš 
+který který který který který který který 
+abych abych abych abych abych abych abych 
+víc víc víc víc víc víc víc 
+dnes dnes dnes dnes dnes dnes dnes 
+nemůžu nemůžu nemůžu nemůžu nemůžu nemůžu nemůžu 
+stalo stalo stalo stalo stalo stalo stalo 
+tvůj tvůj tvůj tvůj tvůj tvůj tvůj 
+mně mně mně mně mně mně mně 
+můžu můžu můžu můžu můžu můžu můžu 
+nikdo nikdo nikdo nikdo nikdo nikdo nikdo 
+pořád pořád pořád pořád pořád pořád pořád 
+bože bože bože bože bože bože bože 
+oh oh oh oh oh oh oh 
+vaše vaše vaše vaše vaše vaše vaše 
+jde jde jde jde jde jde jde 
+tebou tebou tebou tebou tebou tebou tebou 
+jeden jeden jeden jeden jeden jeden jeden 
+udělat udělat udělat udělat udělat udělat udělat 
+kdy kdy kdy kdy kdy kdy kdy 
+sakra sakra sakra sakra sakra sakra sakra 
+ať ať ať ať ať ať ať 
+čas čas čas čas čas čas čas 
+život život život život život život život 
+bez bez bez bez bez bez bez 
+které které které které které které které 
+vážně vážně vážně vážně vážně vážně vážně 
+můžeš můžeš můžeš můžeš můžeš můžeš můžeš 
+děláš děláš děláš děláš děláš děláš děláš 
+ní ní ní ní ní ní 
+velmi velmi velmi velmi velmi velmi 
+hned hned hned hned hned hned 
+dost dost dost dost dost dost 
+měla měla měla měla měla měla 
+prostě prostě prostě prostě prostě prostě 
+jim jim jim jim jim jim 
+může může může může může může 
+musí musí musí musí musí musí 
+říkal říkal říkal říkal říkal říkal 
+víte víte víte víte víte víte 
+musíš musíš musíš musíš musíš musíš 
+kam kam kam kam kam kam 
+tvoje tvoje tvoje tvoje tvoje tvoje 
+právě právě právě právě právě právě 
+takhle takhle takhle takhle takhle takhle 
+jasně jasně jasně jasně jasně jasně 
+měli měli měli měli měli měli 
+další další další další další další 
+děje děje děje děje děje děje 
+podívej podívej podívej podívej podívej podívej 
+nechci nechci nechci nechci nechci nechci 
+dej dej dej dej dej dej 
+lidi lidi lidi lidi lidi lidi 
+budeme budeme budeme budeme budeme budeme 
+dobrá dobrá dobrá dobrá dobrá dobrá 
+pár pár pár pár pár pár 
+své své své své své své 
+nemám nemám nemám nemám nemám nemám 
+jdeme jdeme jdeme jdeme jdeme jdeme 
+věci věci věci věci věci věci 
+nejsem nejsem nejsem nejsem nejsem nejsem 
+udělal udělal udělal udělal udělal udělal 
+ona ona ona ona ona 
+ok ok ok ok ok 
+kvůli kvůli kvůli kvůli kvůli 
+tři tři tři tři tři 
+vůbec vůbec vůbec vůbec vůbec 
+ses ses ses ses ses 
+chce chce chce chce chce 
+zpátky zpátky zpátky zpátky zpátky 
+hodně hodně hodně hodně hodně 
+kurva kurva kurva kurva kurva 
+sám sám sám sám sám 
+let let let let let 
+pryč pryč pryč pryč pryč 
+chcete chcete chcete chcete chcete 
+naše naše naše naše naše 
+počkej počkej počkej počkej počkej 
+první první první první první 
+pravdu pravdu pravdu pravdu pravdu 
+viděl viděl viděl viděl viděl 
+dlouho dlouho dlouho dlouho dlouho 
+domů domů domů domů domů 
+proto proto proto proto proto 
+místo místo místo místo místo 
+noc noc noc noc noc 
+byli byli byli byli byli 
+peníze peníze peníze peníze peníze 
+jednou jednou jednou jednou jednou 
+řekni řekni řekni řekni řekni 
+práci práci práci práci práci 
+něj něj něj něj něj 
+byste byste byste byste byste 
+přesně přesně přesně přesně přesně 
+vždycky vždycky vždycky vždycky vždycky 
+zase zase zase zase zase 
+kdyby kdyby kdyby kdyby kdyby 
+dobré dobré dobré dobré dobré 
+vědět vědět vědět vědět vědět 
+někdy někdy někdy někdy někdy 
+rychle rychle rychle rychle rychle 
+práce práce práce práce práce 
+myslel myslel myslel myslel myslel 
+její její její její její 
+nech nech nech nech nech 
+ním ním ním ním ním 
+tobě tobě tobě tobě tobě 
+paní paní paní paní paní 
+sebe sebe sebe sebe sebe 
+promiňte promiňte promiňte promiňte promiňte 
+té té té té té 
+vypadá vypadá vypadá vypadá vypadá 
+večer večer večer večer večer 
+mé mé mé mé mé 
+dál dál dál dál dál 
+mluvit mluvit mluvit mluvit mluvit 
+promiň promiň promiň promiň promiň 
+můžeme můžeme můžeme můžeme můžeme 
+vidět vidět vidět vidět vidět 
+každý každý každý každý každý 
+bychom bychom bychom bychom bychom 
+jejich jejich jejich jejich jejich 
+snad snad snad snad snad 
+určitě určitě určitě určitě určitě 
+ráno ráno ráno ráno ráno 
+svou svou svou svou 
+můžete můžete můžete můžete 
+ke ke ke ke 
+kolik kolik kolik kolik 
+děti děti děti děti 
+věc věc věc věc 
+váš váš váš váš 
+jistě jistě jistě jistě 
+cože cože cože cože 
+říká říká říká říká 
+nejlepší nejlepší nejlepší nejlepší 
+mami mami mami mami 
+budou budou budou budou 
+vlastně vlastně vlastně vlastně 
+stejně stejně stejně stejně 
+lidé lidé lidé lidé 
+otec otec otec otec 
+tati tati tati tati 
+fakt fakt fakt fakt 
+mají mají mají mají 
+ráda ráda ráda ráda 
+nebude nebude nebude nebude 
+abys abys abys abys 
+poslední poslední poslední poslední 
+nějaké nějaké nějaké nějaké 
+budete budete budete budete 
+žádný žádný žádný žádný 
+řekla řekla řekla řekla 
+také také také také 
+jdu jdu jdu jdu 
+která která která která 
+žádné žádné žádné žádné 
+přišel přišel přišel přišel 
+jdi jdi jdi jdi 
+dítě dítě dítě dítě 
+dvě dvě dvě dvě 
+nějaký nějaký nějaký nějaký 
+zítra zítra zítra zítra 
+ven ven ven ven 
+dostat dostat dostat dostat 
+problém problém problém problém 
+zlato zlato zlato zlato 
+spolu spolu spolu spolu 
+potom potom potom potom 
+fajn fajn fajn fajn 
+pravda pravda pravda pravda 
+lepší lepší lepší lepší 
+někoho někoho někoho někoho 
+pod pod pod pod 
+celý celý celý celý 
+úplně úplně úplně úplně 
+jedna jedna jedna jedna 
+mezi mezi mezi mezi 
+pozor pozor pozor pozor 
+chvíli chvíli chvíli chvíli 
+člověk člověk člověk člověk 
+žena žena žena žena 
+jméno jméno jméno jméno 
+třeba třeba třeba třeba 
+svůj svůj svůj svůj 
+stále stále stále stále 
+hele hele hele hele 
+muž muž muž muž 
+myslíte myslíte myslíte myslíte 
+omlouvám omlouvám omlouvám omlouvám 
+chtěla chtěla chtěla chtěla 
+těch těch těch těch 
+přece přece přece přece 
+čem čem čem čem 
+mohla mohla mohla mohla 
+pan pan pan 
+samozřejmě samozřejmě samozřejmě 
+při při při 
+sis sis sis 
+podle podle podle 
+vidím vidím vidím 
+lidí lidí lidí 
+vše vše vše 
+náš náš náš 
+dát dát dát 
+běž běž běž 
+nebyl nebyl nebyl 
+dostal dostal dostal 
+znamená znamená znamená 
+dělá dělá dělá 
+pomoc pomoc pomoc 
+dal dal dal 
+jedno jedno jedno 
+toto toto toto 
+tenhle tenhle tenhle 
+oni oni oni 
+znovu znovu znovu 
+dokud dokud dokud 
+proti proti proti 
+jaký jaký jaký 
+štěstí štěstí štěstí 
+pojďte pojďte pojďte 
+přes přes přes 
+mohli mohli mohli 
+auto auto auto 
+jednu jednu jednu 
+doma doma doma 
+líto líto líto 
+teda teda teda 
+nemá nemá nemá 
+nemůžeš nemůžeš nemůžeš 
+říkám říkám říkám 
+líbí líbí líbí 
+nich nich nich 
+musíte musíte musíte 
+haló haló haló 
+najít najít najít 
+doufám doufám doufám 
+dneska dneska dneska 
+kámo kámo kámo 
+kterou kterou kterou 
+poslouchej poslouchej poslouchej 
+řeknu řeknu řeknu 
+sebou sebou sebou 
+přestaň přestaň přestaň 
+dobrou dobrou dobrou 
+věděl věděl věděl 
+mého mého mého 
+neměl neměl neměl 
+tedy tedy tedy 
+vidíš vidíš vidíš 
+děkuju děkuju děkuju 
+dělej dělej dělej 
+ví ví ví 
+pojďme pojďme pojďme 
+vámi vámi vámi 
+příliš příliš příliš 
+pět pět pět 
+byly byly byly 
+potřebuju potřebuju potřebuju 
+pohodě pohodě pohodě 
+odsud odsud odsud 
+tolik tolik tolik 
+minut minut minut 
+tento tento tento 
+celou celou celou 
+slyšel slyšel slyšel 
+stát stát stát 
+námi námi námi 
+svého svého svého 
+podívejte podívejte podívejte 
+kdybych kdybych kdybych 
+nejsou nejsou nejsou 
+noci noci noci 
+zemi zemi zemi 
+zabít zabít zabít 
+nebudu nebudu nebudu 
+vzít vzít vzít 
+prdele prdele prdele 
+velký velký velký 
+sama sama sama 
+jaké jaké jaké 
+kteří kteří kteří 
+nemáš nemáš nemáš 
+uvidíme uvidíme uvidíme 
+matka matka matka 
+zrovna zrovna zrovna 
+vlastní vlastní vlastní 
+buď buď buď 
+číslo číslo číslo 
+takový takový takový 
+tvé tvé tvé 
+abyste abyste abyste 
+ruce ruce ruce 
+dám dám dám 
+jinak jinak jinak 
+sobě sobě sobě 
+nemůže nemůže nemůže 
+muset muset muset 
+vždy vždy 
+později později 
+muže muže 
+nechat nechat 
+srdce srdce 
+koho koho 
+mohu mohu 
+pomoct pomoct 
+dolů dolů 
+dveře dveře 
+všem všem 
+dejte dejte 
+nechte nechte 
+vždyť vždyť 
+miluju miluju 
+správně správně 
+nebylo nebylo 
+nejsi nejsi 
+jednoho jednoho 
+zabil zabil 
+skoro skoro 
+konec konec 
+děláte děláte 
+pozdě pozdě 
+tyhle tyhle 
+nad nad 
+svět svět 
+přímo přímo 
+zde zde 
+táta táta 
+musel musel 
+myslela myslela 
+říkala říkala 
+kolem kolem 
+dům dům 
+venku venku 
+myslí myslí 
+chlap chlap 
+znám znám 
+dovnitř dovnitř 
+dolarů dolarů 
+máma máma 
+pánové pánové 
+radši radši 
+našel našel 
+života života 
+čtyři čtyři 
+ostatní ostatní 
+bůh bůh 
+seš seš 
+nějak nějak 
+nápad nápad 
+mne mne 
+světě světě 
+drž drž 
+dělám dělám 
+hrát hrát 
+brzy brzy 
+skvělý skvělý 
+žít žít 
+jasný jasný 
+ach ach 
+počkejte počkejte 
+vrátit vrátit 
+slečno slečno 
+hodin hodin 
+aspoň aspoň 
+svoje svoje 
+něm něm 
+oči oči 
+viděla viděla 
+včera včera 
+mou mou 
+udělám udělám 
+nějakou nějakou 
+půjdu půjdu 
+tuhle tuhle 
+zdá zdá 
+hlavu hlavu 
+všech všech 
+strach strach 
+času času 
+někde někde 
+oba oba 
+celé celé 
+nový nový 
+naší naší 
+jiného jiného 
+nahoru nahoru 
+šel šel 
+nebyla nebyla 
+abychom abychom 
+vzal vzal 
+nechceš nechceš 
+zpět zpět 
+zůstat zůstat 
+cítím cítím 
+muži muži 
+zatím zatím 
+nemáme nemáme 
+nemůžeme nemůžeme 
+přijde přijde 
+rok rok 
+říkáš říkáš 
+malý malý 
+tys tys 
+holka holka 
+týden týden 
+stane stane 
+daleko daleko 
+jdeš jdeš 
+pěkně pěkně 
+dělal dělal 
+svým svým 
+čím čím 
+the the 
+více více 
+dokonce dokonce 
+zbraň zbraň 
+jiný jiný 
+vaší vaší 
+dřív dřív 
+ni ni 
+copak copak 
+ně ně 
+chlape chlape 
+nejde nejde 
+této této 
+smrti smrti 
+cestu cestu 
+podívat podívat 
+země země 
+počkat počkat 
+skvělé skvělé 
+ženy ženy 
+předtím předtím 
+tahle tahle 
+jich jich 
+nyní nyní 
+žádná žádná 
+klid klid 
+udělala udělala 
+vaši vaši 
+syn syn 
+slovo slovo 
+ženu ženu 
+kluk kluk 
+takové takové 
+spát spát 
+přítel přítel 
+dny dny 
+potřebujeme potřebujeme 
+promluvit promluvit 
+mluvíš mluvíš 
+cokoliv cokoliv 
+stačí stačí 
+new new 
+mrtvý mrtvý 
+moji moji 
+špatně špatně 
+konečně konečně 
+chvilku chvilku 
+roky roky 
+ono ono 
+jistý jistý 
+neviděl neviděl 
+problémy problémy 
+řekněte řekněte 
+dá dá 
+auta auta 
+šest šest 
+ruku ruku 
+docela docela 
+hodiny hodiny 
+policie policie 
+chtějí chtějí 
+nemohl nemohl 
+otce otce 
+jseš jseš 
+chtít chtít 
+vypadáš vypadáš 
+doktore doktore 
+nechal nechal 
+nechtěl nechtěl 
+pokoj pokoj 
+deset deset 
+madam madam 
+jediný jediný 
+potřebuji potřebuji 
+věřit věřit 
+neboj neboj 
+naši naši 
+tou tou 
+přišla přišla 
+věcí věcí 
+domu domu 
+životě životě 
+prachy prachy 
+nejdřív nejdřív 
+jmenuje jmenuje 
+důvod důvod 
+mnoho mnoho 
+nemyslím nemyslím 
+pocit pocit 
+raději raději 
+tvá tvá 
+dole dole 
+dne dne 
+nikoho nikoho 
+znáš znáš 
+stojí stojí 
+možné možné 
+přijít přijít 
+chápu chápu 
+proboha proboha 
+říkat říkat 
+tělo tělo 
+mým mým 
+neřekl neřekl 
+velké velké 
+super super 
+cestě cestě 
+smrt smrt 
+vezmu vezmu 
+jídlo jídlo 
+tomhle tomhle 
+potřebuje potřebuje 
+šanci šanci 
+doktor doktor 
+všude všude 
+dámy dámy 
+zní zní 
+bejt bejt 
+ted ted 
+vidíte vidíte 
+kapitáne kapitáne 
+jet jet 
+dobu dobu 
+mojí mojí 
+mohlo mohlo 
+místě místě 
+půl půl 
+zvláštní zvláštní 
+loď loď 
+hubu hubu 
+jděte jděte 
+odejít odejít 
+nemohu 
+starý 
+taková 
+odtud 
+nemáte 
+rozumím 
+velice 
+bratr 
+nedělej 
+školy 
+nové 
+nevíš 
+čau 
+doby 
+kluci 
+odkud 
+tvou 
+nemůžete 
+vězení 
+jaká 
+tudy 
+pouze 
+výborně 
+malá 
+vem 
+města 
+těžké 
+aha 
+našli 
+nevadí 
+město 
+což 
+skvěle 
+blázen 
+pomoci 
+přátelé 
+během 
+ukaž 
+vrať 
+světa 
+mnohem 
+neměla 
+ó 
+telefon 
+nimi 
+říkají 
+miláčku 
+zeptat 
+chlapi 
+peněz 
+vrátím 
+sbohem 
+udělej 
+nechce 
+dní 
+začal 
+vezmi 
+jiné 
+dr 
+mluvil 
+čeká 
+poprvé 
+mimo 
+svých 
+li 
+krev 
+jacku 
+holky 
+zavolám 
+nahoře 
+uděláme 
+zůstaň 
+příběh 
+velká 
+líp 
+otče 
+pracovat 
+kdybys 
+nakonec 
+chyba 
+jakou 
+vypadni 
+plán 
+syna 
+víme 
+támhle 
+vede 
+pokoji 
+večeři 
+rodina 
+chlapče 
+cesty 
+film 
+potřebovat 
+potřebuješ 
+způsob 
+zavolat 
+půjdeme 
+běžte 
+kromě 
+pana 
+nebudeš 
+mělo 
+tohoto 
+jasné 
+čekat 
+myslet 
+spoustu 
+skutečně 
+poslouchejte 
+nohy 
+věděla 
+začít 
+chceme 
+slyšet 
+smysl 
+rodiče 
+dala 
+lety 
+domě 
+přišli 
+žije 
+našeho 
+větší 
+čeho 
+dobrej 
+případ 
+jediná 
+mém 
+nějaká 
+několik 
+miluji 
+případě 
+mluví 
+nemusíš 
+mých 
+vrátil 
+neříkej 
+joe 
+ode 
+láska 
+čemu 
+jedeme 
+moment 
+zbraně 
+městě 
+viděli 
+chtěli 
+uvnitř 
+svoji 
+you 
+tyto 
+snažím 
+pěkný 
+důležité 
+neví 
+tuto 
+malé 
+pamatuješ 
+dostali 
+rádi 
+prdel 
+udělali 
+druhé 
+špatné 
+zastavit 
+věřím 
+zatraceně 
+začíná 
+t 
+někam 
+spíš 
+znáte 
+klidně 
+zprávy 
+me 
+takového 
+pohyb 
+straně 
+dostanu 
+vašeho 
+žádnou 
+škole 
+nevěděl 
+cos 
+okamžitě 
+mysli 
+najednou 
+tisíc 
+hlavně 
+každou 
+takovou 
+hrozně 
+pořádně 
+však 
+mluvím 
+jistá 
+chodit 
+hlavní 
+rodinu 
+nikomu 
+slyšíš 
+patří 
+hlavy 
+tvého 
+páni 
+vlasy 
+měsíc 
+sestra 
+zkus 
+charlie 
+špatný 
+ticho 
+prý 
+cesta 
+vedle 
+hodinu 
+největší 
+tomto 
+tato 
+uklidni 
+strašně 
+celá 
+naprosto 
+tamhle 
+bolí 
+dostala 
+cenu 
+dcera 
+dělají 
+johne 
+titulky 
+vrátí 
+zas 
+l 
+člověče 
+sedm 
+velkou 
+neměli 
+otevři 
+šla 
+náhodou 
+lidem 
+člověka 
+policii 
+ježíši 
+zavolej 
+dostane 
+rukou 
+slova 
+zbytek 
+uh 
+nejste 
+blízko 
+slyšela 
+tajemství 
+tým 
+chlapci 
+lépe 
+šaty 
+svém 
+zemřel 
+koukni 
+našich 
+nejsme 
+rozumíš 
+druhý 
+sen 
+místa 
+zabiju 
+půjde 
+manžel 
+nechápu 
+čertu 
+tý 
+právo 
+záleží 
+často 
+bojovat 
+poslal 
+část 
+pomalu 
+dáme 
+sami 
+kým 
+chlapec 
+vody 
+and 
+šlo 
+hajzlu 
+představit 
+král 
+ztratil 
+zdravím 
+bohu 
+žes 
+normální 
+navíc 
+dáš 
+okay 
+přísahám 
+drahá 
+téhle 
+hezký 
+říkáte 
+odešel 
+starosti 
+uvěřit 

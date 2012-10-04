@@ -1,86 +1,1000 @@
-Zawartość Wikipedii jest wolna, co oznacza nie tylko, że jest bezpłatna,
-lecz także, że jej treść może być dowolnie kopiowana i modyfikowana
-przez każdego. Wikipedia jest wiki, co oznacza, że każdy, kto ma dostęp
-do Internetu, może ją edytować, dodając do niej nowe treści lub
-korygując błędy w starych poprzez proste kliknięcie na zakładkę "edytuj"
-i pisanie w sposób przypominający działanie prostego edytora tekstu.
-Teoretycznie z punktu widzenia budowania wiarygodnej encyklopedii
-dopuszczenie każdego do modyfikowania zawartości Wikipedii brzmi
-fatalnie, jednak w praktyce ze względu na znaczną przewagę osób
-edytujących w dobrej wierze nad osobami edytującymi w złej wierze,
-koncepcja otwartości Wikipedii sprawdza się. Wyjątkiem od zasady
-otwartości są tylko nieliczne hasła, które są zablokowane, takie jak np.
-Strona Główna, gdyż są one częstym celem aktów wandalizmu.
-
-Jakkolwiek poszczególne wersje językowe Wikipedii technicznie sprawiają
-wrażenie oddzielnych projektów, jest to w istocie jeden wielki,
-wielojęzyczny projekt, którego celem jest tworzenie największej
-encyklopedii we wszelkich możliwych językach. Poszczególne wersje
-językowe Wikipedii są tworzone przez różne grupy użytkowników i dlatego
-nie są one prostym tłumaczeniem jej wersji anglojęzycznej. Z drugiej
-jednak strony nie ma żadnych przeszkód, aby tłumaczyć wybrane artykuły z
-jednej wersji językowej na drugą, gdyż Wikipedia jest jednym projektem w
-wielu językach, funkcjonującym w oparciu o jedną licencję. Aby ułatwić
-nawigację między różnymi wersjami językowymi poszczególnych artykułów,
-istnieją specjalne linki interwiki.
-
-Zawartość Wikipedii nie jest kontrolowana przez ściśle określoną radę
-redakcyjną, lecz jest tworzona przez dynamicznie i spontanicznie
-rozwijającą się społeczność edytorów, do której każdy może w każdej
-chwili dołączyć, pod warunkiem, że akceptuje podstawowe zasady jej
-funkcjonowania. Społeczność ta w dużym stopniu sama ustala poprzez
-dyskusje i głosowania, w którym kierunku podąża to przedsięwzięcie. Brak
-rady redakcyjnej nie oznacza jednak, że treść artykułów nie jest przez
-nikogo weryfikowana. Proces recenzowania, znany z papierowych
-wydawnictw, jest w Wikipedii zastąpiony mechanizmem ciągłego wzajemnego
-poprawiania błędów przez wszystkich uczestników projektów.
-
-Ze względu na to, że Wikipedia znajduje się w permanentnym procesie
-tworzenia, w którym może wziąć udział każdy, kto chce, jeśli tylko
-akceptuje podstawowe zasady jego funkcjonowania, różni się ona znacząco
-od typowych encyklopedii wydawanych na papierze. Z tego względu należy
-korzystać z niej z pewną ostrożnością. Przy tym trybie tworzenia nie
-można zagwarantować, że nie zawiera ona błędów. Niemniej mechanizm
-wzajemnej kontroli jednych edytorów przez drugich powoduje, że zwykle
-artykuły stają się z czasem coraz lepsze. Stąd na ogół można mieć
-większe zaufanie do artykułów, które powstały dość dawno temu i były od
-tego czasu wielokrotnie edytowane. Jednak nawet w przypadku tego rodzaju
-artykułów istnieje ryzyko, że ktoś dodał do nich ostatnio fałszywe
-informacje lub że stały się one ofiarą wandalizmu. Jeżeli znalezione w
-Wikipedii informacje chcesz wykorzystywać np. w pracy, nauce lub innym
-funkcjonalnym celu, powinieneś zweryfikować je w innych źródłach,
-uważanych za wiarygodne. Tylko w ten sposób możesz ustrzec się
-wprowadzenia w błąd przez osoby, które mogły wolną encyklopedię
-potraktować jako platformę do uprawiania mistyfikacji. Najlepiej
-prześledź historię edycji artykułu i sprawdź, kto umieścił interesujące
-Cię informacje, wymaga to jednak pewnej pracy. Historia identyfikuje
-autorów zmian przez adres IP (wtedy jest to autor anonimowy) albo przez
-nazwę konta zarejestrowanego użytkownika, co jednak nie zawsze oznacza
-brak anonimowości. Aby to rozstrzygnąć, sprawdź na stronie danego konta,
-czy jest możliwe ustalenie elementarnych danych jego właściciela, i
-zweryfikuj ich związek z Wikipedią w innych miejscach, np. w Internecie.
-Mając takie informacje, będzie można pewniej oceniać wiarygodność
-autora, gdyż - choć nie jest to prawda absolutna - z praktyki
-wikipedystycznej wiadomo, że autorzy znani z prawdziwego imienia i
-nazwiska są rzetelniejsi niż anonimowi lub półanonimowi.
-
-Z drugiej jednak strony Wikipedia w porównaniu z tradycyjnymi
-encyklopediami znacznie szybciej reaguje na zachodzące w świecie zmiany.
-Dzięki możliwości szybkiego edytowania można w niej modyfikować artykuły
-dotyczące bieżących wydarzeń w chwilę po ich wystąpieniu. Ponadto dzięki
-temu, że nowe artykuły są pisane spontanicznie przez osoby
-zainteresowane ich tematyką, w Wikipedii można często znaleźć opisy
-zagadnień, które są całkowicie pomijane przez tradycyjne encyklopedie.
-Dlatego opracowane w Wikipedii hasła mogą bardziej przypominać artykuły
-na dany temat niż podawać suche dane.
-
-We wszystkich projektach Fundacji Wikimedia obowiązuje zasada śmiało
-edytuj, co oznacza, że nie trzeba nikogo pytać się o zgodę na
-dokonywanie zmian w wybranych przez siebie artykułach. Oprogramowanie
-MediaWiki, na którym oparta jest Wikipedia, zostało napisane w ten
-sposób, aby można było bez trudu odzyskać wcześniejsze wersje artykułów,
-dzięki czemu nie ma obawy, że w wyniku błędnej edycji popsuje się coś na
-trwałe. Należy jednak pamiętać, że inni również mają prawo do edytowania
-Wikipedii. Gdy pojawi się konflikt, należy się czasowo wstrzymać z
-edytowaniem i przedyskutować sprawę na odpowiedniej podstronie
-dyskusyjnej.
+nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie nie 
+to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się się 
+w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w w 
+na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na 
+i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i 
+z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z z 
+co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co co 
+jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest jest 
+że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że że 
+do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do 
+tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak tak 
+jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak jak 
+o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o 
+a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie mnie 
+ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale ale 
+mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi 
+za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za za 
+ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja ja 
+tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu 
+ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci 
+ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty 
+czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy czy 
+go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go go 
+tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym tym 
+tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego tego 
+tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko tylko 
+jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem jestem 
+po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po 
+cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię cię 
+ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma 
+mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam mam 
+już już już już już już już już już już już już już już już już już już już już już już już już już już już już już już już już 
+może może może może może może może może może może może może może może może może może może może może może może może może może może może może może może może 
+jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś jesteś 
+pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan pan 
+dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla dla 
+coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś coś 
+dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze dobrze 
+wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem wiem 
+teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz teraz 
+proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę proszę 
+jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli jeśli 
+od od od od od od od od od od od od od od od od od od od od od od od od 
+tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam tam 
+wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko wszystko 
+masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz masz 
+nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic nic 
+być być być być być być być być być być być być być być być być być być być być być być 
+on on on on on on on on on on on on on on on on on on on on on on 
+więc więc więc więc więc więc więc więc więc więc więc więc więc więc więc więc więc więc więc więc więc więc 
+gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie gdzie 
+będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie będzie 
+są są są są są są są są są są są są są są są są są są są są są 
+ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten ten 
+mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę mogę 
+ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie ciebie 
+bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo bardzo 
+sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie sobie 
+ze ze ze ze ze ze ze ze ze ze ze ze ze ze ze ze ze ze ze 
+wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz wiesz 
+no no no no no no no no no no no no no no no no no no 
+kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy kiedy 
+pani pani pani pani pani pani pani pani pani pani pani pani pani pani pani pani pani pani 
+jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze jeszcze 
+jej jej jej jej jej jej jej jej jej jej jej jej jej jej jej jej jej 
+był był był był był był był był był był był był był był był był był 
+chcę chcę chcę chcę chcę chcę chcę chcę chcę chcę chcę chcę chcę chcę chcę chcę chcę 
+mój mój mój mój mój mój mój mój mój mój mój mój mój mój mój mój mój 
+było było było było było było było było było było było było było było było było było 
+nas nas nas nas nas nas nas nas nas nas nas nas nas nas nas nas 
+by by by by by by by by by by by by by by by by 
+dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego dlaczego 
+przez przez przez przez przez przez przez przez przez przez przez przez przez przez przez przez 
+chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz chcesz 
+ją ją ją ją ją ją ją ją ją ją ją ją ją ją ją 
+jego jego jego jego jego jego jego jego jego jego jego jego jego jego jego 
+tutaj tutaj tutaj tutaj tutaj tutaj tutaj tutaj tutaj tutaj tutaj tutaj tutaj tutaj tutaj 
+ich ich ich ich ich ich ich ich ich ich ich ich ich ich ich 
+też też też też też też też też też też też też też też 
+nigdy nigdy nigdy nigdy nigdy nigdy nigdy nigdy nigdy nigdy nigdy nigdy nigdy nigdy 
+kto kto kto kto kto kto kto kto kto kto kto kto kto kto 
+żeby żeby żeby żeby żeby żeby żeby żeby żeby żeby żeby żeby żeby żeby 
+przepraszam przepraszam przepraszam przepraszam przepraszam przepraszam przepraszam przepraszam przepraszam przepraszam przepraszam przepraszam przepraszam 
+bo bo bo bo bo bo bo bo bo bo bo bo bo 
+mamy mamy mamy mamy mamy mamy mamy mamy mamy mamy mamy mamy mamy 
+naprawdę naprawdę naprawdę naprawdę naprawdę naprawdę naprawdę naprawdę naprawdę naprawdę naprawdę naprawdę naprawdę 
+mu mu mu mu mu mu mu mu mu mu mu mu mu 
+dobra dobra dobra dobra dobra dobra dobra dobra dobra dobra dobra dobra dobra 
+dziękuję dziękuję dziękuję dziękuję dziękuję dziękuję dziękuję dziękuję dziękuję dziękuję dziękuję dziękuję dziękuję 
+porządku porządku porządku porządku porządku porządku porządku porządku porządku porządku porządku porządku porządku 
+możesz możesz możesz możesz możesz możesz możesz możesz możesz możesz możesz możesz 
+panie panie panie panie panie panie panie panie panie panie panie 
+chyba chyba chyba chyba chyba chyba chyba chyba chyba chyba chyba 
+muszę muszę muszę muszę muszę muszę muszę muszę muszę muszę muszę 
+domu domu domu domu domu domu domu domu domu domu domu 
+ona ona ona ona ona ona ona ona ona ona ona 
+nawet nawet nawet nawet nawet nawet nawet nawet nawet nawet nawet 
+właśnie właśnie właśnie właśnie właśnie właśnie właśnie właśnie właśnie właśnie właśnie 
+prawda prawda prawda prawda prawda prawda prawda prawda prawda prawda 
+zrobić zrobić zrobić zrobić zrobić zrobić zrobić zrobić zrobić zrobić 
+zawsze zawsze zawsze zawsze zawsze zawsze zawsze zawsze zawsze zawsze 
+te te te te te te te te te te 
+hej hej hej hej hej hej hej hej hej hej 
+będę będę będę będę będę będę będę będę będę będę 
+gdy gdy gdy gdy gdy gdy gdy gdy gdy gdy 
+moja moja moja moja moja moja moja moja moja moja 
+nam nam nam nam nam nam nam nam nam nam 
+je je je je je je je je je 
+cześć cześć cześć cześć cześć cześć cześć cześć cześć 
+trochę trochę trochę trochę trochę trochę trochę trochę trochę 
+bez bez bez bez bez bez bez bez bez 
+nim nim nim nim nim nim nim nim nim 
+jesteśmy jesteśmy jesteśmy jesteśmy jesteśmy jesteśmy jesteśmy jesteśmy jesteśmy 
+pana pana pana pana pana pana pana pana pana 
+dalej dalej dalej dalej dalej dalej dalej dalej dalej 
+tej tej tej tej tej tej tej tej tej 
+była była była była była była była była była 
+dzięki dzięki dzięki dzięki dzięki dzięki dzięki dzięki dzięki 
+moje moje moje moje moje moje moje moje moje 
+wszyscy wszyscy wszyscy wszyscy wszyscy wszyscy wszyscy wszyscy wszyscy 
+musisz musisz musisz musisz musisz musisz musisz musisz musisz 
+lat lat lat lat lat lat lat lat lat 
+twój twój twój twój twój twój twój twój twój 
+chce chce chce chce chce chce chce chce chce 
+tobą tobą tobą tobą tobą tobą tobą tobą tobą 
+ktoś ktoś ktoś ktoś ktoś ktoś ktoś ktoś 
+więcej więcej więcej więcej więcej więcej więcej więcej 
+dobry dobry dobry dobry dobry dobry dobry dobry 
+czas czas czas czas czas czas czas czas 
+ta ta ta ta ta ta ta ta 
+który który który który który który który który 
+chodź chodź chodź chodź chodź chodź chodź chodź 
+powiedzieć powiedzieć powiedzieć powiedzieć powiedzieć powiedzieć powiedzieć powiedzieć 
+niech niech niech niech niech niech niech niech 
+sam sam sam sam sam sam sam sam 
+boże boże boże boże boże boże boże boże 
+mną mną mną mną mną mną mną mną 
+chodzi chodzi chodzi chodzi chodzi chodzi chodzi chodzi 
+czego czego czego czego czego czego czego czego 
+musimy musimy musimy musimy musimy musimy musimy musimy 
+razem razem razem razem razem razem razem razem 
+raz raz raz raz raz raz raz raz 
+albo albo albo albo albo albo albo albo 
+stało stało stało stało stało stało stało stało 
+was was was was was was was 
+dzień dzień dzień dzień dzień dzień dzień 
+możemy możemy możemy możemy możemy możemy możemy 
+będziesz będziesz będziesz będziesz będziesz będziesz będziesz 
+prostu prostu prostu prostu prostu prostu prostu 
+daj daj daj daj daj daj daj 
+czym czym czym czym czym czym czym 
+lepiej lepiej lepiej lepiej lepiej lepiej lepiej 
+myślę myślę myślę myślę myślę myślę myślę 
+czemu czemu czemu czemu czemu czemu czemu 
+przed przed przed przed przed przed przed 
+my my my my my my my 
+ludzie ludzie ludzie ludzie ludzie ludzie ludzie 
+życie życie życie życie życie życie życie 
+ludzi ludzi ludzi ludzi ludzi ludzi ludzi 
+robisz robisz robisz robisz robisz robisz robisz 
+ok ok ok ok ok ok ok 
+niż niż niż niż niż niż niż 
+przy przy przy przy przy przy przy 
+u u u u u u 
+powiedz powiedz powiedz powiedz powiedz powiedz 
+tych tych tych tych tych tych 
+rzeczy rzeczy rzeczy rzeczy rzeczy rzeczy 
+myślisz myślisz myślisz myślisz myślisz myślisz 
+nikt nikt nikt nikt nikt nikt 
+twoja twoja twoja twoja twoja twoja 
+oczywiście oczywiście oczywiście oczywiście oczywiście oczywiście 
+kim kim kim kim kim kim 
+oni oni oni oni oni oni 
+mówi mówi mówi mówi mówi mówi 
+stąd stąd stąd stąd stąd stąd 
+miał miał miał miał miał miał 
+niego niego niego niego niego niego 
+jeden jeden jeden jeden jeden jeden 
+siebie siebie siebie siebie siebie siebie 
+im im im im im im 
+powiedział powiedział powiedział powiedział powiedział powiedział 
+dziś dziś dziś dziś dziś dziś 
+twoje twoje twoje twoje twoje twoje 
+czasu czasu czasu czasu czasu czasu 
+pod pod pod pod pod pod 
+musi musi musi musi musi musi 
+moim moim moim moim moim moim 
+dwa dwa dwa dwa dwa dwa 
+taki taki taki taki taki taki 
+temu temu temu temu temu temu 
+wtedy wtedy wtedy wtedy wtedy wtedy 
+które które które które które które 
+sie sie sie sie sie sie 
+aby aby aby aby aby aby 
+cholera cholera cholera cholera cholera cholera 
+pewnie pewnie pewnie pewnie pewnie 
+kurwa kurwa kurwa kurwa kurwa 
+takie takie takie takie takie 
+wie wie wie wie wie 
+wszystkie wszystkie wszystkie wszystkie wszystkie 
+cóż cóż cóż cóż cóż 
+dużo dużo dużo dużo dużo 
+dzieje dzieje dzieje dzieje dzieje 
+ile ile ile ile ile 
+potem potem potem potem potem 
+mojego mojego mojego mojego mojego 
+mieć mieć mieć mieć mieć 
+znaczy znaczy znaczy znaczy znaczy 
+będziemy będziemy będziemy będziemy będziemy 
+iść iść iść iść iść 
+dzieci dzieci dzieci dzieci dzieci 
+trzeba trzeba trzeba trzeba trzeba 
+wygląda wygląda wygląda wygląda wygląda 
+skąd skąd skąd skąd skąd 
+stary stary stary stary stary 
+byłem byłem byłem byłem byłem 
+cały cały cały cały cały 
+kochanie kochanie kochanie kochanie kochanie 
+można można można można można 
+dlatego dlatego dlatego dlatego dlatego 
+jasne jasne jasne jasne jasne 
+szybko szybko szybko szybko szybko 
+moją moją moją moją moją 
+wam wam wam wam wam 
+jako jako jako jako jako 
+myśli myśli myśli myśli myśli 
+zaraz zaraz zaraz zaraz zaraz 
+rozumiem rozumiem rozumiem rozumiem rozumiem 
+miejsce miejsce miejsce miejsce miejsce 
+mojej mojej mojej mojej mojej 
+tę tę tę tę tę 
+swoje swoje swoje swoje swoje 
+nią nią nią nią nią 
+nich nich nich nich nich 
+wiele wiele wiele wiele wiele 
+wszystkich wszystkich wszystkich wszystkich wszystkich 
+kocham kocham kocham kocham kocham 
+mają mają mają mają mają 
+jakiś jakiś jakiś jakiś jakiś 
+jakieś jakieś jakieś jakieś 
+idź idź idź idź 
+mówię mówię mówię mówię 
+pomóc pomóc pomóc pomóc 
+nad nad nad nad 
+takiego takiego takiego takiego 
+przykro przykro przykro przykro 
+jutro jutro jutro jutro 
+tobie tobie tobie tobie 
+przestań przestań przestań przestań 
+mówisz mówisz mówisz mówisz 
+trzy trzy trzy trzy 
+ani ani ani ani 
+jaki jaki jaki jaki 
+ojciec ojciec ojciec ojciec 
+robić robić robić robić 
+wiedzieć wiedzieć wiedzieć wiedzieć 
+kilka kilka kilka kilka 
+widzisz widzisz widzisz widzisz 
+miałem miałem miałem miałem 
+dzisiaj dzisiaj dzisiaj dzisiaj 
+mamo mamo mamo mamo 
+robi robi robi robi 
+tyle tyle tyle tyle 
+zobaczyć zobaczyć zobaczyć zobaczyć 
+która która która która 
+zbyt zbyt zbyt zbyt 
+później później później później 
+tato tato tato tato 
+niej niej niej niej 
+kiedyś kiedyś kiedyś kiedyś 
+świetnie świetnie świetnie świetnie 
+sposób sposób sposób sposób 
+kogoś kogoś kogoś kogoś 
+pewno pewno pewno pewno 
+myślałem myślałem myślałem myślałem 
+pieniądze pieniądze pieniądze pieniądze 
+pracy pracy pracy pracy 
+widzę widzę widzę widzę 
+zanim zanim zanim zanim 
+tą tą tą tą 
+będą będą będą będą 
+aż aż aż aż 
+życia życia życia życia 
+długo długo długo długo 
+bardziej bardziej bardziej bardziej 
+panu panu panu panu 
+każdy każdy każdy każdy 
+dni dni dni dni 
+och och och och 
+chciałem chciałem chciałem chciałem 
+widziałem widziałem widziałem widziałem 
+oh oh oh oh 
+sir sir sir sir 
+dnia dnia dnia dnia 
+powiem powiem powiem powiem 
+nocy nocy nocy nocy 
+imię imię imię imię 
+taka taka taka taka 
+swoją swoją swoją swoją 
+znowu znowu znowu znowu 
+spokój spokój spokój spokój 
+nadzieję nadzieję nadzieję nadzieję 
+twoim twoim twoim 
+żebyś żebyś żebyś 
+znam znam znam 
+wy wy wy 
+koniec koniec koniec 
+ponieważ ponieważ ponieważ 
+spójrz spójrz spójrz 
+rację rację rację 
+stanie stanie stanie 
+słuchaj słuchaj słuchaj 
+nami nami nami 
+miło miło miło 
+razie razie razie 
+twojej twojej twojej 
+chciałbym chciałbym chciałbym 
+pierwszy pierwszy pierwszy 
+jakie jakie jakie 
+drzwi drzwi drzwi 
+żyje żyje żyje 
+dobre dobre dobre 
+problem problem problem 
+nasz nasz nasz 
+posłuchaj posłuchaj posłuchaj 
+roku roku roku 
+we we we 
+gdyby gdyby gdyby 
+przecież przecież przecież 
+potrzebuję potrzebuję potrzebuję 
+czuję czuję czuję 
+nasze nasze nasze 
+dom dom dom 
+człowiek człowiek człowiek 
+dziecko dziecko dziecko 
+zamknij zamknij zamknij 
+wszystkim wszystkim wszystkim 
+mógł mógł mógł 
+sama sama sama 
+wciąż wciąż wciąż 
+powiedziałem powiedziałem powiedziałem 
+mówić mówić mówić 
+minut minut minut 
+zostać zostać zostać 
+mów mów mów 
+dokładnie dokładnie dokładnie 
+mama mama mama 
+którzy którzy którzy 
+chwilę chwilę chwilę 
+twoją twoją twoją 
+zrobił zrobił zrobił 
+samo samo samo 
+podoba podoba podoba 
+idziemy idziemy idziemy 
+jesteście jesteście jesteście 
+zabić zabić zabić 
+lubię lubię lubię 
+kogo kogo kogo 
+spokojnie spokojnie spokojnie 
+jeżeli jeżeli jeżeli 
+bym bym bym 
+sobą sobą sobą 
+były były były 
+chciał chciał chciał 
+mówiłem mówiłem mówiłem 
+czegoś czegoś czegoś 
+lub lub lub 
+gdzieś gdzieś gdzieś 
+mały mały mały 
+the the the 
+nadal nadal nadal 
+rozumiesz rozumiesz rozumiesz 
+znaleźć znaleźć znaleźć 
+facet facet facet 
+prawie prawie prawie 
+bądź bądź bądź 
+broń broń broń 
+poza poza poza 
+macie macie macie 
+chodźmy chodźmy chodźmy 
+byłeś byłeś byłeś 
+miała miała miała 
+zrobię zrobię zrobię 
+został został został 
+mogą mogą mogą 
+wydaje wydaje wydaje 
+wcześniej wcześniej wcześniej 
+noc noc noc 
+żadnych żadnych żadnych 
+razy razy razy 
+dość dość dość 
+trzymaj trzymaj trzymaj 
+znasz znasz znasz 
+pomocy pomocy pomocy 
+moich moich moich 
+jedno jedno jedno 
+czekaj czekaj czekaj 
+weź weź weź 
+pomysł pomysł pomysł 
+jakby jakby jakby 
+idę idę idę 
+ciągle ciągle ciągle 
+oczy oczy oczy 
+końcu końcu końcu 
+porozmawiać porozmawiać porozmawiać 
+oto oto oto 
+twojego twojego twojego 
+innego innego innego 
+pamiętasz pamiętasz pamiętasz 
+lata lata lata 
+s s s 
+ojca ojca ojca 
+dwie dwie dwie 
+powinieneś powinieneś powinieneś 
+halo halo halo 
+powinniśmy powinniśmy powinniśmy 
+niczego niczego 
+którą którą 
+sprawy sprawy 
+numer numer 
+jednak jednak 
+takim takim 
+pokoju pokoju 
+żebym żebym 
+powodu powodu 
+świat świat 
+wystarczy wystarczy 
+dokąd dokąd 
+samochód samochód 
+pewien pewien 
+panowie panowie 
+drogi drogi 
+źle źle 
+napisy napisy 
+swój swój 
+rano rano 
+jedną jedną 
+nowy nowy 
+dwóch dwóch 
+pozwól pozwól 
+matka matka 
+patrz patrz 
+idzie idzie 
+miejscu miejscu 
+byłam byłam 
+ego ego 
+wyglądasz wyglądasz 
+sprawa sprawa 
+nikogo nikogo 
+całe całe 
+rzecz rzecz 
+nimi nimi 
+którego którego 
+życiu życiu 
+prawo prawo 
+całą całą 
+pieniędzy pieniędzy 
+bóg bóg 
+byś byś 
+wiedziałem wiedziałem 
+świecie świecie 
+dam dam 
+uważaj uważaj 
+byli byli 
+chcą chcą 
+widzieć widzieć 
+zostaw zostaw 
+jedna jedna 
+kobiety kobiety 
+jezu jezu 
+swojego swojego 
+najpierw najpierw 
+swoim swoim 
+diabła diabła 
+jednego jednego 
+zrób zrób 
+znów znów 
+da da 
+zaczekaj zaczekaj 
+miłość miłość 
+czujesz czujesz 
+którym którym 
+dać dać 
+dziewczyna dziewczyna 
+ręce ręce 
+mówił mówił 
+śmierć śmierć 
+musiał musiał 
+cholery cholery 
+których których 
+powinienem powinienem 
+wczoraj wczoraj 
+pamiętam pamiętam 
+całkiem całkiem 
+żona żona 
+właściwie właściwie 
+pracę pracę 
+powiedziała powiedziała 
+parę parę 
+pójdę pójdę 
+witam witam 
+you you 
+sądzę sądzę 
+wiemy wiemy 
+której której 
+powiedziałeś powiedziałeś 
+podczas podczas 
+mówią mówią 
+również również 
+dobranoc dobranoc 
+robię robię 
+jack jack 
+słyszałem słyszałem 
+telefon telefon 
+pięć pięć 
+szybciej szybciej 
+poważnie poważnie 
+dolarów dolarów 
+kobieta kobieta 
+zrobiłem zrobiłem 
+miejsca miejsca 
+pytanie pytanie 
+wielu wielu 
+rób rób 
+swoich swoich 
+wina wina 
+skoro skoro 
+wieczór wieczór 
+gra gra 
+prawdę prawdę 
+inaczej inaczej 
+gówno gówno 
+śmierci śmierci 
+wrócić wrócić 
+witaj witaj 
+dopiero dopiero 
+natychmiast natychmiast 
+wcale wcale 
+wierzę wierzę 
+martw martw 
+powiesz powiesz 
+wielki wielki 
+swojej swojej 
+zobaczenia zobaczenia 
+poznać poznać 
+stać stać 
+gdybym gdybym 
+jednym jednym 
+one one 
+innych innych 
+człowieka człowieka 
+ważne ważne 
+john john 
+dawaj dawaj 
+zrobiłeś zrobiłeś 
+ziemi ziemi 
+także także 
+wspaniale wspaniale 
+nowego nowego 
+dziewczyny dziewczyny 
+chłopaki chłopaki 
+panią panią 
+tata tata 
+inne inne 
+nieźle nieźle 
+nowa nowa 
+sprawę sprawę 
+cokolwiek cokolwiek 
+widziałeś widziałeś 
+słowa słowa 
+myślałam myślałam 
+idziesz idziesz 
+miałam miałam 
+świata świata 
+wiecie wiecie 
+każdego każdego 
+czasem czasem 
+chcemy chcemy 
+nasza nasza 
+dostać dostać 
+chciałam chciałam 
+między między 
+naszych naszych 
+poczekaj poczekaj 
+każdym każdym 
+godziny godziny 
+takich takich 
+inny inny 
+żyć żyć 
+chwili chwili 
+serce serce 
+jaką jaką 
+żadnego żadnego 
+lecz lecz 
+udało udało 
+skarbie skarbie 
+słucham słucham 
+człowieku człowieku 
+nazywa nazywa 
+powrotem powrotem 
+naszej naszej 
+super super 
+powinien powinien 
+działa działa 
+dopóki dopóki 
+cztery cztery 
+potrzebuje potrzebuje 
+przynajmniej przynajmniej 
+szczęście szczęście 
+boga boga 
+pokój pokój 
+zabrać zabrać 
+wiedział wiedział 
+ogóle ogóle 
+syn syn 
+wyjść wyjść 
+byłoby byłoby 
+naszego naszego 
+zrobimy zrobimy 
+mógłbym mógłbym 
+daleko daleko 
+naszym naszym 
+ostatni ostatni 
+doktorze doktorze 
+wszystkiego wszystkiego 
+jaka jaka 
+możliwe możliwe 
+raczej raczej 
+zgadza zgadza 
+twoich twoich 
+możecie możecie 
+wieczorem wieczorem 
+należy należy 
+szkoły szkoły 
+miałeś miałeś 
+brzmi brzmi 
+dr dr 
+zrobisz zrobisz 
+pół pół 
+głowę głowę 
+mąż mąż 
+wybacz wybacz 
+czymś czymś 
+cieszę cieszę 
+wody wody 
+ruszaj ruszaj 
+chcecie chcecie 
+przeciwko przeciwko 
+mała mała 
+miasta miasta 
+cała cała 
+pojęcia pojęcia 
+dziwne dziwne 
+czasie czasie 
+rozmawiać rozmawiać 
+głowy głowy 
+wiadomość wiadomość 
+lubisz lubisz 
+widzenia widzenia 
+twarz twarz 
+najbardziej najbardziej 
+wracaj wracaj 
+ode ode 
+czasami czasami 
+mieli mieli 
+plan plan 
+strony strony 
+kapitanie kapitanie 
+taką taką 
+uda uda 
+czeka czeka 
+rok rok 
+policja policja 
+mogłem mogłem 
+wejść wejść 
+brat brat 
+ciało ciało 
+popatrz popatrz 
+końca końca 
+wrócę wrócę 
+zobaczymy zobaczymy 
+byliśmy byliśmy 
+potrzebujemy potrzebujemy 
+obchodzi obchodzi 
+kiedykolwiek kiedykolwiek 
+pomoc 
+mieliśmy 
+gotowy 
+jechać 
+zostanie 
+zna 
+drodze 
+późno 
+rodziny 
+and 
+droga 
+pewna 
+l 
+zewnątrz 
+słyszysz 
+godzin 
+środku 
+uwierzyć 
+zostało 
+syna 
+człowiekiem 
+film 
+pomóż 
+zły 
+słowo 
+spać 
+została 
+innym 
+mógłbyś 
+lubi 
+widziałam 
+góry 
+t 
+zupełnie 
+pokaż 
+wziąć 
+rękę 
+chłopcy 
+pójść 
+robota 
+dół 
+jedziemy 
+potrzebujesz 
+ostatnio 
+moi 
+nazywam 
+prawa 
+blisko 
+radę 
+pl 
+wielkie 
+zabił 
+zrobi 
+tydzień 
+joe 
+wkrótce 
+robimy 
+prosto 
+piękna 
+kimś 
+mogła 
+m 
+stronie 
+frank 
+mógłby 
+wypadek 
+gdybyś 
+drogę 
+część 
+naszą 
+tędy 
+leci 
+górę 
+ciężko 
+zależy 
+widział 
+małe 
+napisów 
+mieście 
+wszędzie 
+nowe 
+chłopak 
+cicho 
+kraju 
+praca 
+mało 
+taa 
+robią 
+mówiłeś 
+chociaż 
+byłaś 
+roboty 
+temat 
+tłumaczenie 
+miasto 
+zostań 
+przyjaciel 
+pierwsze 
+miesięcy 
+oznacza 
+mówiąc 
+wasza 
+koleś 
+krew 
+mniej 
+synu 
+zapomnij 
+ponad 
+chciałabym 
+nieważne 
+powinnaś 
+tymi 
+spotkanie 
+kłopoty 
+chciała 
+żaden 
+drugi 
+krwi 
+pa 
+charlie 
+zobacz 
+powinno 
+racja 
+sprawie 
+szkoda 
+wiedzą 
+zatrzymać 
+stronę 
+miłości 
+powiedziałam 
+jakąś 
+trudno 
+spróbuj 
+głupi 
+pewnego 
+całym 
+wami 
+złe 
+jakoś 
+niemożliwe 
+spotkać 
+choć 
+pracować 
+george 
+nazwisko 
+zdjęcia 
+znalazłem 
+okay 
+samochodu 
+razu 
+dziewczynę 
+chwileczkę 
+serio 
+sądzisz 
+zaczyna 
+samego 
+dał 
+środka 
+ojcze 
+najlepszy 
+serca 
+dawno 
+mogli 
+pracuje 
+wolno 
+rodzina 
+panem 
+boję 
+drugiej 
+trzech 
+piękne 
+chodźcie 
+otwórz 
+sami 
+przyjaciół 
+nagle 
+przykład 
+ojcem 
+szansę 
+żadnej 
+uspokój 
+słyszałeś 
+szkole 
+broni 
+myśleć 
+wracam 
+matki 
+nowym 
+powinnam 
+często 
+faceta 
+zostały 
+ruszać 
+muszą 
+głowie 
+odejść 
+sześć 
+me 
+według 
+zabierz 
+czekać 
+czyż 
+czuje 
+zostawić 
+inni 
+wezmę 
+mężczyzna 
+doktor 
+pogadać 
+żonę 
+jakaś 
+nogi 
+będziecie 
+początku 
+dasz 
+policji 
+siostra 
+wiedziałam 
+brata 
+musiałem 
+tom 
+sprawdzić 
+pokazać 
+godzinę 
+problemy 
+historia 
+b 
+powodzenia 
+wieku 
+przyszedł 
+pierwsza 
+kilku 
+wystarczająco 
+uwaga 
+cie 
+trzymać 
+ciała 
+org 
+http 
+mówiłam 
+michael 
+przyjdzie 
+całkowicie 
+zabiję 
+zdjęcie 
+stój 
+około 
+zabawne 
+obok 
+prawdopodobnie 
+powie 
+tysięcy 
+zadzwonić 
+gotowi 
+pomoże 
+nikomu 
+uwagę 
+wróci 
+spokoju 
+panno 
+niczym 
+kupić 
+bracie 
+walczyć 
+historii 
+znać 
+prawdziwy 
+rodzice 
+dobrym 
+ostatnie 
+dłużej 
+większość 
+górze 
+niestety 
+wspólnego 
+słyszę 
+tyłu 
+zmienić 
+grać 
+ulicy 
+boli 
+obiecuję 
+wojny 
+tygodniu 
+oraz 
+strasznie 
+wstawaj 
+zadzwonię 
+jednej 
+proste 
+pracuję 
+mieszka 
+samym 
+szefie 
+chwila 
+niedługo 
+wracać 
+istnieje 
+łatwo 
+włosy 
+ziemię 
+kochasz 
+musicie 
+rady 
+gość 
+jakim 
+myśl 
+pomyślałem 
+chryste 
+jedynie 
+kocha 
+zacząć 
+widać 

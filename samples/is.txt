@@ -1,101 +1,1000 @@
-er frjálst alfræðirit sem er búið til í samvinnu, með svokölluðu wiki
-kerfi. Fyrir utan almennan alfræðitexta, er alfræðiefnið á síðunni oft
-tengt í almanök og landafræðiskrár, að auki er haldið utan um nýlega
-atburði.
-
-Fram að júní 2009 féll mestallur texti á Wikipedia undir Frjálsa GNU
-handbókarleyfið en þá var skipt yfir í Creative Commons
-Attribution-ShareAlike (CC-by-SA) 3.0. Myndir og margmiðlunarefni falla
-stundum undir önnur skilyrði.
-
-Mest af efnisinnihaldi Wikipedia er komið frá notendum. Allt efnið er
-síbreytilegt og það verður aldrei fullkomnað. Vegna þessa er Wikipedia
-einstætt viðfangsefni.
-
-Sú hugmynd, að geta safnað allri þekkingu á einn stað, á rætur sínar að
-rekja allt til Alexandríusafnsins og Pergamon til forna. Með tilkomu
-internetsins, reyndu margir að búa til internetalfræðirit. Talsmaður
-frjáls hugbúnaðar, Richard Stallman, benti á notagildi „frjálsrar
-alhliða alfræðibókar og menntunarauðlindar“ árið 1999. Hann lýsti
-stofnun Wikipedia sem „spennandi frétt“ og frjálsi hugbúnaðarsjóðurinn
-hans hvetur fólk til þess að taka þátt og miðla efni.
-
-Þann 20. september 2004 fóru greinarnar yfir 1 milljón. Milljónasta
-greinin var á hebresku og var um fána Kazakhstan.
-
-Fyrir utan einstaka tæknilega örðugleika hefur enski hluti Wikipedia
-starfað óslitið frá 10. janúar 2001. Nokkuð er hins vegar á reiki hvenær
-íslenski hlutinn var stofnaður, og fer allt eftir því hvernig er talið.
-
-Fyrsta gagnagrunnsbreytingin á íslenska hlutanum var gerð á greininni
-„WIKIng“ (sem síðar var eytt) þann 6. desember 2002 klukkan 19:43 UTC+0
-á dönsku og sú næsta nær ári síðar þann 24. nóvember 2003 á nýnorsku,
-fyrstu viðbótinni á íslensku var hins vegar gerð 5. desember 2003 kl.
-11:54 um morgun og má telja að með henni hafi saga íslensku útgáfunnar
-hafist.
-
-Hugbúnaðurinn sem upprunalega keyrði Wikipedia hét UseModWiki. Hann var
-skrifaður af Clifford Adams („skref I“). Fyrst þurfti að nota CamelCase
-fyrir tengla; en fljótlega varð hægt að nota þá aðferð, sem nú er notuð.
-Í janúar 2002, byrjaði wikipedia að keyra á PHP wiki kerfi, sem notaði
-MySQL gagnagrunnskerfi, og bættust margir nýjir möguleikar við (og í
-leiðinni gerði CamelCase tengla ónothæfa). Nýja kerfið var sérstaklega
-skrifað fyrir Wikipedia verkefnið af Magnus Manske („skref II“). Eftir
-þó nokkurn tíma, hægðist mikið á kerfinu og það var nánast ómögulegt að
-gera neitt. Ýmsar breytingar og uppfærslur voru gerðar en þjónuðu aðeins
-tímabundnum tilgangi. Þá endurskrifaði Lee Daniel Crocke allt wiki
-kerfið frá grunni og hefur nýja útgáfan verið í notkun síðan í júlí 2002
-(„skref III“). Núverandi hugbúnaður heitir MediaWiki og er hann í notkun
-í mörgum öðrum verkefnum. Sá sem nú sér aðallega um að laga galla
-kerfisins og viðhald á gagnagrunninum heitir Brion Vibber.
-
-Árið 2003 hafði sambandsleysi þjónsins rýrt „framleiðslugetu“ notenda.
-Margir kvörtuðu undan vandamálum með að breyta greinum og miklum
-hægagangi. Vandamálið var vegna þess að aðeins var einn þjónn að keyra
-öll wiki verkefnin.
-
-Frá og með júní 2004, keyra verkefnin á níu tileinkuðum þjónum sem eru
-staðsettir í Flórída. Nýja uppsetningin samanstendur af einum
-gagnagrunnsþjóni og þrem vefþjónum, sem allir keyra stýrikerfið Fedora.
-Þjónarnir framreiða allar beiðnir, og túlka allar síður til notenda. Til
-að auka hraða frekar, eru síður sem óskráðir notendur biðja um geymdar í
-skyndiminni þar til þeim er breytt af einhverjum notanda, sem gerir það
-óþarfa að túlka vinsælustu síðurnar aftur og aftur. Beiðnir úr
-skyndiminni eru framreiddar af tveimur Squid þjónum. Annar Squid
-þjónninn þjónar líka sem tölvupóstþjónn Wikipedia.
-
-Í febrúar 2005 var haldin söfnun fyrir nýjum vélbúnaði 75.000$ USD,
-söfnunin tókst vel og fór 15% yfir áætlað mark.
-
-Wikipedia hefur oft verið gagnrýnd harkalega, og efast hefur verið um
-trúverðugleika Wikipediu, þar sem hún er opin og allir geti breytt
-umfjöllunarefni hennar, en Vísindavefurinn bendir á að hið andstæða sé
-satt og að það að allir geti breytt Wikipediu geri hana einungis
-áreiðanlegri en þær alfræðiorðabækur sem eru aðeins lesnar yfir af fáum
-einstaklingum:
-
-Benda má á að hver sem er getur skrifað og breytt Wikipedia-síðum, en
-þar sem svo margir lesa yfir breytingarnar er Wikipedia samt mun
-áreiðanlegri en vefsíður reknar af einum einstaklingi.
-
-Ljós er rafsegulbylgjur innan ákveðins tíðnisviðs, en oftast er átt við
-það tíðnisvið sem mannsaugað greinir. Við nánari athugun er hægt að sýna
-að ljós er í senn bylgjur og ljóseindir og er í því sambandi talað um
-tvíeðli ljóss. Frægasta tilraunin sem sýnir fram á bylgjueðli ljóss er
-tvíraufa tilraun Youngs, þar sem ljósi er beint í gegnum tvær raufar,
-með bili milli raufann af sömu stærðargráður og bylgjulengd ljóssins.
-Ljósið sýnir þá svokallaða samliðunar- eða víxleiginleika. Ein helsta
-tilraunaniðurstaða, sem styður tilvist ljóseinda ljósröfun, þar sem ljós
-örvar frumeind og veldur ljósröfun. Til þessa dags hefur ekki verið unnt
-skýra þess tilraun með ljósbylgjum.
-
-Sýnilegt ljós, sem er það ljós sem mannsaugað getur numið, með
-bylgjulengd á bilinu 400 til 700 nm. Sýnilegt ljós spannar því
-rafsegulrófið milli innrauðs og útfjólublás ljóss. Ljóshraði (í
-tómarúmi) er um 300,000 km/s.
-
-Ljósgjafi er hlutur, áhald eða tæki sem gefur sýnilegt ljós, t.d. kerti,
-ljósapera, flúrljós og tvistur (díóða). Geislatæki gefur geislun, sem að
-mestu utan sýnlega sviðsins, en geislagjafi gefur jónandi geislun, sem
-stafar af geislavirkni.
-
+ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég ég 
+að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að að 
+er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er er 
+það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það það 
+ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki ekki 
+í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í í 
+og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og og 
+þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú þú 
+við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við við 
+á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á á 
+hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann hann 
+þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta þetta 
+hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað hvað 
+sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem sem 
+mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér mér 
+til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til til 
+með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með með 
+þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér þér 
+en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en en 
+fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir fyrir 
+um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um um 
+af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af af 
+var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var var 
+þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig þig 
+mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig mig 
+því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því því 
+já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já já 
+hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún hún 
+nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei nei 
+allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt allt 
+þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá þá 
+ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef ef 
+eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru eru 
+bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara bara 
+ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert ert 
+svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo svo 
+þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir þeir 
+þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið þið 
+okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur okkur 
+eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir eftir 
+vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera vera 
+eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins eins 
+ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu ertu 
+hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér hér 
+veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit veit 
+gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera gera 
+lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi lagi 
+hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur hefur 
+nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú nú 
+frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá frá 
+e e e e e e e e e e e e e e e e e e e e e e e e e 
+þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar þegar 
+hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig hvernig 
+fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara fara 
+honum honum honum honum honum honum honum honum honum honum honum honum honum honum honum honum honum honum honum honum honum honum 
+hef hef hef hef hef hef hef hef hef hef hef hef hef hef hef hef hef hef hef hef hef 
+út út út út út út út út út út út út út út út út út út út út út 
+verður verður verður verður verður verður verður verður verður verður verður verður verður verður verður verður verður verður verður verður verður 
+aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur aftur 
+upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp upp 
+þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu þessu 
+vel vel vel vel vel vel vel vel vel vel vel vel vel vel vel vel vel vel vel vel 
+verið verið verið verið verið verið verið verið verið verið verið verið verið verið verið verið verið verið verið verið 
+ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert ekkert 
+minn minn minn minn minn minn minn minn minn minn minn minn minn minn minn minn minn minn minn 
+sé sé sé sé sé sé sé sé sé sé sé sé sé sé sé sé sé sé sé 
+hver hver hver hver hver hver hver hver hver hver hver hver hver hver hver hver hver hver hver 
+svona svona svona svona svona svona svona svona svona svona svona svona svona svona svona svona svona svona svona 
+hana hana hana hana hana hana hana hana hana hana hana hana hana hana hana hana hana hana hana 
+eða eða eða eða eða eða eða eða eða eða eða eða eða eða eða eða eða eða 
+ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur ykkur 
+vil vil vil vil vil vil vil vil vil vil vil vil vil vil vil vil vil vil 
+hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju hverju 
+úr úr úr úr úr úr úr úr úr úr úr úr úr úr úr úr 
+get get get get get get get get get get get get get get get get 
+segja segja segja segja segja segja segja segja segja segja segja segja segja segja segja segja 
+komdu komdu komdu komdu komdu komdu komdu komdu komdu komdu komdu komdu komdu komdu komdu komdu 
+erum erum erum erum erum erum erum erum erum erum erum erum erum erum erum erum 
+hvar hvar hvar hvar hvar hvar hvar hvar hvar hvar hvar hvar hvar hvar hvar hvar 
+aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei aldrei 
+hafa hafa hafa hafa hafa hafa hafa hafa hafa hafa hafa hafa hafa hafa hafa hafa 
+eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað eitthvað 
+gott gott gott gott gott gott gott gott gott gott gott gott gott gott gott 
+hérna hérna hérna hérna hérna hérna hérna hérna hérna hérna hérna hérna hérna hérna hérna 
+maður maður maður maður maður maður maður maður maður maður maður maður maður maður maður 
+hjá hjá hjá hjá hjá hjá hjá hjá hjá hjá hjá hjá hjá hjá hjá 
+viltu viltu viltu viltu viltu viltu viltu viltu viltu viltu viltu viltu viltu viltu viltu 
+fá fá fá fá fá fá fá fá fá fá fá fá fá fá 
+sagði sagði sagði sagði sagði sagði sagði sagði sagði sagði sagði sagði sagði sagði 
+þau þau þau þau þau þau þau þau þau þau þau þau þau þau 
+getur getur getur getur getur getur getur getur getur getur getur getur getur getur 
+inn inn inn inn inn inn inn inn inn inn inn inn inn inn 
+koma koma koma koma koma koma koma koma koma koma koma koma koma koma 
+okkar okkar okkar okkar okkar okkar okkar okkar okkar okkar okkar okkar okkar okkar 
+herra herra herra herra herra herra herra herra herra herra herra herra herra herra 
+núna núna núna núna núna núna núna núna núna núna núna núna núna núna 
+þarna þarna þarna þarna þarna þarna þarna þarna þarna þarna þarna þarna þarna þarna 
+kannski kannski kannski kannski kannski kannski kannski kannski kannski kannski kannski kannski kannski 
+hans hans hans hans hans hans hans hans hans hans hans hans hans 
+mín mín mín mín mín mín mín mín mín mín mín mín mín 
+þar þar þar þar þar þar þar þar þar þar þar þar þar 
+tala tala tala tala tala tala tala tala tala tala tala tala tala 
+þarf þarf þarf þarf þarf þarf þarf þarf þarf þarf þarf þarf þarf 
+þess þess þess þess þess þess þess þess þess þess þess þess 
+þeim þeim þeim þeim þeim þeim þeim þeim þeim þeim þeim þeim 
+þín þín þín þín þín þín þín þín þín þín þín þín 
+væri væri væri væri væri væri væri væri væri væri væri væri 
+farðu farðu farðu farðu farðu farðu farðu farðu farðu farðu farðu farðu 
+henni henni henni henni henni henni henni henni henni henni henni henni 
+takk takk takk takk takk takk takk takk takk takk takk 
+fer fer fer fer fer fer fer fer fer fer fer 
+líka líka líka líka líka líka líka líka líka líka líka 
+þinn þinn þinn þinn þinn þinn þinn þinn þinn þinn þinn 
+held held held held held held held held held held held 
+sjá sjá sjá sjá sjá sjá sjá sjá sjá sjá sjá 
+rétt rétt rétt rétt rétt rétt rétt rétt rétt rétt rétt 
+áfram áfram áfram áfram áfram áfram áfram áfram áfram áfram áfram 
+sér sér sér sér sér sér sér sér sér sér sér 
+mjög mjög mjög mjög mjög mjög mjög mjög mjög mjög mjög 
+verð verð verð verð verð verð verð verð verð verð 
+kemur kemur kemur kemur kemur kemur kemur kemur kemur kemur 
+gert gert gert gert gert gert gert gert gert gert 
+vegna vegna vegna vegna vegna vegna vegna vegna vegna vegna 
+þessi þessi þessi þessi þessi þessi þessi þessi þessi þessi 
+enn enn enn enn enn enn enn enn enn enn 
+sá sá sá sá sá sá sá sá sá sá 
+þakka þakka þakka þakka þakka þakka þakka þakka þakka þakka 
+saman saman saman saman saman saman saman saman saman 
+einn einn einn einn einn einn einn einn einn 
+komið komið komið komið komið komið komið komið komið 
+gæti gæti gæti gæti gæti gæti gæti gæti gæti 
+a a a a a a a a a 
+alltaf alltaf alltaf alltaf alltaf alltaf alltaf alltaf alltaf 
+kom kom kom kom kom kom kom kom kom 
+allir allir allir allir allir allir allir allir allir 
+of of of of of of of of of 
+vita vita vita vita vita vita vita vita vita 
+skal skal skal skal skal skal skal skal skal 
+enginn enginn enginn enginn enginn enginn enginn enginn enginn 
+má má má má má má má má 
+yfir yfir yfir yfir yfir yfir yfir yfir 
+farið farið farið farið farið farið farið farið 
+hafi hafi hafi hafi hafi hafi hafi hafi 
+ætla ætla ætla ætla ætla ætla ætla ætla 
+dag dag dag dag dag dag dag dag 
+förum förum förum förum förum förum förum förum 
+þær þær þær þær þær þær þær þær 
+heldur heldur heldur heldur heldur heldur heldur heldur 
+veistu veistu veistu veistu veistu veistu veistu veistu 
+hr hr hr hr hr hr hr hr 
+hefði hefði hefði hefði hefði hefði hefði hefði 
+hingað hingað hingað hingað hingað hingað hingað hingað 
+sig sig sig sig sig sig sig sig 
+niður niður niður niður niður niður niður niður 
+sama sama sama sama sama sama sama sama 
+mitt mitt mitt mitt mitt mitt mitt mitt 
+mikið mikið mikið mikið mikið mikið mikið mikið 
+átt átt átt átt átt átt átt átt 
+guð guð guð guð guð guð guð guð 
+höfum höfum höfum höfum höfum höfum höfum höfum 
+láttu láttu láttu láttu láttu láttu láttu láttu 
+segðu segðu segðu segðu segðu segðu segðu 
+pabbi pabbi pabbi pabbi pabbi pabbi pabbi 
+einhver einhver einhver einhver einhver einhver einhver 
+heim heim heim heim heim heim heim 
+aðeins aðeins aðeins aðeins aðeins aðeins aðeins 
+bíddu bíddu bíddu bíddu bíddu bíddu bíddu 
+áður áður áður áður áður áður áður 
+segir segir segir segir segir segir segir 
+þessa þessa þessa þessa þessa þessa þessa 
+finnst finnst finnst finnst finnst finnst finnst 
+vertu vertu vertu vertu vertu vertu vertu 
+getum getum getum getum getum getum getum 
+tíma tíma tíma tíma tíma tíma tíma 
+i i i i i i i 
+vildi vildi vildi vildi vildi vildi vildi 
+góður góður góður góður góður góður góður 
+fyrirgefðu fyrirgefðu fyrirgefðu fyrirgefðu fyrirgefðu fyrirgefðu fyrirgefðu 
+vill vill vill vill vill vill vill 
+hefurðu hefurðu hefurðu hefurðu hefurðu hefurðu hefurðu 
+meira meira meira meira meira meira meira 
+mamma mamma mamma mamma mamma mamma mamma 
+gerðu gerðu gerðu gerðu gerðu gerðu gerðu 
+satt satt satt satt satt satt satt 
+verðum verðum verðum verðum verðum verðum verðum 
+eitt eitt eitt eitt eitt eitt eitt 
+þitt þitt þitt þitt þitt þitt 
+jæja jæja jæja jæja jæja jæja 
+fór fór fór fór fór fór 
+stað stað stað stað stað stað 
+halda halda halda halda halda halda 
+taka taka taka taka taka taka 
+annað annað annað annað annað annað 
+verða verða verða verða verða verða 
+veist veist veist veist veist veist 
+ykkar ykkar ykkar ykkar ykkar ykkar 
+hvert hvert hvert hvert hvert hvert 
+sagt sagt sagt sagt sagt sagt 
+alla alla alla alla alla alla 
+voru voru voru voru voru voru 
+vilt vilt vilt vilt vilt vilt 
+gerir gerir gerir gerir gerir gerir 
+leið leið leið leið leið leið 
+sjáðu sjáðu sjáðu sjáðu sjáðu sjáðu 
+menn menn menn menn menn menn 
+fram fram fram fram fram fram 
+séð séð séð séð séð séð 
+gerði gerði gerði gerði gerði gerði 
+mun mun mun mun mun mun 
+láta láta láta láta láta láta 
+hvaða hvaða hvaða hvaða hvaða hvaða 
+kvöld kvöld kvöld kvöld kvöld kvöld 
+hvort hvort hvort hvort hvort hvort 
+öll öll öll öll öll öll 
+fólk fólk fólk fólk fólk fólk 
+ó ó ó ó ó ó 
+elskan elskan elskan elskan elskan elskan 
+myndi myndi myndi myndi myndi myndi 
+fjandinn fjandinn fjandinn fjandinn fjandinn fjandinn 
+þ þ þ þ þ þ 
+einu einu einu einu einu einu 
+ao ao ao ao ao ao 
+ár ár ár ár ár ár 
+hennar hennar hennar hennar hennar 
+vinur vinur vinur vinur vinur 
+geri geri geri geri geri 
+síðan síðan síðan síðan síðan 
+hélt hélt hélt hélt hélt 
+eina eina eina eina eina 
+hættu hættu hættu hættu hættu 
+vissi vissi vissi vissi vissi 
+auðvitað auðvitað auðvitað auðvitað auðvitað 
+ætti ætti ætti ætti ætti 
+sinni sinni sinni sinni sinni 
+þeirra þeirra þeirra þeirra þeirra 
+þessum þessum þessum þessum þessum 
+þannig þannig þannig þannig þannig 
+eruð eruð eruð eruð eruð 
+halló halló halló halló halló 
+pú pú pú pú pú 
+drepa drepa drepa drepa drepa 
+mína mína mína mína mína 
+strax strax strax strax strax 
+þína þína þína þína þína 
+alveg alveg alveg alveg alveg 
+skil skil skil skil skil 
+reyna reyna reyna reyna reyna 
+án án án án án 
+langar langar langar langar langar 
+finna finna finna finna finna 
+þennan þennan þennan þennan þennan 
+neitt neitt neitt neitt neitt 
+geturðu geturðu geturðu geturðu geturðu 
+vinna vinna vinna vinna vinna 
+viss viss viss viss viss 
+öllum öllum öllum öllum öllum 
+morgun morgun morgun morgun morgun 
+undir undir undir undir undir 
+engin engin engin engin 
+taktu taktu taktu taktu 
+hvers hvers hvers hvers 
+hugsa hugsa hugsa hugsa 
+áttu áttu áttu áttu 
+frú frú frú frú 
+hæ hæ hæ hæ 
+mínum mínum mínum mínum 
+gengur gengur gengur gengur 
+varð varð varð varð 
+heyrðu heyrðu heyrðu heyrðu 
+einmitt einmitt einmitt einmitt 
+lengi lengi lengi lengi 
+kem kem kem kem 
+haltu haltu haltu haltu 
+heldurðu heldurðu heldurðu heldurðu 
+elska elska elska elska 
+hvenær hvenær hvenær hvenær 
+þangað þangað þangað þangað 
+fimm fimm fimm fimm 
+varst varst varst varst 
+fékk fékk fékk fékk 
+virðist virðist virðist virðist 
+segi segi segi segi 
+góða góða góða góða 
+komast komast komast komast 
+eigum eigum eigum eigum 
+lengur lengur lengur lengur 
+líður líður líður líður 
+vilja vilja vilja vilja 
+gerðist gerðist gerðist gerðist 
+þarft þarft þarft þarft 
+gaman gaman gaman gaman 
+kominn kominn kominn kominn 
+átti átti átti átti 
+ná ná ná ná 
+mann mann mann mann 
+eiga eiga eiga eiga 
+jack jack jack jack 
+þínum þínum þínum þínum 
+sæll sæll sæll sæll 
+burt burt burt burt 
+lífi lífi lífi lífi 
+èg èg èg èg 
+fyrsta fyrsta fyrsta fyrsta 
+inni inni inni inni 
+fyrst fyrst fyrst fyrst 
+geta geta geta geta 
+þykir þykir þykir þykir 
+hafði hafði hafði hafði 
+petta petta petta petta 
+öllu öllu öllu öllu 
+handa handa handa handa 
+frábært frábært frábært frábært 
+betur betur betur betur 
+leitt leitt leitt leitt 
+þurfum þurfum þurfum þurfum 
+héðan héðan héðan héðan 
+ætlarðu ætlarðu ætlarðu ætlarðu 
+ú ú ú ú 
+hægt hægt hægt hægt 
+illa illa illa illa 
+fyrr fyrr fyrr fyrr 
+hitta hitta hitta hitta 
+góð góð góð góð 
+málið málið málið málið 
+nóg nóg nóg nóg 
+sinn sinn sinn sinn 
+alvöru alvöru alvöru alvöru 
+hjálpa hjálpa hjálpa hjálpa 
+einhvern einhvern einhvern 
+nótt nótt nótt 
+r r r 
+jú jú jú 
+komum komum komum 
+aò aò aò 
+nema nema nema 
+ára ára ára 
+ferð ferð ferð 
+gegn gegn gegn 
+hlýtur hlýtur hlýtur 
+víst víst víst 
+fengið fengið fengið 
+sjálfur sjálfur sjálfur 
+mál mál mál 
+ad ad ad 
+daginn daginn daginn 
+ein ein ein 
+áhyggjur áhyggjur áhyggjur 
+annars annars annars 
+leita leita leita 
+hafið hafið hafið 
+búinn búinn búinn 
+à à à 
+pao pao pao 
+tveir tveir tveir 
+orðið orðið orðið 
+heiti heiti heiti 
+langt langt langt 
+haldið haldið haldið 
+deyja deyja deyja 
+ættir ættir ættir 
+gat gat gat 
+erfitt erfitt erfitt 
+faðir faðir faðir 
+líf líf líf 
+hve hve hve 
+heima heima heima 
+minni minni minni 
+máli máli máli 
+enga enga enga 
+mátt mátt mátt 
+engar engar engar 
+h h h 
+hætta hætta hætta 
+meðan meðan meðan 
+spyrja spyrja spyrja 
+aõ aõ aõ 
+skiptir skiptir skiptir 
+mínu mínu mínu 
+samt samt samt 
+john john john 
+heyra heyra heyra 
+mínútur mínútur mínútur 
+gerum gerum gerum 
+sýna sýna sýna 
+kann kann kann 
+gefa gefa gefa 
+tvö tvö tvö 
+vorum vorum vorum 
+tekur tekur tekur 
+mínir mínir mínir 
+maðurinn maðurinn maðurinn 
+fæ fæ fæ 
+hvern hvern hvern 
+fær fær fær 
+heitir heitir heitir 
+ætlar ætlar ætlar 
+gerast gerast gerast 
+ganga ganga ganga 
+skilurðu skilurðu skilurðu 
+komst komst komst 
+gangi gangi gangi 
+klukkan klukkan klukkan 
+fínt fínt fínt 
+bless bless bless 
+lítur lítur lítur 
+sagðir sagðir sagðir 
+tíu tíu tíu 
+stundum stundum stundum 
+tók tók tók 
+vio vio vio 
+allar allar allar 
+nokkuð nokkuð nokkuð 
+baka baka baka 
+uppi uppi uppi 
+sért sért sért 
+gerist gerist gerist 
+heyrt heyrt heyrt 
+alls alls alls 
+hjálp hjálp hjálp 
+skjóta skjóta skjóta 
+stendur stendur stendur 
+þinni þinni þinni 
+sex sex sex 
+g g g 
+líkar líkar 
+vantar vantar 
+látið látið 
+skilið skilið 
+góðan góðan 
+líklega líklega 
+fann fann 
+allan allan 
+þótt þótt 
+sérðu sérðu 
+nota nota 
+kona kona 
+færð færð 
+segirðu segirðu 
+þessari þessari 
+fannst fannst 
+ö ö 
+verði verði 
+fleiri fleiri 
+manni manni 
+jafnvel jafnvel 
+afsakið afsakið 
+engan engan 
+úti úti 
+trúi trúi 
+man man 
+hefðir hefðir 
+þekki þekki 
+pér pér 
+afsakaðu afsakaðu 
+lokið lokið 
+árum árum 
+bílinn bílinn 
+yrði yrði 
+tvær tvær 
+sjáumst sjáumst 
+mömmu mömmu 
+s s 
+m m 
+nógu nógu 
+konan konan 
+daga daga 
+kemst kemst 
+hví hví 
+hlustaðu hlustaðu 
+milli milli 
+tvo tvo 
+tekið tekið 
+varstu varstu 
+hugmynd hugmynd 
+tími tími 
+manstu manstu 
+byrja byrja 
+værir værir 
+þó þó 
+new new 
+sú sú 
+fjandans fjandans 
+engu engu 
+búið búið 
+betra betra 
+kalla kalla 
+bíða bíða 
+besta besta 
+leyfðu leyfðu 
+ættum ættum 
+eigin eigin 
+ha ha 
+undan undan 
+beint beint 
+annan annan 
+næstum næstum 
+konu konu 
+svolítið svolítið 
+sonur sonur 
+orð orð 
+dali dali 
+hátt hátt 
+vitum vitum 
+miklu miklu 
+utan utan 
+hafðu hafðu 
+dálítið dálítið 
+myndir myndir 
+þínu þínu 
+strákar strákar 
+félagi félagi 
+þýðir þýðir 
+hverjum hverjum 
+kyrr kyrr 
+sæl sæl 
+fjárinn fjárinn 
+nafn nafn 
+peninga peninga 
+smá smá 
+hluti hluti 
+viku viku 
+komin komin 
+dr dr 
+sagðirðu sagðirðu 
+sjáið sjáið 
+annar annar 
+gegnum gegnum 
+vinir vinir 
+hringja hringja 
+miður miður 
+seinna seinna 
+eg eg 
+barn barn 
+litla litla 
+settu settu 
+lítið lítið 
+átta átta 
+varlega varlega 
+finn finn 
+frekar frekar 
+geti geti 
+skulum skulum 
+hversu hversu 
+ætlaði ætlaði 
+pabba pabba 
+tek tek 
+borða borða 
+nær nær 
+strákur strákur 
+bróðir bróðir 
+þegiðu þegiðu 
+gerðir gerðir 
+öðrum öðrum 
+pig pig 
+vonandi vonandi 
+bjarga bjarga 
+sína sína 
+lét lét 
+hlusta hlusta 
+helvítis helvítis 
+hræddur hræddur 
+staðar staðar 
+hinn hinn 
+gætir gætir 
+skilja skilja 
+horfa horfa 
+reyndu reyndu 
+frank frank 
+borga borga 
+þessar þessar 
+fáum fáum 
+ræða ræða 
+þrír þrír 
+síðasta síðasta 
+paò paò 
+þúsund þúsund 
+aðra aðra 
+dó dó 
+meiri meiri 
+burtu burtu 
+náði náði 
+börn börn 
+ókei ókei 
+mynd mynd 
+tilbúinn tilbúinn 
+v v 
+læt læt 
+hug hug 
+talað talað 
+gefðu gefðu 
+nýja nýja 
+margir margir 
+betri betri 
+viljum viljum 
+fáðu fáðu 
+meina meina 
+næst næst 
+konur konur 
+dauður dauður 
+séu séu 
+síðar síðar 
+slepptu slepptu 
+hafir hafir 
+rólegur rólegur 
+ä ä 
+flott flott 
+jesús jesús 
+kenna kenna 
+næsta næsta 
+sagðist sagðist 
+ja ja 
+york york 
+von von 
+skipti skipti 
+vona vona 
+sínum sínum 
+stór stór 
+færðu færðu 
+líta líta 
+fallegt fallegt 
+reyndi reyndi 
+sendi sendi 
+mistök mistök 
+peningana peningana 
+tókst tókst 
+hamingju hamingju 
+margt margt 
+æ æ 
+reyndar reyndar 
+slæmt slæmt 
+best best 
+bílnum bílnum 
+viljið viljið 
+gamla gamla 
+lifa lifa 
+lífið lífið 
+l l 
+gaf gaf 
+sestu sestu 
+vi vi 
+takið takið 
+vinstri vinstri 
+heyrði heyrði 
+nálægt nálægt 
+hey hey 
+búin búin 
+skilur skilur 
+virkilega virkilega 
+getað getað 
+samband samband 
+talar talar 
+þekkir þekkir 
+gekk gekk 
+setja setja 
+bjóða bjóða 
+lætur lætur 
+niðri niðri 
+þessir þessir 
+standa standa 
+fundið fundið 
+eiginlega eiginlega 
+líttu líttu 
+u u 
+viõ viõ 
+farinn farinn 
+tækifæri tækifæri 
+móti móti 
+nokkur nokkur 
+búa búa 
+getið getið 
+minna minna 
+oft oft 
+látum látum 
+vini vini 
+þann þann 
+skrifa 
+leiðinni 
+borð 
+leika 
+hægri 
+bað 
+grínast 
+áhuga 
+drap 
+lesa 
+færi 
+bið 
+herrar 
+haft 
+föður 
+náðu 
+george 
+tökum 
+húsið 
+barnið 
+frábær 
+gætum 
+mínar 
+læknir 
+fréttir 
+fröken 
+beðið 
+sækja 
+hjálpað 
+virði 
+nokkra 
+michael 
+fljótt 
+falleg 
+stjórn 
+vinnur 
+vinnu 
+kaupa 
+fólki 
+þrjú 
+réttu 
+unnið 
+önnur 
+síðustu 
+sofa 
+snýst 
+mat 
+senda 
+kki 
+ætli 
+komist 
+ungfrú 
+drepið 
+þurfa 
+hringdi 
+sjö 
+einhvers 
+f 
+móðir 
+rangt 
+innan 
+fari 
+ætlum 
+tilbúin 
+framan 
+byssu 
+varla 
+tta 
+fleira 
+lofa 
+bænum 
+reyni 
+konar 
+örugglega 
+mike 
+hitt 
+spila 
+hætti 
+mánuði 
+dáinn 
+charlie 
+tveimur 
+datt 
+næstu 
+lögreglan 
+sitt 
+fangelsi 
+góðu 
+gamli 
+hljómar 
+hinum 
+bíðið 
+hvao 
+vandamál 
+ný 
+sjáum 
+ber 
+litli 
+ennþá 
+öðru 
+hjarta 
+gær 
+númer 
+manns 
+andskotinn 
+tom 
+hringi 
+missa 
+höldum 
+viò 
+pví 
+heyrirðu 
+dave 
+bad 
+vitið 
+tímann 
+mark 
+vid 
+biðja 
+staðinn 
+ben 
+augnablik 
+hitti 
+harry 
+leggja 
+gamall 
+berjast 
+sam 
+david 
+þurfti 
+einhverju 
+gleymdu 
+hendur 
+mörg 
+vann 
+dyrnar 
+almáttugur 
+opnaðu 
+ofan 
+vatn 
+sæti 
+þarftu 
+rétta 
+hringdu 
+ótrúlegt 
+meo 
+gerið 
+verk 
+sástu 
+bæði 
+greiða 
+sýndu 
+trúa 
+bob 
+þarfnast 
+hús 
+fólkið 
+stund 
+b 
+bíl 
+svara 
+gefið 
+yðar 
+manninn 
+joe 
+skipta 
+né 
+starf 
+bera 
+fjölskyldu 
+börnin 
+herbergi 
+sleppa 
+dala 
+nýtt 
+heyri 
+hrifinn 
+hrædd 
+fyrstu 
+sérð 
+augun 
+vildir 
+mikil 
+opna 
+n 
+frændi 
+bestu 
+hjálpaðu 
+húsinu 
+náð 
+nokkrum 
+býr 
+ur 
+komu 
+þínar 
+enda 
+fékkstu 
+besti 
+talaðu 
+dóttur 
+pá 
+líst 
+paul 
+munu 
+kaffi 
+dagur 
+lifandi 
+fyndið 
+allra 
+eddie 
+verðið 
+mundu 
+þrjár 
+k 
+fjandanum 
+móður 
+gefur 
+friði 
+kate 
+eini 
+skaltu 
+heiminum 
+aftan 
+margar 
+finnur 
+komstu 
+drengur 
+hata 
+liðið 
+kjaftæði 
+hugsaðu 
+seint 
+reynir 
+drottinn 
+marga 
+byssuna 
+leit 
+þínir 
+þremur 
+sinnum 
+sambandi 
+litlu 
+komi 
+megin 
+missti 
+meinarðu 
+stattu 
+næ 
+elskar 
+hættið 
+þaõ 
+nokkrar 
+drekka 
+systir 
+mikla 
+talaði 
+bak 
+væru 
+gengið 
+kynnast 
+sannarlega 
+leik 
+skyldi 
+ofursti 
+einum 
+stelpa 
+hönd 
+sekúndur 
+sömu 
+skaut 
+læra 
+alvara 
+mikill 
+sitja 
+þrjá 
+neinn 
+hvaðan 
+johnny 
+leyfi 
+reynt 
+kvöldið 
+óttast 
+hverjir 
+sumir 
+níu 
+aô 
+ást 
+staður 
+fylgja 
+leikur 
+snúa 
+betta 
+ágætt 
+konuna 
+slíkt 
+sakna 
+bróður 
+velkominn 
+komumst 
+finnum 
+land 
+míns 
+breyta 
+nafni 
+komnir 
+nákvæmlega 
+gerðirðu 
+einhverjum 
+hratt 
+sko 
+sín 
+þátt 
+sannleikann 
+aðrir 
+tii 
+afar 
+stóra 
+vá 
+eigið 
+finndu 
+mönnum 
+óvart 
+heimi 
+öðruvísi 
+gef 

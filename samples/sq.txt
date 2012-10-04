@@ -1,0 +1,1000 @@
+të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të të 
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e 
+në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në në 
+do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do do 
+nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk nuk 
+i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i 
+është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është është 
+më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më më 
+po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po po 
+dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe dhe 
+që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që që 
+një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një një 
+për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për për 
+me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me 
+se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se 
+te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te te 
+ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta 
+jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo jo 
+unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë unë 
+ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti 
+ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka ka 
+mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund mund 
+mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë mirë 
+ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju ju 
+ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne 
+nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga nga 
+çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë çfarë 
+si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si 
+duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet duhet 
+kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo kjo 
+kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam kam 
+ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai ai 
+por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por por 
+këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë këtë 
+shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë shumë 
+jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam jam 
+di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di 
+këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu këtu 
+je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je 
+u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u u 
+ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke ke 
+mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos mos 
+tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani tani 
+ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte ishte 
+a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë atë 
+ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo ajo 
+ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku 
+nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse nëse 
+vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm vetëm 
+kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur kur 
+dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua dua 
+ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata ata 
+janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë janë 
+mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua mua 
+rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull rregull 
+edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe edhe 
+sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa sa 
+na na na na na na na na na na na na na na na na na na na na na na na na na 
+eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte eshte 
+kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi kemi 
+gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë gjithë 
+ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty ty 
+pse pse pse pse pse pse pse pse pse pse pse pse pse pse pse pse pse pse pse pse pse pse 
+duke duke duke duke duke duke duke duke duke duke duke duke duke duke duke duke duke duke duke duke duke duke 
+nje nje nje nje nje nje nje nje nje nje nje nje nje nje nje nje nje nje nje nje nje 
+qe qe qe qe qe qe qe qe qe qe qe qe qe qe qe qe qe qe qe qe 
+per per per per per per per per per per per per per per per per per per per per 
+tij tij tij tij tij tij tij tij tij tij tij tij tij tij tij tij tij tij tij 
+ky ky ky ky ky ky ky ky ky ky ky ky ky ky ky ky ky ky ky 
+apo apo apo apo apo apo apo apo apo apo apo apo apo apo apo apo apo apo apo 
+pak pak pak pak pak pak pak pak pak pak pak pak pak pak pak pak pak pak pak 
+jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi jemi 
+keq keq keq keq keq keq keq keq keq keq keq keq keq keq keq keq keq keq 
+oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh 
+gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë gjë 
+kush kush kush kush kush kush kush kush kush kush kush kush kush kush kush kush kush 
+parë parë parë parë parë parë parë parë parë parë parë parë parë parë parë parë parë 
+faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit faleminderit 
+im im im im im im im im im im im im im im im im im 
+bëj bëj bëj bëj bëj bëj bëj bëj bëj bëj bëj bëj bëj bëj bëj bëj bëj 
+lutem lutem lutem lutem lutem lutem lutem lutem lutem lutem lutem lutem lutem lutem lutem lutem lutem 
+jeni jeni jeni jeni jeni jeni jeni jeni jeni jeni jeni jeni jeni jeni jeni jeni 
+dy dy dy dy dy dy dy dy dy dy dy dy dy dy dy dy 
+diçka diçka diçka diçka diçka diçka diçka diçka diçka diçka diçka diçka diçka diçka diçka diçka 
+keni keni keni keni keni keni keni keni keni keni keni keni keni keni keni keni 
+vjen vjen vjen vjen vjen vjen vjen vjen vjen vjen vjen vjen vjen vjen vjen vjen 
+kështu kështu kështu kështu kështu kështu kështu kështu kështu kështu kështu kështu kështu kështu kështu 
+jetë jetë jetë jetë jetë jetë jetë jetë jetë jetë jetë jetë jetë jetë jetë 
+tjetër tjetër tjetër tjetër tjetër tjetër tjetër tjetër tjetër tjetër tjetër tjetër tjetër tjetër tjetër 
+mendoj mendoj mendoj mendoj mendoj mendoj mendoj mendoj mendoj mendoj mendoj mendoj mendoj mendoj mendoj 
+atje atje atje atje atje atje atje atje atje atje atje atje atje atje atje 
+para para para para para para para para para para para para para para para 
+bërë bërë bërë bërë bërë bërë bërë bërë bërë bërë bërë bërë bërë bërë bërë 
+së së së së së së së së së së së së së së së 
+sepse sepse sepse sepse sepse sepse sepse sepse sepse sepse sepse sepse sepse sepse 
+pra pra pra pra pra pra pra pra pra pra pra pra pra pra 
+tek tek tek tek tek tek tek tek tek tek tek tek tek tek 
+them them them them them them them them them them them them them them 
+tă tă tă tă tă tă tă tă tă tă tă tă tă tă 
+kanë kanë kanë kanë kanë kanë kanë kanë kanë kanë kanë kanë kanë 
+pa pa pa pa pa pa pa pa pa pa pa pa pa 
+time time time time time time time time time time time time time 
+bën bën bën bën bën bën bën bën bën bën bën bën bën 
+hej hej hej hej hej hej hej hej hej hej hej hej hej 
+ja ja ja ja ja ja ja ja ja ja ja ja ja 
+ime ime ime ime ime ime ime ime ime ime ime ime ime 
+une une une une une une une une une une une une 
+duket duket duket duket duket duket duket duket duket duket duket duket 
+ndoshta ndoshta ndoshta ndoshta ndoshta ndoshta ndoshta ndoshta ndoshta ndoshta ndoshta ndoshta 
+ndonjë ndonjë ndonjë ndonjë ndonjë ndonjë ndonjë ndonjë ndonjë ndonjë ndonjë ndonjë 
+shiko shiko shiko shiko shiko shiko shiko shiko shiko shiko shiko shiko 
+bukur bukur bukur bukur bukur bukur bukur bukur bukur bukur bukur bukur 
+pas pas pas pas pas pas pas pas pas pas pas pas 
+asgjë asgjë asgjë asgjë asgjë asgjë asgjë asgjë asgjë asgjë asgjë asgjë 
+eja eja eja eja eja eja eja eja eja eja eja 
+gjitha gjitha gjitha gjitha gjitha gjitha gjitha gjitha gjitha gjitha gjitha 
+tim tim tim tim tim tim tim tim tim tim tim 
+disa disa disa disa disa disa disa disa disa disa disa 
+kohë kohë kohë kohë kohë kohë kohë kohë kohë kohë kohë 
+shkojmë shkojmë shkojmë shkojmë shkojmë shkojmë shkojmë shkojmë shkojmë shkojmë shkojmë 
+vërtetë vërtetë vërtetë vërtetë vërtetë vërtetë vërtetë vërtetë vërtetë vërtetë vërtetë 
+zot zot zot zot zot zot zot zot zot zot zot 
+zotëri zotëri zotëri zotëri zotëri zotëri zotëri zotëri zotëri zotëri 
+këto këto këto këto këto këto këto këto këto këto 
+çka çka çka çka çka çka çka çka çka çka 
+ma ma ma ma ma ma ma ma ma ma 
+tuaj tuaj tuaj tuaj tuaj tuaj tuaj tuaj tuaj tuaj 
+njeri njeri njeri njeri njeri njeri njeri njeri njeri njeri 
+prit prit prit prit prit prit prit prit prit prit 
+kishte kishte kishte kishte kishte kishte kishte kishte kishte kishte 
+kurrë kurrë kurrë kurrë kurrë kurrë kurrë kurrë kurrë kurrë 
+çdo çdo çdo çdo çdo çdo çdo çdo çdo çdo 
+mendon mendon mendon mendon mendon mendon mendon mendon mendon 
+dreqin dreqin dreqin dreqin dreqin dreqin dreqin dreqin dreqin 
+ato ato ato ato ato ato ato ato ato 
+mire mire mire mire mire mire mire mire mire 
+ashtu ashtu ashtu ashtu ashtu ashtu ashtu ashtu ashtu 
+ose ose ose ose ose ose ose ose ose 
+tyre tyre tyre tyre tyre tyre tyre tyre tyre 
+atëherë atëherë atëherë atëherë atëherë atëherë atëherë atëherë atëherë 
+tënde tënde tënde tënde tënde tënde tënde tënde tënde 
+kaq kaq kaq kaq kaq kaq kaq kaq kaq 
+qenë qenë qenë qenë qenë qenë qenë qenë qenë 
+saj saj saj saj saj saj saj saj saj 
+ia ia ia ia ia ia ia ia ia 
+shkoj shkoj shkoj shkoj shkoj shkoj shkoj shkoj shkoj 
+aty aty aty aty aty aty aty aty 
+deri deri deri deri deri deri deri deri 
+prej prej prej prej prej prej prej prej 
+jashtë jashtë jashtë jashtë jashtë jashtë jashtë jashtë 
+hajde hajde hajde hajde hajde hajde hajde hajde 
+isha isha isha isha isha isha isha isha 
+thotë thotë thotë thotë thotë thotë thotë thotë 
+shtëpi shtëpi shtëpi shtëpi shtëpi shtëpi shtëpi shtëpi 
+vdekur vdekur vdekur vdekur vdekur vdekur vdekur vdekur 
+marrë marrë marrë marrë marrë marrë marrë marrë 
+thjesht thjesht thjesht thjesht thjesht thjesht thjesht thjesht 
+gati gati gati gati gati gati gati gati 
+le le le le le le le le 
+gjithçka gjithçka gjithçka gjithçka gjithçka gjithçka gjithçka gjithçka 
+as as as as as as as as 
+tha tha tha tha tha tha tha tha 
+kete kete kete kete kete kete kete kete 
+sikur sikur sikur sikur sikur sikur sikur sikur 
+kisha kisha kisha kisha kisha kisha kisha kisha 
+bëjmë bëjmë bëjmë bëjmë bëjmë bëjmë bëjmë 
+vërtet vërtet vërtet vërtet vërtet vërtet vërtet 
+fundit fundit fundit fundit fundit fundit fundit 
+pastaj pastaj pastaj pastaj pastaj pastaj pastaj 
+punë punë punë punë punë punë punë 
+yt yt yt yt yt yt yt 
+aq aq aq aq aq aq aq 
+cfare cfare cfare cfare cfare cfare cfare 
+brenda brenda brenda brenda brenda brenda brenda 
+ditë ditë ditë ditë ditë ditë ditë 
+jote jote jote jote jote jote jote 
+vend vend vend vend vend vend vend 
+zoti zoti zoti zoti zoti zoti zoti 
+dreq dreq dreq dreq dreq dreq dreq 
+epo epo epo epo epo epo epo 
+z z z z z z z 
+herë herë herë herë herë herë herë 
+shoh shoh shoh shoh shoh shoh shoh 
+shko shko shko shko shko shko shko 
+juaj juaj juaj juaj juaj juaj juaj 
+dikush dikush dikush dikush dikush dikush dikush 
+marr marr marr marr marr marr marr 
+akoma akoma akoma akoma akoma akoma akoma 
+tënd tënd tënd tënd tënd tënd tënd 
+shpejt shpejt shpejt shpejt shpejt shpejt shpejt 
+sot sot sot sot sot sot sot 
+përse përse përse përse përse përse 
+bësh bësh bësh bësh bësh bësh 
+asnjë asnjë asnjë asnjë asnjë asnjë 
+besoj besoj besoj besoj besoj besoj 
+sigurisht sigurisht sigurisht sigurisht sigurisht sigurisht 
+fal fal fal fal fal fal 
+ketu ketu ketu ketu ketu ketu 
+jep jep jep jep jep jep 
+shume shume shume shume shume shume 
+ndodh ndodh ndodh ndodh ndodh ndodh 
+ate ate ate ate ate ate 
+tu tu tu tu tu tu 
+njerëz njerëz njerëz njerëz njerëz njerëz 
+mjaft mjaft mjaft mjaft mjaft mjaft 
+nevojë nevojë nevojë nevojë nevojë nevojë 
+poshtë poshtë poshtë poshtë poshtë poshtë 
+madh madh madh madh madh madh 
+njerëzit njerëzit njerëzit njerëzit njerëzit njerëzit 
+ok ok ok ok ok ok 
+drejtë drejtë drejtë drejtë drejtë drejtë 
+pëlqen pëlqen pëlqen pëlqen pëlqen pëlqen 
+gjithmonë gjithmonë gjithmonë gjithmonë gjithmonë gjithmonë 
+dashur dashur dashur dashur dashur dashur 
+ende ende ende ende ende ende 
+o o o o o o 
+shkon shkon shkon shkon shkon shkon 
+doja doja doja doja doja doja 
+tre tre tre tre tre tre 
+fund fund fund fund fund fund 
+merr merr merr merr merr merr 
+tonë tonë tonë tonë tonë tonë 
+mi mi mi mi mi mi 
+madhe madhe madhe madhe madhe madhe 
+veten veten veten veten veten veten 
+vogël vogël vogël vogël vogël vogël 
+thuaj thuaj thuaj thuaj thuaj 
+gjatë gjatë gjatë gjatë gjatë 
+thashë thashë thashë thashë thashë 
+mbi mbi mbi mbi mbi 
+jesh jesh jesh jesh jesh 
+sigurt sigurt sigurt sigurt sigurt 
+the the the the the 
+gjëra gjëra gjëra gjëra gjëra 
+thua thua thua thua thua 
+re re re re re 
+thënë thënë thënë thënë thënë 
+askush askush askush askush askush 
+ndodhi ndodhi ndodhi ndodhi ndodhi 
+jepi jepi jepi jepi jepi 
+babai babai babai babai babai 
+ishin ishin ishin ishin ishin 
+babi babi babi babi babi 
+problem problem problem problem problem 
+zemër zemër zemër zemër zemër 
+shoku shoku shoku shoku shoku 
+falni falni falni falni falni 
+djema djema djema djema djema 
+ardhur ardhur ardhur ardhur ardhur 
+kujdes kujdes kujdes kujdes kujdes 
+vetem vetem vetem vetem vetem 
+dini dini dini dini dini 
+sapo sapo sapo sapo sapo 
+përsëri përsëri përsëri përsëri përsëri 
+vonë vonë vonë vonë vonë 
+ketë ketë ketë ketë ketë 
+bëhet bëhet bëhet bëhet bëhet 
+kuptoj kuptoj kuptoj kuptoj kuptoj 
+mia mia mia mia mia 
+jem jem jem jem jem 
+thuash thuash thuash thuash thuash 
+bëni bëni bëni bëni bëni 
+fare fare fare fare 
+jetën jetën jetën jetën 
+ishe ishe ishe ishe 
+koha koha koha koha 
+bëjë bëjë bëjë bëjë 
+mundem mundem mundem mundem 
+rreth rreth rreth rreth 
+ri ri ri ri 
+dëgjo dëgjo dëgjo dëgjo 
+vjet vjet vjet vjet 
+doni doni doni doni 
+cili cili cili cili 
+flas flas flas flas 
+vajza vajza vajza vajza 
+mënyrë mënyrë mënyrë mënyrë 
+pasur pasur pasur pasur 
+fëmijë fëmijë fëmijë fëmijë 
+dëshiron dëshiron dëshiron dëshiron 
+larg larg larg larg 
+jane jane jane jane 
+fat fat fat fat 
+sonte sonte sonte sonte 
+gjej gjej gjej gjej 
+www www www www 
+nese nese nese nese 
+tua tua tua tua 
+mendova mendova mendova mendova 
+gjërat gjërat gjërat gjërat 
+r r r r 
+vetë vetë vetë vetë 
+puna puna puna puna 
+ca ca ca ca 
+ndonjëherë ndonjëherë ndonjëherë ndonjëherë 
+nă nă nă nă 
+kësaj kësaj kësaj kësaj 
+minuta minuta minuta minuta 
+këta këta këta këta 
+shikon shikon shikon shikon 
+flet flet flet flet 
+përshëndetje përshëndetje përshëndetje përshëndetje 
+rri rri rri rri 
+djalë djalë djalë djalë 
+lart lart lart lart 
+baba baba baba baba 
+mend mend mend 
+kupton kupton kupton 
+ikim ikim ikim 
+paratë paratë paratë 
+mami mami mami 
+jap jap jap 
+kishe kishe kishe 
+humbur humbur humbur 
+vajzë vajzë vajzë 
+mik mik mik 
+shikoni shikoni shikoni 
+ik ik ik 
+ndihmë ndihmë ndihmë 
+kaluar kaluar kaluar 
+djali djali djali 
+n n n 
+duart duart duart 
+s s s 
+duhej duhej duhej 
+përpara përpara përpara 
+dija dija dija 
+siç siç siç 
+nesër nesër nesër 
+mbrapa mbrapa mbrapa 
+sigurtë sigurtë sigurtë 
+gje gje gje 
+shkoni shkoni shkoni 
+ben ben ben 
+orë orë orë 
+natën natën natën 
+gjithashtu gjithashtu gjithashtu 
+gjetur gjetur gjetur 
+gjallë gjallë gjallë 
+gjithe gjithe gjithe 
+këtej këtej këtej 
+vështirë vështirë vështirë 
+erdhi erdhi erdhi 
+ndodhur ndodhur ndodhur 
+emrin emrin emrin 
+kesh kesh kesh 
+shikoj shikoj shikoj 
+bëjnë bëjnë bëjnë 
+mbaj mbaj mbaj 
+vrarë vrarë vrarë 
+dot dot dot 
+shkuar shkuar shkuar 
+atij atij atij 
+tregoj tregoj tregoj 
+flasim flasim flasim 
+pyetje pyetje pyetje 
+mori mori mori 
+keqe keqe keqe 
+tona tona tona 
+drejt drejt drejt 
+qă qă qă 
+mă mă mă 
+bëre bëre bëre 
+plako plako plako 
+shpresoj shpresoj shpresoj 
+bashkë bashkë bashkë 
+lëviz lëviz lëviz 
+frikë frikë frikë 
+bëri bëri bëri 
+ndihmoj ndihmoj ndihmoj 
+kthehem kthehem kthehem 
+dëgjuar dëgjuar dëgjuar 
+bëra bëra bëra 
+tillë tillë tillë 
+ndalo ndalo ndalo 
+pjesë pjesë pjesë 
+shkosh shkosh shkosh 
+cila cila cila 
+menjëherë menjëherë menjëherë 
+merre merre merre 
+njeriu njeriu njeriu 
+punën punën punën 
+shihemi shihemi shihemi 
+vij vij vij 
+burrë burrë burrë 
+shtă shtă shtă 
+dikë dikë dikë 
+ejani ejani ejani 
+sytë sytë sytë 
+vdes vdes vdes 
+nën nën nën 
+gabim gabim gabim 
+lidhje lidhje lidhje 
+merrni merrni merrni 
+shohim shohim shohim 
+vete vete vete 
+vendin vendin vendin 
+duan duan duan 
+fjalë fjalë fjalë 
+menduar menduar menduar 
+bëje bëje bëje 
+vras vras vras 
+dreqi dreqi dreqi 
+çmendur çmendur çmendur 
+ej ej ej 
+mes mes mes 
+dicka dicka dicka 
+njoh njoh njoh 
+mundësi mundësi mundësi 
+fortë fortë fortë 
+derisa derisa derisa 
+tjera tjera tjera 
+vjetër vjetër vjetër 
+rrugë rrugë rrugë 
+fakt fakt fakt 
+asaj asaj asaj 
+vesh vesh vesh 
+meje meje meje 
+pesë pesë pesë 
+mira mira mira 
+kërkoj kërkoj kërkoj 
+pashë pashë pashë 
+mendoni mendoni mendoni 
+makinë makinë makinë 
+bir bir bir 
+dakord dakord dakord 
+mban mban mban 
+prandaj prandaj prandaj 
+farë farë farë 
+fëmijët fëmijët fëmijët 
+sy sy sy 
+afër afër 
+kthehu kthehu 
+ndodhë ndodhë 
+armë armë 
+pasi pasi 
+lë lë 
+thonë thonë 
+hë hë 
+ide ide 
+net net 
+t t 
+zonja zonja 
+mundur mundur 
+grua grua 
+dashuri dashuri 
+kohe kohe 
+lumtur lumtur 
+kërkon kërkon 
+kujtohet kujtohet 
+lehtë lehtë 
+dollarë dollarë 
+thoni thoni 
+muaj muaj 
+tuaja tuaja 
+bej bej 
+mendoja mendoja 
+titrashqip titrashqip 
+prapa prapa 
+vijë vijë 
+jete jete 
+pare pare 
+marrim marrim 
+jeta jeta 
+tepër tepër 
+zotit zotit 
+din din 
+vazhdo vazhdo 
+emri emri 
+lloj lloj 
+jonë jonë 
+prisni prisni 
+mundesh mundesh 
+dukesh dukesh 
+shtëpinë shtëpinë 
+gruaja gruaja 
+cfarë cfarë 
+atyre atyre 
+m m 
+jenë jenë 
+pres pres 
+mëngjes mëngjes 
+vijnë vijnë 
+dr dr 
+sheh sheh 
+bëja bëja 
+kundër kundër 
+mbase mbase 
+botë botë 
+katër katër 
+dorë dorë 
+dakort dakort 
+donte donte 
+qoftë qoftë 
+lër lër 
+tërë tërë 
+bere bere 
+marrësh marrësh 
+qytet qytet 
+tjeter tjeter 
+shpejtë shpejtë 
+qetësohu qetësohu 
+njă njă 
+arsye arsye 
+ulu ulu 
+tamam tamam 
+vish vish 
+tash tash 
+kem kem 
+punon punon 
+pari pari 
+rëndësi rëndësi 
+shikoje shikoje 
+tjerët tjerët 
+shtëpia shtëpia 
+ynë ynë 
+lënë lënë 
+kapiten kapiten 
+qënë qënë 
+vëlla vëlla 
+gjejmë gjejmë 
+cdo cdo 
+njeh njeh 
+vite vite 
+mbaje mbaje 
+javë javë 
+teje teje 
+ec ec 
+zgjuar zgjuar 
+dal dal 
+fjalën fjalën 
+vendi vendi 
+dalë dalë 
+thjeshtë thjeshtë 
+ha ha 
+ditën ditën 
+lirë lirë 
+duhen duhen 
+shkojë shkojë 
+lartë lartë 
+ishim ishim 
+qetë qetë 
+vdiq vdiq 
+duam duam 
+budalla budalla 
+kokën kokën 
+rrugën rrugën 
+shpirt shpirt 
+idiot idiot 
+mora mora 
+tashmë tashmë 
+dimë dimë 
+kuptova kuptova 
+dhënë dhënë 
+lëre lëre 
+folur folur 
+diku diku 
+cilën cilën 
+gjeta gjeta 
+dil dil 
+djalosh djalosh 
+l l 
+problemi problemi 
+kane kane 
+shkak shkak 
+hap hap 
+hapur hapur 
+njëri njëri 
+trego trego 
+mirupafshim mirupafshim 
+dëgjoj dëgjoj 
+keshtu keshtu 
+ana ana 
+doktor doktor 
+in in 
+dëgjon dëgjon 
+kthehet kthehet 
+pune pune 
+or or 
+saktë saktë 
+patjetër patjetër 
+intereson intereson 
+zonjë zonjë 
+gjak gjak 
+burg burg 
+juve juve 
+ndryshe ndryshe 
+makina makina 
+kishin kishin 
+ndaj ndaj 
+seriozisht seriozisht 
+iki iki 
+mamaja mamaja 
+la la 
+eshtë eshtë 
+natë natë 
+djalin djalin 
+vë vë 
+znj znj 
+ë ë 
+ndal ndal 
+tung tung 
+nëpër nëpër 
+njohur njohur 
+jetës jetës 
+beson beson 
+ndonje ndonje 
+iu iu 
+bë bë 
+shkoi shkoi 
+hape hape 
+dëgjoni dëgjoni 
+sjell sjell 
+shum shum 
+kthehemi kthehemi 
+ndërsa ndërsa 
+nesh nesh 
+vetmja vetmja 
+gjëja gjëja 
+ra ra 
+qëndro qëndro 
+kohën kohën 
+qepe qepe 
+gëzuar gëzuar 
+pret pret 
+rruga rruga 
+vajzën vajzën 
+mu mu 
+dalim dalim 
+rëndësishme rëndësishme 
+tokë tokë 
+moment moment 
+derën derën 
+mrekullueshme mrekullueshme 
+kthyer kthyer 
+qartë qartë 
+alo alo 
+largohu largohu 
+ujë ujë 
+siguri siguri 
+miku miku 
+çuditshme çuditshme 
+erdha erdha 
+shef shef 
+more more 
+telefon telefon 
+minutë minutë 
+tanë tanë 
+pyes pyes 
+probleme probleme 
+njerëzve njerëzve 
+dish dish 
+shpejti shpejti 
+dinë dinë 
+bie bie 
+erdhe erdhe 
+kishim kishim 
+sërish sërish 
+dita dita 
+gjashtë gjashtë 
+kërkuar kërkuar 
+it it 
+burri burri 
+policia policia 
+ah ah 
+here here 
+sh sh 
+emër emër 
+histori histori 
+jack jack 
+kë kë 
+zoteri zoteri 
+ora ora 
+tjerë tjerë 
+xhon xhon 
+dytë dytë 
+kalon kalon 
+zënë zënë 
+fillim fillim 
+tende tende 
+gabuar gabuar 
+rast rast 
+këtij këtij 
+zjarr zjarr 
+dhomën dhomën 
+mallkuar mallkuar 
+del del 
+shaka shaka 
+makinën makinën 
+milion milion 
+gruan gruan 
+botën botën 
+forca forca 
+gëzohem gëzohem 
+gjithsesi gjithsesi 
+bënte bënte 
+asgje asgje 
+gjeni gjeni 
+mbaruar 
+mbylle 
+sipas 
+jepni 
+dorën 
+kokë 
+titrimi 
+bashku 
+zotërinj 
+bota 
+shohësh 
+vit 
+ndihmo 
+prapë 
+shkojnë 
+vertet 
+diqka 
+vendos 
+doje 
+pije 
+cilin 
+gojën 
+sime 
+quhet 
+bënë 
+presim 
+ore 
+marrin 
+ikur 
+pe 
+gjithëve 
+pi 
+don 
+fol 
+uh 
+familje 
+shkojme 
+nëna 
+vetmi 
+sjellë 
+vendosur 
+neve 
+mundet 
+vdekje 
+polic 
+botës 
+fillojmë 
+keto 
+duhur 
+kan 
+betohem 
+qen 
+armën 
+nder 
+gjesh 
+paktën 
+dije 
+përveç 
+jashte 
+fantastike 
+babait 
+vetme 
+mrekulli 
+dha 
+vënë 
+erë 
+duash 
+punuar 
+luftë 
+familjen 
+filluar 
+tjetrin 
+vet 
+lëvizni 
+ki 
+mbyllur 
+premtoj 
+punoj 
+rrugës 
+kape 
+vëllai 
+këmbë 
+mbetur 
+mendjen 
+vrasin 
+ngadalë 
+mundemi 
+mbaroi 
+tipi 
+treguar 
+fundi 
+tmerrshme 
+vini 
+lojë 
+ua 
+vajzat 
+përktheu 
+dite 
+mësuar 
+lini 
+dhomë 
+pritur 
+rrezik 
+prek 
+sesa 
+vertete 
+bast 
+cilat 
+ditur 
+kthehesh 
+to 
+shkollë 
+dëgjova 
+bardhë 
+vërtetën 
+mendja 
+jeton 
+shkëlqyeshëm 
+dhoma 
+vrau 
+pastër 
+vjeç 
+falemnderit 
+mijë 
+numër 
+ushqim 
+kujt 
+mbani 
+thash 
+asnje 
+pothuajse 
+mbreti 
+djall 
+mëdha 
+njëherë 
+mut 
+brënda 
+urrej 
+kudo 
+tjeta 
+bëhesh 
+frymë 
+vrapo 
+un 
+nxjerr 
+zemra 
+njëjtën 
+ndihesh 
+familja 
+lidhur 
+shok 
+plan 
+ndihmoni 
+herën 
+shikosh 
+ndihem 
+fillon 
+besim 
+kurre 
+gjendje 
+natyrisht 
+pjesa 
+heq 
+qenka 
+pjesën 
+motra 
+qejf 
+takuar 
+thoja 
+rritur 
+mama 
+dëshironi 
+qene 
+pëlqejnë 
+parasysh 
+pikërisht 
+pranë 
+meqë 
+nevojitet 
+tallesh 
+tregon 
+themi 
+mbajtur 
+djemtë 
+takim 
+ndryshuar 
+kuptoni 
+kohës 
+jush 
+dje 
+beje 
+lodhur 
+imja 
+reja 
+përdor 
+fjala 
+prindërit 
+mendo 
+fort 
+veshur 
+lejoni 
+herët 
+thoshte 
+shqetëso 
+cilët 
+anën 
+anije 
+paguaj 
+ulur 
+zotin 
+ndihmojë 
+armët 
+ndodhet 
+toni 
+vrasje 
+vitin 
+qyteti 
+tju 
+këmbët 
+idenë 
+madje 
+krisht 
+përmes 
+kafe 
+faji 
+dalësh 
+bob 
+luaj 
+jetoj 
+krejt 
+mbash 
+djem 
+çkemi 
+gjith 
+shihni 
+vetes 
+trupin 
+gjithnjë 
+kuptim 
+babain 
+qesharake 
+quajnë 
+vërteta 
+tutje 
+plotë 
+arritur 
+vdekjes 
+hey 
+shtepi 
+doli 
+com 
+mark 
+iku 
+takohemi 
+at 
+veçantë 
+b 
+trap 
+borxh 
+hera 
+dinte 
+burra 
+ftohtë 
+martuar 
+çështje 
+çfarëdo 
+pikë 
+meri 
+thuaji 
+mënyra 
+john 
+marre 
+gjete 
+vazhdoni 
+shokët 
+nënë 
+poshte 
+plot 
+ndihmosh 
+thote 
+bëhem 
+dilni 
+ngrënë 
+darkë 
+beni 
+qëndroni 
+pirdhu 
+miq 
+andej 
+orën 
+sëmurë 
+gjeneral 
+marrëveshje 
+përgjithmonë 
+zemrën 
+kolonel 
+bejme 
+goxha 
+dikur 
+rënë 
+këtyre 

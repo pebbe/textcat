@@ -1,89 +1,1000 @@
-Cesena è posta quasi al centro della Romagna, a metà strada tra il mare,
-da cui dista appena 15 km, e le colline, nel punto in cui si incrociano
-le antiche vie Emilia e Romea. Il territorio comunale, la cui superficie
-è di 249,5 km², confina a nord con i comuni di Cervia e Ravenna, a est
-con i comuni di Cesenatico, Gambettola, Longiano e Montiano, a sud con i
-comuni di Roncofreddo e Mercato Saraceno, e ad ovest con i comuni di
-Civitella di Romagna, Meldola e Bertinoro.
-
-L'altitudine ufficiale di Cesena, corrispondente al punto sul quale
-sorge il Palazzo Comunale, è di 44 metri sul livello del mare. La media
-delle altitudini dell'intero territorio comunale, invece, è di 97
-m.s.l.m. Tuttavia si tratta di dati medi, che come tali non inquadrano
-perfettamente la varietà del territorio cesenate (si passa dai 5 metri
-del fosso della Valle ai 480 metri di monte Cavallo), pianeggiante verso
-l'ultimo lembo di Pianura Padana a nord-est, collinare con le prime
-propaggini dell'Appennino tosco-romagnolo a sud-ovest.
-
-Morfologicamente sono il fiume Savio e la sua valle a comporre l'alveo
-principale del territorio comunale cesenate, andando poi a sfociare a
-nord-ovest fino al bacino del fiume Ronco e del torrente Bevano, a
-sud-est fino al versante sinistro del torrente Pisciatello
-
-Cesena ha un clima temperato, moderatamente mitigato dalla vicinanza del
-mare. L'estate può essere molto calda, con temperature che possono
-giungere a 40° (con tempi di ritorno di 18/20 anni) nei valori massimi,
-ma solo in casi di intenso foehn appenninico associato a forti avvezioni
-calde, anche se raramente superano i 35°-36°. Le mezze stagioni sono
-piovose e complessivamente miti, nonostante la primavera risulti molto
-più calda e soleggiata rispetto ai mesi autunnali. L'inverno è
-generalmente semicontinentale o continentale (mediamente rigido) sui
-comparti appenninico e pedeappenninico, inclusi normalmente sotto la
-sfera d'influenza dello strato limite planetario di tipo continentale e
-quindi soggetti a regimi di monobrezza della Pianura Padana (vento
-freddo che "esce" dall'inversione termica padana verso l'Adriatico)
-mentre il comparto costiero è marcatamente semicontinentale dato che
-risente maggiormente dei flussi di calore sensibile in ingresso
-dall'Adriatico; le temperature medie nel corso dell'inverno risultano
-sulle aree costiere e pericostiere mediamente più alte di circa 2°
-rispetto alla fascia pedecollinare posta circa 10 km più ad ovest. Le
-giornate di nebbia, nella media trentennale, variano da circa 30 giorni
-sulla bassa pianura cesenate prossima alla costa, dalle 18-20 delle aree
-a ridosso dell'Appennino fino alle 12-15 giornate all'interno delle
-valli.
-
-La Valle del Savio e i dintorni dei colli, a cui si appoggia Cesena,
-furono abitati fin dall'età neolitica, come dimostrano i materiali
-rinvenuti nella zona della basilica del Monte e, più su, a Borello.
-
-Il primo nucleo abitativo di Cesena sorge con ogni probabilità per opera
-degli Umbri intorno al VI-V secolo a.C.; tuttavia è solo con l'arrivo
-dei Romani che il piccolo nucleo assume la forma di villaggio; decade
-con l'Impero Romano ed è sottoposta alle incursioni dei barbari.
-
-Presa dai Goti di Teodorico, viene riconquistata dai Bizantini e, a metà
-del VI secolo, entra a far parte dell'Esarcato. Dopo le campagne di
-Pipino il Breve (VIII secolo), Cesena rientra infine nei territori sotto
-il controllo pontificio, primo nucleo di quello che sarà lo Stato della
-Chiesa.
-
-Il Duecento vede Cesena oscillare tra libertà comunali e sottomissione
-alla Chiesa o a signori locali. Nel 1333 Cesena è divenuta dominio della
-famiglia forlivese degli Ordelaffi, ma la loro signoria viene interrotta
-nel 1357 dall'intervento del legato pontificio, cardinale Albornoz, che
-riesce a sottomettere Cesena.
-
-Nel febbraio del 1377 Cesena viene coinvolta nella guerra promossa dalla
-Repubblica di Firenze contro lo Stato Pontificio, ma il cardinale
-Roberto di Ginevra (futuro antipapa Clemente VII) scatena un violento
-massacro in città, per impedire che Cesena passi dalla parte dei
-fiorentini: la strage viene eseguita dalle milizie mercenarie bretoni,
-guidate dal condottiero inglese Giovanni Acuto, che la radono al suolo.
-
-Durante la signoria dei Malatesta Cesena rifiorì, come testimoniano gli
-importanti monumenti quali la Rocca Malatestiana, voluta da Galeotto, e
-la Biblioteca Malatestiana, opera del mecenate Domenico Malatesta
-Novello. Per un breve periodo, intorno al 1500, sotto il dominio di
-Cesare Borgia, Cesena divenne la capitale del Ducato di Romagna e nel
-1502 giunse in città Leonardo da Vinci, al quale Borgia aveva conferito
-l'incarico di rilevare ed aggiornare le fortificazioni delle città di
-Romagna conquistate. Poi tornò sotto il dominio dello Stato Pontificio,
-che proseguì fino all'Unità d'Italia.
-
-Nel 1775, il cesenate Giovan Angelo Braschi diviene Papa col nome di Pio
-VI, e nuovamente nel 1800, un altro cesenate diviene Papa, Barnaba
-Niccolò Maria Luigi Chiaramonti col nome di Pio VII. L'esperienza
-napoleonica (1797-1814), che vede Pio VI e Pio VII tentare invano di
-opporsi a Napoleone Bonaparte, priva Cesena di un gran numero di
-monasteri, conventi e chiese che precedentemente la ornavano e
-dell'Università.
+non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non non 
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e e 
+che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che che 
+di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di di 
+la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la 
+è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è è 
+il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il il 
+un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un 
+a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
+per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per per 
+in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in 
+una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una una 
+sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono sono 
+mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi mi 
+ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho 
+si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si si 
+lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo lo 
+ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha 
+ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma ma 
+ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti ti 
+le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le le 
+cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa cosa 
+con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con con 
+i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i 
+da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da da 
+se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se 
+come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come come 
+no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no 
+io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io io 
+ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci ci 
+questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo questo 
+hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai hai 
+qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui qui 
+bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene bene 
+sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei sei 
+tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu tu 
+del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del del 
+me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me 
+al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al 
+mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio mio 
+solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo solo 
+sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì sì 
+tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto 
+te te te te te te te te te te te te te te te te te te te te te te te te te te te te te 
+era era era era era era era era era era era era era era era era era era era era era era era era era era era era 
+più più più più più più più più più più più più più più più più più più più più più più più più più più più 
+della della della della della della della della della della della della della della della della della della della della della della della della della della della 
+gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli gli 
+lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei lei 
+mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia mia 
+ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne 
+questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa questa 
+fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare fare 
+quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando quando 
+perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché perché 
+ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora ora 
+essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere essere 
+fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto fatto 
+va va va va va va va va va va va va va va va va va va va va va va va 
+so so so so so so so so so so so so so so so so so so so so so so so 
+o o o o o o o o o o o o o o o o o o o o o o 
+mai mai mai mai mai mai mai mai mai mai mai mai mai mai mai mai mai mai mai mai mai 
+così così così così così così così così così così così così così così così così così così così così così 
+chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi chi 
+detto detto detto detto detto detto detto detto detto detto detto detto detto detto detto detto detto detto detto detto 
+alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla alla 
+tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti tutti 
+quello quello quello quello quello quello quello quello quello quello quello quello quello quello quello quello quello quello quello quello 
+molto molto molto molto molto molto molto molto molto molto molto molto molto molto molto molto molto molto molto 
+oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh 
+anche anche anche anche anche anche anche anche anche anche anche anche anche anche anche anche anche anche anche 
+dei dei dei dei dei dei dei dei dei dei dei dei dei dei dei dei dei dei dei 
+voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio voglio 
+lui lui lui lui lui lui lui lui lui lui lui lui lui lui lui lui lui lui 
+niente niente niente niente niente niente niente niente niente niente niente niente niente niente niente niente niente niente 
+stato stato stato stato stato stato stato stato stato stato stato stato stato stato stato stato stato stato 
+sta sta sta sta sta sta sta sta sta sta sta sta sta sta sta sta sta sta 
+grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie grazie 
+dove dove dove dove dove dove dove dove dove dove dove dove dove dove dove dove dove dove 
+abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo abbiamo 
+tuo tuo tuo tuo tuo tuo tuo tuo tuo tuo tuo tuo tuo tuo tuo tuo tuo 
+nel nel nel nel nel nel nel nel nel nel nel nel nel nel nel nel nel 
+posso posso posso posso posso posso posso posso posso posso posso posso posso posso posso posso 
+allora allora allora allora allora allora allora allora allora allora allora allora allora allora allora allora 
+siamo siamo siamo siamo siamo siamo siamo siamo siamo siamo siamo siamo siamo siamo siamo siamo 
+uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno 
+fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa 
+vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi vuoi 
+hanno hanno hanno hanno hanno hanno hanno hanno hanno hanno hanno hanno hanno hanno hanno hanno 
+prima prima prima prima prima prima prima prima prima prima prima prima prima prima prima prima 
+noi noi noi noi noi noi noi noi noi noi noi noi noi noi noi noi 
+suo suo suo suo suo suo suo suo suo suo suo suo suo suo suo suo 
+stai stai stai stai stai stai stai stai stai stai stai stai stai stai stai 
+tua tua tua tua tua tua tua tua tua tua tua tua tua tua tua 
+due due due due due due due due due due due due due due due 
+casa casa casa casa casa casa casa casa casa casa casa casa casa casa casa 
+ancora ancora ancora ancora ancora ancora ancora ancora ancora ancora ancora ancora ancora ancora ancora 
+sua sua sua sua sua sua sua sua sua sua sua sua sua sua sua 
+qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa 
+vero vero vero vero vero vero vero vero vero vero vero vero vero vero vero 
+su su su su su su su su su su su su su su 
+sia sia sia sia sia sia sia sia sia sia sia sia sia sia 
+sai sai sai sai sai sai sai sai sai sai sai sai sai sai 
+sempre sempre sempre sempre sempre sempre sempre sempre sempre sempre sempre sempre sempre 
+dire dire dire dire dire dire dire dire dire dire dire dire dire 
+loro loro loro loro loro loro loro loro loro loro loro loro loro 
+quella quella quella quella quella quella quella quella quella quella quella quella quella 
+andiamo andiamo andiamo andiamo andiamo andiamo andiamo andiamo andiamo andiamo andiamo andiamo andiamo 
+andare andare andare andare andare andare andare andare andare andare andare andare 
+delle delle delle delle delle delle delle delle delle delle delle delle 
+altro altro altro altro altro altro altro altro altro altro altro altro 
+vi vi vi vi vi vi vi vi vi vi vi vi 
+po po po po po po po po po po po po 
+quel quel quel quel quel quel quel quel quel quel quel quel 
+li li li li li li li li li li li li 
+ehi ehi ehi ehi ehi ehi ehi ehi ehi ehi ehi ehi 
+devo devo devo devo devo devo devo devo devo devo devo devo 
+signore signore signore signore signore signore signore signore signore signore signore 
+nella nella nella nella nella nella nella nella nella nella nella 
+ad ad ad ad ad ad ad ad ad ad ad 
+tempo tempo tempo tempo tempo tempo tempo tempo tempo tempo tempo 
+forse forse forse forse forse forse forse forse forse forse forse 
+certo certo certo certo certo certo certo certo certo certo certo 
+vita vita vita vita vita vita vita vita vita vita vita 
+fuori fuori fuori fuori fuori fuori fuori fuori fuori fuori fuori 
+voi voi voi voi voi voi voi voi voi voi voi 
+uomo uomo uomo uomo uomo uomo uomo uomo uomo uomo uomo 
+sto sto sto sto sto sto sto sto sto sto sto 
+adesso adesso adesso adesso adesso adesso adesso adesso adesso adesso adesso 
+davvero davvero davvero davvero davvero davvero davvero davvero davvero davvero davvero 
+anni anni anni anni anni anni anni anni anni anni anni 
+cosi cosi cosi cosi cosi cosi cosi cosi cosi cosi cosi 
+perche perche perche perche perche perche perche perche perche perche perche 
+dio dio dio dio dio dio dio dio dio dio 
+poi poi poi poi poi poi poi poi poi poi 
+visto visto visto visto visto visto visto visto visto visto 
+ok ok ok ok ok ok ok ok ok ok 
+via via via via via via via via via via 
+parte parte parte parte parte parte parte parte parte parte 
+proprio proprio proprio proprio proprio proprio proprio proprio proprio proprio 
+puoi puoi puoi puoi puoi puoi puoi puoi puoi puoi 
+credo credo credo credo credo credo credo credo credo credo 
+piu piu piu piu piu piu piu piu piu piu 
+sul sul sul sul sul sul sul sul sul sul 
+beh beh beh beh beh beh beh beh beh beh 
+volta volta volta volta volta volta volta volta volta volta 
+cose cose cose cose cose cose cose cose cose cose 
+quanto quanto quanto quanto quanto quanto quanto quanto quanto 
+ciao ciao ciao ciao ciao ciao ciao ciao ciao 
+nessuno nessuno nessuno nessuno nessuno nessuno nessuno nessuno nessuno 
+amico amico amico amico amico amico amico amico amico 
+dopo dopo dopo dopo dopo dopo dopo dopo dopo 
+può può può può può può può può può 
+padre padre padre padre padre padre padre padre padre 
+fai fai fai fai fai fai fai fai fai 
+vuole vuole vuole vuole vuole vuole vuole vuole vuole 
+qualcuno qualcuno qualcuno qualcuno qualcuno qualcuno qualcuno qualcuno qualcuno 
+posto posto posto posto posto posto posto posto posto 
+lavoro lavoro lavoro lavoro lavoro lavoro lavoro lavoro lavoro 
+meglio meglio meglio meglio meglio meglio meglio meglio meglio 
+devi devi devi devi devi devi devi devi devi 
+già già già già già già già già già 
+ed ed ed ed ed ed ed ed ed 
+vedere vedere vedere vedere vedere vedere vedere vedere 
+giorno giorno giorno giorno giorno giorno giorno giorno 
+cazzo cazzo cazzo cazzo cazzo cazzo cazzo cazzo 
+dai dai dai dai dai dai dai dai 
+cui cui cui cui cui cui cui cui 
+bisogno bisogno bisogno bisogno bisogno bisogno bisogno bisogno 
+dal dal dal dal dal dal dal dal 
+vai vai vai vai vai vai vai vai 
+ogni ogni ogni ogni ogni ogni ogni ogni 
+senza senza senza senza senza senza senza senza 
+ce ce ce ce ce ce ce ce 
+vieni vieni vieni vieni vieni vieni vieni vieni 
+ecco ecco ecco ecco ecco ecco ecco ecco 
+male male male male male male male 
+stata stata stata stata stata stata stata 
+troppo troppo troppo troppo troppo troppo troppo 
+qualche qualche qualche qualche qualche qualche qualche 
+signor signor signor signor signor signor signor 
+dobbiamo dobbiamo dobbiamo dobbiamo dobbiamo dobbiamo dobbiamo 
+dalla dalla dalla dalla dalla dalla dalla 
+sarà sarà sarà sarà sarà sarà sarà 
+tanto tanto tanto tanto tanto tanto tanto 
+avete avete avete avete avete avete avete 
+mamma mamma mamma mamma mamma mamma mamma 
+ll ll ll ll ll ll ll 
+modo modo modo modo modo modo modo 
+grande grande grande grande grande grande grande 
+tra tra tra tra tra tra tra 
+prego prego prego prego prego prego prego 
+miei miei miei miei miei miei miei 
+favore favore favore favore favore favore favore 
+altra altra altra altra altra altra altra 
+alle alle alle alle alle alle alle 
+sa sa sa sa sa sa sa 
+sembra sembra sembra sembra sembra sembra sembra 
+quindi quindi quindi quindi quindi quindi quindi 
+guarda guarda guarda guarda guarda guarda guarda 
+soldi soldi soldi soldi soldi soldi soldi 
+sulla sulla sulla sulla sulla sulla sulla 
+dispiace dispiace dispiace dispiace dispiace dispiace dispiace 
+parlare parlare parlare parlare parlare parlare parlare 
+sarebbe sarebbe sarebbe sarebbe sarebbe sarebbe 
+tre tre tre tre tre tre 
+ai ai ai ai ai ai 
+gente gente gente gente gente gente 
+deve deve deve deve deve deve 
+perchè perchè perchè perchè perchè perchè 
+dice dice dice dice dice dice 
+aspetta aspetta aspetta aspetta aspetta aspetta 
+madre madre madre madre madre madre 
+momento momento momento momento momento momento 
+nuovo nuovo nuovo nuovo nuovo nuovo 
+questi questi questi questi questi questi 
+mondo mondo mondo mondo mondo mondo 
+successo successo successo successo successo successo 
+possiamo possiamo possiamo possiamo possiamo possiamo 
+nostro nostro nostro nostro nostro nostro 
+piace piace piace piace piace piace 
+siete siete siete siete siete siete 
+forza forza forza forza forza forza 
+aveva aveva aveva aveva aveva aveva 
+avere avere avere avere avere avere 
+ero ero ero ero ero ero 
+figlio figlio figlio figlio figlio figlio 
+dentro dentro dentro dentro dentro dentro 
+oggi oggi oggi oggi oggi oggi 
+ragazzi ragazzi ragazzi ragazzi ragazzi ragazzi 
+penso penso penso penso penso penso 
+accordo accordo accordo accordo accordo accordo 
+facendo facendo facendo facendo facendo facendo 
+queste queste queste queste queste queste 
+é é é é é é 
+fosse fosse fosse fosse fosse fosse 
+faccio faccio faccio faccio faccio faccio 
+degli degli degli degli degli degli 
+giusto giusto giusto giusto giusto giusto 
+altri altri altri altri altri 
+avanti avanti avanti avanti avanti 
+nome nome nome nome nome 
+avevo avevo avevo avevo avevo 
+lì lì lì lì lì 
+farlo farlo farlo farlo farlo 
+donna donna donna donna donna 
+notte notte notte notte notte 
+basta basta basta basta basta 
+subito subito subito subito subito 
+tutte tutte tutte tutte tutte 
+ah ah ah ah ah 
+tutta tutta tutta tutta tutta 
+sapere sapere sapere sapere sapere 
+signora signora signora signora signora 
+testa testa testa testa testa 
+faccia faccia faccia faccia faccia 
+porta porta porta porta porta 
+bella bella bella bella bella 
+sicuro sicuro sicuro sicuro sicuro 
+eh eh eh eh eh 
+senti senti senti senti senti 
+vado vado vado vado vado 
+persone persone persone persone persone 
+uomini uomini uomini uomini uomini 
+sentito sentito sentito sentito sentito 
+nostra nostra nostra nostra nostra 
+preso preso preso preso preso 
+merda merda merda merda merda 
+tipo tipo tipo tipo tipo 
+appena appena appena appena appena 
+sotto sotto sotto sotto sotto 
+idea idea idea idea idea 
+stare stare stare stare stare 
+ragazzo ragazzo ragazzo ragazzo ragazzo 
+morto morto morto morto morto 
+paura paura paura paura paura 
+buona buona buona buona buona 
+ragazza ragazza ragazza ragazza ragazza 
+abbia abbia abbia abbia abbia 
+avuto avuto avuto avuto avuto 
+stesso stesso stesso stesso stesso 
+erano erano erano erano erano 
+moglie moglie moglie moglie moglie 
+potrebbe potrebbe potrebbe potrebbe potrebbe 
+presto presto presto presto presto 
+suoi suoi suoi suoi suoi 
+pronto pronto pronto pronto pronto 
+pensi pensi pensi pensi pensi 
+problema problema problema problema problema 
+capito capito capito capito capito 
+succede succede succede succede 
+ii ii ii ii 
+amore amore amore amore 
+tuoi tuoi tuoi tuoi 
+papà papà papà papà 
+volte volte volte volte 
+gia gia gia gia 
+insieme insieme insieme insieme 
+tesoro tesoro tesoro tesoro 
+domani domani domani domani 
+vorrei vorrei vorrei vorrei 
+ragione ragione ragione ragione 
+storia storia storia storia 
+caso caso caso caso 
+volevo volevo volevo volevo 
+nulla nulla nulla nulla 
+l l l l 
+prendere prendere prendere prendere 
+okay okay okay okay 
+fino fino fino fino 
+qua qua qua qua 
+trovato trovato trovato trovato 
+dici dici dici dici 
+bello bello bello bello 
+venire venire venire venire 
+macchina macchina macchina macchina 
+nei nei nei nei 
+dato dato dato dato 
+serve serve serve serve 
+giorni giorni giorni giorni 
+aver aver aver aver 
+terra terra terra terra 
+dico dico dico dico 
+mano mano mano mano 
+stiamo stiamo stiamo stiamo 
+buon buon buon buon 
+vediamo vediamo vediamo vediamo 
+famiglia famiglia famiglia famiglia 
+stanno stanno stanno stanno 
+piacere piacere piacere piacere 
+facciamo facciamo facciamo facciamo 
+aiuto aiuto aiuto aiuto 
+fratello fratello fratello fratello 
+scusa scusa scusa scusa 
+letto letto letto letto 
+secondo secondo secondo secondo 
+fine fine fine fine 
+ciò ciò ciò ciò 
+avrei avrei avrei avrei 
+diavolo diavolo diavolo diavolo 
+amici amici amici amici 
+polizia polizia polizia polizia 
+state state state state 
+morte morte morte morte 
+piano piano piano piano 
+meno meno meno meno 
+capisco capisco capisco capisco 
+capo capo capo capo 
+vedo vedo vedo vedo 
+stati stati stati stati 
+primo primo primo 
+neanche neanche neanche 
+bel bel bel 
+quale quale quale 
+là là là 
+strada strada strada 
+vedi vedi vedi 
+vostro vostro vostro 
+occhi occhi occhi 
+salve salve salve 
+quei quei quei 
+persona persona persona 
+quelle quelle quelle 
+quasi quasi quasi 
+dollari dollari dollari 
+giro giro giro 
+scusi scusi scusi 
+credi credi credi 
+ucciso ucciso ucciso 
+indietro indietro indietro 
+acqua acqua acqua 
+mentre mentre mentre 
+sera sera sera 
+tornare tornare tornare 
+contro contro contro 
+sento sento sento 
+sig sig sig 
+avrebbe avrebbe avrebbe 
+dovuto dovuto dovuto 
+pensavo pensavo pensavo 
+bambino bambino bambino 
+film film film 
+mie mie mie 
+mani mani mani 
+abbastanza abbastanza abbastanza 
+vostra vostra vostra 
+bambini bambini bambini 
+minuti minuti minuti 
+andato andato andato 
+anno anno anno 
+cercando cercando cercando 
+col col col 
+trovare trovare trovare 
+finito finito finito 
+nessun nessun nessun 
+tardi tardi tardi 
+far far far 
+chiama chiama chiama 
+ore ore ore 
+guerra guerra guerra 
+nostri nostri nostri 
+stavo stavo stavo 
+viene viene viene 
+ia ia ia 
+prendi prendi prendi 
+puo puo puo 
+veramente veramente veramente 
+piccolo piccolo piccolo 
+cuore cuore cuore 
+nemmeno nemmeno nemmeno 
+giù giù giù 
+forte forte forte 
+sola sola sola 
+bravo bravo bravo 
+stasera stasera stasera 
+quelli quelli quelli 
+numero numero numero 
+città città città 
+sue sue sue 
+perso perso perso 
+punto punto punto 
+fanno fanno fanno 
+venuto venuto venuto 
+felice felice felice 
+roba roba roba 
+vecchio vecchio vecchio 
+uscire uscire uscire 
+importa importa importa 
+stessa stessa stessa 
+parla parla parla 
+scuola scuola scuola 
+comunque comunque comunque 
+dietro dietro dietro 
+fu fu fu 
+chiesto chiesto chiesto 
+nelle nelle nelle 
+lascia lascia lascia 
+spero spero spero 
+figlia figlia figlia 
+cinque cinque cinque 
+dovrebbe dovrebbe dovrebbe 
+pensato pensato pensato 
+quattro quattro quattro 
+migliore migliore migliore 
+morire morire morire 
+importante importante importante 
+donne donne donne 
+verso verso verso 
+invece invece invece 
+eri eri eri 
+poco poco poco 
+marito marito marito 
+sangue sangue sangue 
+puttana puttana puttana 
+potrei potrei potrei 
+ricordi ricordi ricordi 
+sara sara sara 
+sapevo sapevo sapevo 
+settimana settimana settimana 
+amo amo amo 
+entrare entrare entrare 
+fate fate fate 
+almeno almeno almeno 
+vicino vicino vicino 
+dovrei dovrei dovrei 
+pensa pensa pensa 
+capitano capitano capitano 
+passato passato passato 
+dottore dottore dottore 
+colpa colpa colpa 
+possibile possibile possibile 
+piedi piedi piedi 
+farò farò farò 
+piccola piccola piccola 
+ultima ultima ultima 
+però però però 
+messo messo messo 
+dammi dammi 
+fatta fatta 
+pensare pensare 
+altre altre 
+dovresti dovresti 
+sentire sentire 
+andata andata 
+ie ie 
+vivere vivere 
+portato portato 
+riesco riesco 
+parlando parlando 
+stanza stanza 
+auto auto 
+pure pure 
+ascolta ascolta 
+nessuna nessuna 
+chiamato chiamato 
+telefono telefono 
+significa significa 
+conosco conosco 
+parlato parlato 
+tue tue 
+corpo corpo 
+dare dare 
+perdere perdere 
+serio serio 
+volete volete 
+culo culo 
+vista vista 
+lasciato lasciato 
+conto conto 
+mezzo mezzo 
+ione ione 
+ben ben 
+fossi fossi 
+andando andando 
+fuoco fuoco 
+buongiorno buongiorno 
+ricordo ricordo 
+be be 
+strano strano 
+prova prova 
+genere genere 
+difficile difficile 
+sopra sopra 
+ieri ieri 
+john john 
+mangiare mangiare 
+re re 
+stava stava 
+parola parola 
+problemi problemi 
+chiamo chiamo 
+possa possa 
+fortuna fortuna 
+magari magari 
+paese paese 
+gioco gioco 
+figli figli 
+s s 
+potuto potuto 
+mesi mesi 
+qual qual 
+voleva voleva 
+possono possono 
+mr mr 
+ln ln 
+signorina signorina 
+quanti quanti 
+dimmi dimmi 
+farti farti 
+jack jack 
+molti molti 
+dicendo dicendo 
+sorella sorella 
+qualsiasi qualsiasi 
+nuova nuova 
+signori signori 
+musica musica 
+resto resto 
+davanti davanti 
+foto foto 
+ragazze ragazze 
+pace pace 
+pare pare 
+domanda domanda 
+mente mente 
+torna torna 
+attimo attimo 
+tieni tieni 
+dica dica 
+dovremmo dovremmo 
+finita finita 
+sacco sacco 
+paio paio 
+senso senso 
+verità verità 
+capire capire 
+cio cio 
+pistola pistola 
+vivo vivo 
+lavorare lavorare 
+dalle dalle 
+cane cane 
+fra fra 
+stia stia 
+vogliono vogliono 
+attenzione attenzione 
+festa festa 
+andate andate 
+agli agli 
+vada vada 
+farmi farmi 
+fantastico fantastico 
+saranno saranno 
+affari affari 
+bere bere 
+unica unica 
+vede vede 
+dicono dicono 
+aria aria 
+buono buono 
+unico unico 
+presidente presidente 
+passare passare 
+papa papa 
+cielo cielo 
+spiace spiace 
+agente agente 
+coraggio coraggio 
+fammi fammi 
+squadra squadra 
+cara cara 
+luce luce 
+ufficio ufficio 
+sapete sapete 
+dormire dormire 
+avessi avessi 
+divertente divertente 
+capisci capisci 
+smettila smettila 
+new new 
+facile facile 
+controllo controllo 
+esatto esatto 
+potete potete 
+lungo lungo 
+giovane giovane 
+generale generale 
+parole parole 
+sappiamo sappiamo 
+ultimo ultimo 
+entra entra 
+cristo cristo 
+probabilmente probabilmente 
+faremo faremo 
+gran gran 
+morti morti 
+morta morta 
+siano siano 
+vogliamo vogliamo 
+fatti fatti 
+cena cena 
+hey hey 
+uccidere uccidere 
+farà farà 
+avevi avevi 
+credere credere 
+nostre nostre 
+voce voce 
+sulle sulle 
+arrivato arrivato 
+cerca cerca 
+molte molte 
+attento attento 
+scritto scritto 
+pronti pronti 
+libro libro 
+sarei sarei 
+sui sui 
+cura cura 
+voglia voglia 
+chiedo chiedo 
+vuol vuol 
+pazzo pazzo 
+tratta tratta 
+ordine ordine 
+esattamente esattamente 
+lontano lontano 
+perfetto perfetto 
+dieci dieci 
+potresti potresti 
+finché finché 
+caro caro 
+cercare cercare 
+stupido stupido 
+conosci conosci 
+passo passo 
+sbagliato sbagliato 
+sicura sicura 
+arrivo arrivo 
+alcuni alcuni 
+parli parli 
+farai farai 
+chiaro chiaro 
+arrivare arrivare 
+sarai sarai 
+prendo prendo 
+prossima prossima 
+motivo motivo 
+credevo credevo 
+restare restare 
+stronzo stronzo 
+né né 
+sarò sarò 
+chiami chiami 
+avresti avresti 
+campo campo 
+arriva arriva 
+aspettare aspettare 
+viaggio viaggio 
+minuto minuto 
+eravamo eravamo 
+guardare guardare 
+aspetto aspetto 
+lasciami lasciami 
+dello dello 
+resta resta 
+fermo fermo 
+diventare diventare 
+inizio inizio 
+camera camera 
+giocare giocare 
+fretta fretta 
+ospedale ospedale 
+lasciare lasciare 
+alto alto 
+idiota idiota 
+continua continua 
+mettere mettere 
+zitto zitto 
+armi armi 
+benissimo benissimo 
+milioni 
+negli 
+bocca 
+crede 
+bambina 
+ricevuto 
+dottor 
+portare 
+venite 
+venga 
+causa 
+trova 
+metti 
+durante 
+bastardo 
+potremmo 
+bagno 
+devono 
+guardate 
+vanno 
+soltanto 
+onore 
+colpo 
+sole 
+bisogna 
+tornato 
+succedendo 
+zio 
+vostri 
+permesso 
+torno 
+voluto 
+dovete 
+gruppo 
+grandi 
+situazione 
+genitori 
+denaro 
+lasci 
+preoccuparti 
+settimane 
+venuta 
+dirmi 
+york 
+piacerebbe 
+capelli 
+sogno 
+chiamare 
+giornata 
+addio 
+allo 
+odio 
+frank 
+the 
+futuro 
+joe 
+disse 
+porto 
+matrimonio 
+traduzione 
+prigione 
+do 
+oltre 
+sam 
+mandato 
+pezzo 
+guai 
+legge 
+aspetti 
+aereo 
+avesse 
+circa 
+deciso 
+qualunque 
+cibo 
+piuttosto 
+prende 
+sicurezza 
+guardi 
+fondo 
+scelta 
+semplice 
+speciale 
+brava 
+vera 
+occhio 
+chiunque 
+usare 
+fame 
+vattene 
+sistema 
+potere 
+brutto 
+tanti 
+saperlo 
+mattina 
+vengo 
+domande 
+natale 
+vecchia 
+mese 
+piacciono 
+nave 
+ormai 
+provare 
+cambiare 
+funziona 
+www 
+messaggio 
+ottimo 
+tom 
+compagnia 
+prossimo 
+avvocato 
+c 
+assolutamente 
+buonanotte 
+ê 
+incidente 
+solito 
+specie 
+glielo 
+peccato 
+ve 
+pensando 
+entrambi 
+addosso 
+esercito 
+gentile 
+radio 
+servizio 
+sette 
+finire 
+avrai 
+veloce 
+spesso 
+incredibile 
+dirlo 
+tv 
+t 
+finalmente 
+parti 
+tante 
+provato 
+tizio 
+pagare 
+poteva 
+scena 
+occhiata 
+segreto 
+intorno 
+vederti 
+quali 
+grosso 
+calma 
+vestiti 
+sanno 
+cavallo 
+dirti 
+carino 
+centro 
+conosce 
+santo 
+doveva 
+chiave 
+fallo 
+dí 
+amica 
+michael 
+avrà 
+pieno 
+sesso 
+libero 
+grado 
+freddo 
+dimenticato 
+arrivederci 
+ritardo 
+poter 
+andrà 
+sinistra 
+giuro 
+oro 
+scoperto 
+america 
+faceva 
+faro 
+cervello 
+otto 
+treno 
+david 
+cercato 
+mare 
+apri 
+intenzione 
+nello 
+tempi 
+completamente 
+avevano 
+fermi 
+servono 
+terribile 
+ricorda 
+lettera 
+scusate 
+trovo 
+silenzio 
+caffè 
+scusami 
+rapporto 
+sente 
+arrivando 
+nero 
+d 
+anima 
+j 
+aiutare 
+consiglio 
+interessa 
+rispetto 
+chiedere 
+maestro 
+laggiù 
+saremo 
+destra 
+mille 
+saputo 
+pronta 
+partita 
+quante 
+diritto 
+cambiato 
+dovevo 
+realtà 
+peggio 
+stanotte 
+omicidio 
+linea 
+tranquillo 
+siediti 
+diverso 
+alcune 
+governo 
+impossibile 
+accidenti 
+tenente 
+dolore 
+fronte 
+farci 
+sorpresa 
+ferma 
+citta 
+risposta 
+duro 
+prove 
+guardia 
+normale 
+aspettando 
+uh 
+pubblico 
+vengono 
+vestito 
+base 
+chiamata 
+porti 
+miss 
+sapeva 
+soli 
+vale 
+dagli 
+paul 
+direi 
+luogo 
+incontro 
+personale 
+chiuso 
+tenere 
+manca 
+inferno 
