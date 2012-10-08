@@ -2,7 +2,6 @@ package textcat
 
 import (
 	"errors"
-	"math"
 	"sort"
 	"strings"
 	"unicode/utf8"
@@ -23,12 +22,11 @@ var (
 type TextCat struct {
 	utf8 bool
 	raw  bool
-	root bool
 	lang map[string]bool
 }
 
 type resultType struct {
-	score float64
+	score int
 	lang  string
 }
 
@@ -178,22 +176,16 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 			if !tc.lang[lang] || !strings.HasSuffix(lang, suffix) {
 				continue
 			}
-			score := float64(0)
+			score := 0
 			for n, p := range patt {
 				i, ok := data[lang][p.s]
 				if !ok {
 					i = maxPatterns
 				}
-				nn := float64(n)
-				ii := float64(i)
-				if tc.root {
-					nn = math.Sqrt(nn)
-					ii = math.Sqrt(ii)
-				}
-				if nn > ii {
-					score += nn - ii
+				if n > i {
+					score += n - i
 				} else {
-					score += ii - nn
+					score += i - n
 				}
 			}
 			scores = append(scores, &resultType{score, lang})
@@ -204,7 +196,7 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 		return
 	}
 
-	minScore := float64(maxPatterns * maxPatterns)
+	minScore := maxPatterns * maxPatterns
 	for _, sco := range scores {
 		if sco.score < minScore {
 			minScore = sco.score
@@ -234,9 +226,4 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 	}
 
 	return
-}
-
-// experimental feature
-func (tc *TextCat) SetRoot() {
-	tc.root = true
 }
