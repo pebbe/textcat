@@ -20,9 +20,12 @@ var (
 )
 
 type TextCat struct {
-	utf8 bool
-	raw  bool
-	lang map[string]bool
+	utf8           bool
+	raw            bool
+	lang           map[string]bool
+	thresholdValue float64
+	maxCandidates  int
+	minDocSize     int
 }
 
 type resultType struct {
@@ -48,11 +51,39 @@ func (r resultsType) Less(i, j int) bool {
 }
 
 func NewTextCat() *TextCat {
-	tc := &TextCat{lang: make(map[string]bool)}
+	tc := &TextCat{
+		lang:           make(map[string]bool),
+		thresholdValue: thresholdValue,
+		maxCandidates:  maxCandidates,
+		minDocSize:     minDocSize}
 	for d := range data {
 		tc.lang[d] = false
 	}
 	return tc
+}
+
+func (tc *TextCat) SetThresholdValue(thresholdValue float64) {
+	tc.thresholdValue = thresholdValue
+}
+
+func (tc *TextCat) GetThresholdValue() float64 {
+	return tc.thresholdValue
+}
+
+func (tc *TextCat) SetMaxCandidates(maxCandidates int) {
+	tc.maxCandidates = maxCandidates
+}
+
+func (tc *TextCat) GetMaxCandidates() int {
+	return tc.maxCandidates
+}
+
+func (tc *TextCat) SetMinDocSize(minDocSize int) {
+	tc.minDocSize = minDocSize
+}
+
+func (tc *TextCat) GetMinDocSize() int {
+	return tc.minDocSize
 }
 
 func (tc *TextCat) ActiveLanguages() []string {
@@ -147,13 +178,13 @@ func (tc *TextCat) EnableAllUtf8Languages() {
 }
 
 func (tc *TextCat) Classify(text string) (languages []string, err error) {
-	languages = make([]string, 0, maxCandidates)
+	languages = make([]string, 0, tc.maxCandidates)
 
-	if tc.raw && len(text) < minDocSize {
+	if tc.raw && len(text) < tc.minDocSize {
 		err = errShort
 		return
 	}
-	if tc.utf8 && utf8.RuneCountInString(strings.TrimSpace(reInvalid.ReplaceAllString(text, " "))) < minDocSize {
+	if tc.utf8 && utf8.RuneCountInString(strings.TrimSpace(reInvalid.ReplaceAllString(text, " "))) < tc.minDocSize {
 		err = errShort
 		return
 	}
@@ -202,14 +233,14 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 			minScore = sco.score
 		}
 	}
-	threshold := float64(minScore) * thresholdValue
+	threshold := float64(minScore) * tc.thresholdValue
 	nCandidates := 0
 	for _, sco := range scores {
 		if float64(sco.score) <= threshold {
 			nCandidates += 1
 		}
 	}
-	if nCandidates > maxCandidates {
+	if nCandidates > tc.maxCandidates {
 		err = errUnknown
 		return
 	}
