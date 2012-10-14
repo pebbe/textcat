@@ -2,6 +2,7 @@ package textcat
 
 import (
 	"errors"
+	"github.com/pebbe/util"
 	"sort"
 	"strings"
 	"unicode/utf8"
@@ -26,6 +27,7 @@ type TextCat struct {
 	thresholdValue float64
 	maxCandidates  int
 	minDocSize     int
+	extra          map[string]map[string]int
 }
 
 type resultType struct {
@@ -59,6 +61,7 @@ func NewTextCat() *TextCat {
 	for d := range data {
 		tc.lang[d] = false
 	}
+	tc.extra = make(map[string]map[string]int)
 	return tc
 }
 
@@ -178,6 +181,8 @@ func (tc *TextCat) EnableAllUtf8Languages() {
 }
 
 func (tc *TextCat) Classify(text string) (languages []string, err error) {
+	var mydata map[string]int
+
 	languages = make([]string, 0, tc.maxCandidates)
 
 	if tc.raw && len(text) < tc.minDocSize {
@@ -198,7 +203,7 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 		pattypes = append(pattypes, false)
 	}
 	for _, utf8 := range pattypes {
-		patt := getPatterns(text, utf8)
+		patt := GetPatterns(text, utf8)
 		suffix := ".raw"
 		if utf8 {
 			suffix = ".utf8"
@@ -207,9 +212,14 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 			if !tc.lang[lang] || !strings.HasSuffix(lang, suffix) {
 				continue
 			}
+			if _, ok := tc.extra[lang]; ok {
+				mydata = tc.extra[lang]
+			} else {
+				mydata = data[lang]
+			}
 			score := 0
 			for n, p := range patt {
-				i, ok := data[lang][p.s]
+				i, ok := mydata[p.S]
 				if !ok {
 					i = maxPatterns
 				}
@@ -257,4 +267,66 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 	}
 
 	return
+}
+
+// Add language created by 'textpat' in package github.com/pebbe/textcat/textpat
+func (tc *TextCat) AddLanguage(language, filename string) error {
+	rawlines := make([]string, 0, 400)
+	utf8lines := make([]string, 0, 400)
+	target := 0
+	r, err := util.NewLinesReaderFromFile(filename)
+	if err != nil {
+		return err
+	}
+	for line := range r.ReadLines() {
+		if line == "[[[RAW]]]" {
+			target = 1
+		} else if line == "[[[UTF8]]]" {
+			target = 2
+		} else {
+			fields := strings.Fields(line)
+			if len(fields) > 0 {
+				if target == 1 {
+					rawlines = append(rawlines, fields[0])
+				} else if target == 2 {
+					utf8lines = append(utf8lines, fields[0])
+				}
+			}
+		}
+	}
+	if len(rawlines) == 0 && len(utf8lines) == 0 {
+		return errors.New("No patterns found in file \"" + filename + "\"")
+	}
+
+	if len(rawlines) > 0 {
+		a := make(map[string]int)
+		for i, p := range rawlines {
+			if i == 400 {
+				break
+			}
+			a[p] = i
+		}
+		l := language + ".raw"
+		tc.extra[l] = a
+		if _, ok := tc.lang[l]; !ok {
+			tc.lang[l] = false
+		}
+	}
+
+	if len(utf8lines) > 0 {
+		a := make(map[string]int)
+		for i, p := range utf8lines {
+			if i == 400 {
+				break
+			}
+			a[p] = i
+		}
+		l := language + ".utf8"
+		tc.extra[l] = a
+		if _, ok := tc.lang[l]; !ok {
+			tc.lang[l] = false
+		}
+	}
+
+	return nil
 }

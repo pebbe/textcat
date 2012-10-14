@@ -36,7 +36,7 @@ func main() {
 			}
 			lang := path.Base(filename)
 			lang = lang[:len(lang)-len(path.Ext(lang))]
-			fmt.Fprintf(out, "%s\t%q: {", sep, lang + suffix)
+			fmt.Fprintf(out, "%s\t%q: {", sep, lang+suffix)
 			sep = ",\n"
 
 			r, e := os.Open(filename)
@@ -46,8 +46,8 @@ func main() {
 			checkErr(e)
 
 			sep2 := "\n"
-			for n, p := range getPatterns(string(b), utf) {
-				fmt.Fprintf(out, "%s\t\t%q: %d", sep2, p.s, n)
+			for n, p := range GetPatterns(string(b), utf) {
+				fmt.Fprintf(out, "%s\t\t%q: %d", sep2, p.S, n)
 				sep2 = ",\n"
 			}
 			fmt.Fprint(out, "}")

@@ -15,8 +15,8 @@ var (
 )
 
 type countType struct {
-	s string
-	i int
+	S string
+	I int
 }
 
 type countsType []*countType
@@ -30,13 +30,13 @@ func (c countsType) Swap(i, j int) {
 }
 
 func (c countsType) Less(i, j int) bool {
-	if c[i].i != c[j].i {
-		return c[i].i > c[j].i
+	if c[i].I != c[j].I {
+		return c[i].I > c[j].I
 	}
-	return c[i].s < c[j].s
+	return c[i].S < c[j].S
 }
 
-func getPatterns(s string, useRunes bool) ([]*countType) {
+func GetPatterns(s string, useRunes bool) []*countType {
 	ngrams := make(map[string]int)
 	if useRunes {
 		s = strings.ToLower(reInvalid.ReplaceAllString(s, " "))
