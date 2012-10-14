@@ -34,21 +34,31 @@ func main() {
 
 	if doRaw {
 		fmt.Println("[[[RAW]]]")
+		n := 0
 		for i, p := range textcat.GetPatterns(str, false) {
-			if i == 400 {
+			if i == textcat.MaxPatterns {
 				break
 			}
+			n += 1
 			fmt.Printf("%s\t%d\n", p.S, p.I)
+		}
+		if n < textcat.MaxPatterns {
+			fmt.Fprintf(os.Stderr, "Warning: there are less than %d raw patterns\n", textcat.MaxPatterns)
 		}
 	}
 
 	if doUtf8 {
 		fmt.Println("[[[UTF8]]]")
+		n := 0
 		for i, p := range textcat.GetPatterns(str, true) {
-			if i == 400 {
+			if i == textcat.MaxPatterns {
 				break
 			}
+			n += 1
 			fmt.Printf("%s\t%d\n", p.S, p.I)
+		}
+		if n < textcat.MaxPatterns {
+			fmt.Fprintf(os.Stderr, "Warning: there are less than %d utf8 patterns\n", textcat.MaxPatterns)
 		}
 	}
 

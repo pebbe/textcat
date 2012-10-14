@@ -221,7 +221,7 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 			for n, p := range patt {
 				i, ok := mydata[p.S]
 				if !ok {
-					i = maxPatterns
+					i = MaxPatterns
 				}
 				if n > i {
 					score += n - i
@@ -237,7 +237,7 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 		return
 	}
 
-	minScore := maxPatterns * maxPatterns
+	minScore := MaxPatterns * MaxPatterns
 	for _, sco := range scores {
 		if sco.score < minScore {
 			minScore = sco.score
@@ -271,8 +271,8 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 
 // Add language created by 'textpat' in package github.com/pebbe/textcat/textpat
 func (tc *TextCat) AddLanguage(language, filename string) error {
-	rawlines := make([]string, 0, 400)
-	utf8lines := make([]string, 0, 400)
+	rawlines := make([]string, 0, MaxPatterns)
+	utf8lines := make([]string, 0, MaxPatterns)
 	target := 0
 	r, err := util.NewLinesReaderFromFile(filename)
 	if err != nil {
@@ -301,7 +301,7 @@ func (tc *TextCat) AddLanguage(language, filename string) error {
 	if len(rawlines) > 0 {
 		a := make(map[string]int)
 		for i, p := range rawlines {
-			if i == 400 {
+			if i == MaxPatterns {
 				break
 			}
 			a[p] = i
@@ -316,7 +316,7 @@ func (tc *TextCat) AddLanguage(language, filename string) error {
 	if len(utf8lines) > 0 {
 		a := make(map[string]int)
 		for i, p := range utf8lines {
-			if i == 400 {
+			if i == MaxPatterns {
 				break
 			}
 			a[p] = i

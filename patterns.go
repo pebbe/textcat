@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	maxPatterns = 400
+	MaxPatterns = 400
 )
 
 var (
@@ -72,8 +72,8 @@ func GetPatterns(s string, useRunes bool) []*countType {
 		counts = append(counts, &countType{i, ngrams[i]})
 	}
 	sort.Sort(countsType(counts))
-	if size > maxPatterns {
-		counts = counts[:maxPatterns]
+	if size > MaxPatterns {
+		counts = counts[:MaxPatterns]
 	}
 	return counts
 }
