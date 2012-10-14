@@ -8,9 +8,9 @@ import (
 )
 
 const (
-	thresholdValue = 1.03
-	maxCandidates  = 5
-	minDocSize     = 25
+	defaultThresholdValue = 1.03
+	defaultMaxCandidates  = 5
+	defaultMinDocSize     = 25
 )
 
 var (
@@ -53,9 +53,9 @@ func (r resultsType) Less(i, j int) bool {
 func NewTextCat() *TextCat {
 	tc := &TextCat{
 		lang:           make(map[string]bool),
-		thresholdValue: thresholdValue,
-		maxCandidates:  maxCandidates,
-		minDocSize:     minDocSize}
+		thresholdValue: defaultThresholdValue,
+		maxCandidates:  defaultMaxCandidates,
+		minDocSize:     defaultMinDocSize}
 	for d := range data {
 		tc.lang[d] = false
 	}
