@@ -12,7 +12,7 @@ func main() {
 	doUtf8 := true
 	doRaw := true
 
-	if isatty(os.Stdin) {
+	if isatty, _ := util.IsTerminal(os.Stdin); isatty {
 		syntax()
 		return
 	}
@@ -82,17 +82,4 @@ Options:
     -u : utf8 patterns only
 
 `, os.Args[0])
-}
-
-// This seems to work on Windows and Linux, except on Linux when redirecting to/from device
-func isatty(f *os.File) bool {
-	s, e := f.Stat()
-	if e != nil {
-		return true
-	}
-	m := s.Mode()
-	if m&os.ModeDevice != 0 {
-		return true
-	}
-	return false
 }
