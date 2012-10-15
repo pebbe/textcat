@@ -12,7 +12,7 @@ func main() {
 	doUtf8 := true
 	doRaw := true
 
-	if isatty, _ := util.IsTerminal(os.Stdin); isatty {
+	if util.IsTerminal(os.Stdin) {
 		syntax()
 		return
 	}
