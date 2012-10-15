@@ -71,7 +71,7 @@ func main() {
 
 func syntax() {
 	fmt.Fprintf(os.Stderr, `
-Usage: %s [-r|-u] < sample-data
+Usage: %s [-r|-u] < sample data
 
 Reads text samples from standard input, write to standard output
 text patterns for package github.com/pebbe/textcat
