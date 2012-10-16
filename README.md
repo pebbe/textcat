@@ -8,6 +8,8 @@ To do:
 ## Install
 
     go get github.com/pebbe/textcat
+    go get github.com/pebbe/textcat/textcat
+    go get github.com/pebbe/textcat/textpat
 
 ## Docs
 
