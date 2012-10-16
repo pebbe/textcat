@@ -29,9 +29,11 @@ func main() {
 	}
 
 	tc := textcat.NewTextCat()
-	for _, i := range strings.Split(*opt_p, ",") {
-		e := tc.AddLanguage(path.Base(i), i)
-		util.CheckErr(e)
+	if *opt_p != "" {
+		for _, i := range strings.Split(*opt_p, ",") {
+			e := tc.AddLanguage(path.Base(i), i)
+			util.CheckErr(e)
+		}
 	}
 	if *opt_r || *opt_b {
 		tc.EnableAllRawLanguages()
