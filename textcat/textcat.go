@@ -5,10 +5,10 @@ Usage:
 
     textcat [-f=textfile] [-b|-r] [-p=patternfiles] [-l] [text]
 
-The text to be classified is one of:
-1) text on the command line, following any options;
-2) text from a file, loaded with option: -f=filename;
-3) if neither of the first two, then read text from standard input.
+The text to be classified is the first applicable of these:
+1) text from a file, loaded with option: -f=filename;
+2) text on the command line, following any options;
+3) text read from standard input.
 
 By default, only utf-8 patterns are used. Options to change this are:
 
@@ -34,6 +34,7 @@ import (
 	"fmt"
 	"github.com/pebbe/textcat"
 	"github.com/pebbe/util"
+	"io"
 	"io/ioutil"
 	"os"
 	"path"
@@ -73,21 +74,27 @@ func main() {
 	}
 
 	if *opt_l {
-		var r *util.LinesReader
-		var err error
+		var r *util.Reader
 		if *opt_f != "" {
-			r, err = util.NewLinesReaderFromFile(*opt_f)
+			fp, err := os.Open(*opt_f)
 			util.CheckErr(err)
+			defer fp.Close()
+			r = util.NewReader(fp)
 		} else if flag.NArg() > 0 {
 			b := bytes.NewBufferString(strings.Join(flag.Args(), " "))
-			r = util.NewLinesReaderFromReader(b)
+			r = util.NewReader(b)
 		} else {
-			r = util.NewLinesReaderFromReader(os.Stdin)
+			r = util.NewReader(os.Stdin)
 		}
-		for line := range r.ReadLines() {
-			l, e := tc.Classify(line)
-			if e != nil {
-				fmt.Print(e)
+		for {
+			line, err := r.ReadLineString()
+			if err == io.EOF {
+				break
+			}
+			util.CheckErr(err)
+			l, err := tc.Classify(line)
+			if err != nil {
+				fmt.Print(err)
 			} else {
 				fmt.Print(strings.Join(l, ","))
 			}
@@ -98,11 +105,8 @@ func main() {
 
 	var text string
 	if *opt_f != "" {
-		fp, err := os.Open(*opt_f)
+		t, err := ioutil.ReadFile(*opt_f)
 		util.CheckErr(err)
-		t, err := ioutil.ReadAll(fp)
-		util.CheckErr(err)
-		fp.Close()
 		text = string(t)
 	} else if flag.NArg() > 0 {
 		text = strings.Join(flag.Args(), " ")
