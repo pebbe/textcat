@@ -3,7 +3,7 @@ The program `textcat` is for classifying text by language.
 
 Usage:
 
-    textcat [-f=textfile] [-b|-r] [-p=patternfiles] [-l] [text]
+    textcat [-f=textfile] [-b|-r] [-p=patternfiles] [-a] [-l] [text]
 
 The text to be classified is the first applicable of these:
 1) text from a file, loaded with option: -f=filename;
@@ -25,6 +25,9 @@ between, and no spaces.
 
 By default, `textcat` classifies the whole input document as a single
 text. To classify individual lines instead, use option -l
+
+Use option -a to get a list of all available languages (after processing
+options -b, -r and -p).
 */
 package main
 
@@ -42,6 +45,7 @@ import (
 )
 
 var (
+	opt_a = flag.Bool("a", false, "list all languages, and exit")
 	opt_b = flag.Bool("b", false, "both raw and utf-8 patterns")
 	opt_r = flag.Bool("r", false, "raw patterns, instead of utf-8")
 	opt_l = flag.Bool("l", false, "classify individual lines instead of whole document")
@@ -52,7 +56,7 @@ var (
 func main() {
 	flag.Parse()
 
-	if *opt_f == "" && flag.NArg() == 0 && util.IsTerminal(os.Stdin) {
+	if *opt_f == "" && flag.NArg() == 0 && util.IsTerminal(os.Stdin) && !*opt_a {
 		fmt.Fprintf(os.Stderr, "\nUsage: %s [args] [text]\n\nargs with default values are:\n\n", os.Args[0])
 		flag.PrintDefaults()
 		fmt.Fprintf(os.Stderr, "\nIf both -f and text are missing, read from stdin\n\n")
@@ -71,6 +75,13 @@ func main() {
 	}
 	if *opt_b || !*opt_r {
 		tc.EnableAllUtf8Languages()
+	}
+
+	if *opt_a {
+		for _, i := range tc.ActiveLanguages() {
+			fmt.Println(i)
+		}
+		return
 	}
 
 	if *opt_l {
