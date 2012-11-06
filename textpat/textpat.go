@@ -1,3 +1,21 @@
+/*
+The program `textpat` creates language patterns that can be loaded into
+running Go programs that are using the textcat library.
+
+See function `AddLanguage` in library `textcat`.
+
+Usage:
+
+    textpat [-r|-u] < sample data
+
+Reads text samples from standard input, write to standard output
+text patterns for package github.com/pebbe/textcat
+
+Options:
+
+    -r : raw patterns only
+    -u : utf8 patterns only
+*/
 package main
 
 import (

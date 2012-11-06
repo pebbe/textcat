@@ -1,3 +1,31 @@
+/*
+The program `textcat` is for classifying text by language.
+
+Usage:
+
+    textcat [-f=textfile] [-b|-r] [-p=patternfiles] [-l] [text]
+
+The text to be classified is one of:
+1) text on the command line, following any options;
+2) text from a file, loaded with option: -f=filename;
+3) if neither of the first two, then read text from standard input.
+
+By default, only utf-8 patterns are used. Options to change this are:
+
+    -b : both raw and utf-8 patterns
+    -r : raw patterns, instead of utf-8
+
+You can load additional language patterns with option -p:
+
+    -p=language1,language2
+
+Here, both `language1` and `language2` are pattern files create with the
+`textpat` program. Note: pattern files are listed with commas in
+between, and no spaces.
+
+By default, `textcat` classifies the whole input document as a single
+text. To classify individual lines instead, use option -l
+*/
 package main
 
 import (
@@ -13,8 +41,8 @@ import (
 )
 
 var (
-	opt_b = flag.Bool("b", false, "both raw and utf8 patterns")
-	opt_r = flag.Bool("r", false, "raw patterns, instead of utf8")
+	opt_b = flag.Bool("b", false, "both raw and utf-8 patterns")
+	opt_r = flag.Bool("r", false, "raw patterns, instead of utf-8")
 	opt_l = flag.Bool("l", false, "classify individual lines instead of whole document")
 	opt_f = flag.String("f", "", "file name")
 	opt_p = flag.String("p", "", "pattern file names, separated by comma's (no spaces)")

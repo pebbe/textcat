@@ -1,3 +1,12 @@
+/*
+The `bootstrap` program is used to generated language patterns and store
+them as the Go source file `../data.go`. It should not be called by users,
+unless you want to add or change patterns and include them into the
+library. You then need to rebuild the library.
+
+For generating additional language patterns and load them into a running
+program, see `../textpat/`.
+*/
 package main
 
 import (
@@ -46,7 +55,7 @@ func main() {
 			checkErr(e)
 
 			sep2 := "\n"
-			for n, p := range GetPatterns(string(b), utf) {
+			for n, p := range getPatterns(string(b), utf) {
 				fmt.Fprintf(out, "%s\t\t%q: %d", sep2, p.S, n)
 				sep2 = ",\n"
 			}

@@ -39,7 +39,7 @@ func (c countsType) Less(i, j int) bool {
 	return c[i].S < c[j].S
 }
 
-func GetPatterns(s string, useRunes bool) ([]*countType) {
+func getPatterns(s string, useRunes bool) []*countType {
 	ngrams := make(map[string]int)
 	if useRunes {
 		s = strings.ToLower(reInvalid.ReplaceAllString(s, " "))

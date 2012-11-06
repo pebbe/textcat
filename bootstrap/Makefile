@@ -5,7 +5,7 @@ pat.go: ../patterns.go
 	echo '// THIS IS A GENERATED FILE' > pat.go
 	echo '// DO NOT EDIT' >> pat.go
 	echo >> pat.go
-	perl -p -e 's/package textcat/package main/' ../patterns.go >> pat.go
+	perl -p -e 's/package textcat/package main/; s/GetPatterns/getPatterns/; s/MaxPatterns/maxPatterns/' ../patterns.go >> pat.go
 
 bootstrap: pat.go bootstrap.go
 	go build .
