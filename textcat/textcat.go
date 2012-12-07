@@ -51,6 +51,7 @@ var (
 	opt_l = flag.Bool("l", false, "classify individual lines instead of whole document")
 	opt_f = flag.String("f", "", "file name")
 	opt_p = flag.String("p", "", "pattern file names, separated by comma's (no spaces)")
+	opt_i = flag.String("i", "", "languages to ignore, separated by comma's (no spaces)")
 )
 
 func main() {
@@ -75,6 +76,9 @@ func main() {
 	}
 	if *opt_b || !*opt_r {
 		tc.EnableAllUtf8Languages()
+	}
+	if *opt_i != "" {
+		tc.DisableLanguages(strings.Split(*opt_i, ",")...)
 	}
 
 	if *opt_a {
