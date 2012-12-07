@@ -52,6 +52,7 @@ var (
 	opt_f = flag.String("f", "", "file name")
 	opt_p = flag.String("p", "", "pattern file names, separated by comma's (no spaces)")
 	opt_i = flag.String("i", "", "languages to ignore, separated by comma's (no spaces)")
+	opt_z = flag.Bool("z", false, "ignore all built-in languages")
 )
 
 func main() {
@@ -64,18 +65,35 @@ func main() {
 		return
 	}
 
+	extras := make([]string, 0)
 	tc := textcat.NewTextCat()
 	if *opt_p != "" {
 		for _, i := range strings.Split(*opt_p, ",") {
-			e := tc.AddLanguage(path.Base(i), i)
+			name := strings.Split(path.Base(i), ".")[0]
+			extras = append(extras, name)
+			e := tc.AddLanguage(name, i)
 			util.CheckErr(e)
 		}
 	}
-	if *opt_r || *opt_b {
-		tc.EnableAllRawLanguages()
-	}
-	if *opt_b || !*opt_r {
-		tc.EnableAllUtf8Languages()
+	if *opt_z {
+		if *opt_r || *opt_b {
+			for _, extra := range extras {
+				tc.EnableLanguages(extra + ".raw")
+			}
+		}
+		if *opt_b || !*opt_r {
+			for _, extra := range extras {
+				tc.EnableLanguages(extra + ".utf8")
+			}
+
+		}
+	} else {
+		if *opt_r || *opt_b {
+			tc.EnableAllRawLanguages()
+		}
+		if *opt_b || !*opt_r {
+			tc.EnableAllUtf8Languages()
+		}
 	}
 	if *opt_i != "" {
 		tc.DisableLanguages(strings.Split(*opt_i, ",")...)
