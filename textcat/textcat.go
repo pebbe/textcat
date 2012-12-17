@@ -3,7 +3,7 @@ The program `textcat` is for classifying text by language.
 
 Usage:
 
-    textcat [-f=textfile] [-b|-r] [-p=patternfiles] [-a] [-l] [text]
+    textcat [-f=textfile] [-i=patternnames] [-p=patternfiles] [-a] [-b|-r] [-l] [-z] [text]
 
 The text to be classified is the first applicable of these:
 1) text from a file, loaded with option: -f=filename;
@@ -23,11 +23,19 @@ Here, both `language1` and `language2` are pattern files create with the
 `textpat` program. Note: pattern files are listed with commas in
 between, and no spaces.
 
+You can omit built-in patterns with the option -i:
+
+    -i=af.utf8,fy.utf8
+
+Note: pattern names are listed with commas in between, and no spaces.
+
+You can omit all built-in patterns with the option -z.
+
 By default, `textcat` classifies the whole input document as a single
 text. To classify individual lines instead, use option -l
 
 Use option -a to get a list of all available languages (after processing
-options -b, -r and -p).
+options -b, -r, -p, -i and -z).
 */
 package main
 
