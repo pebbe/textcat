@@ -13,4 +13,4 @@ To do:
 
 ## Docs
 
- * [package help](http://gopkgdoc.appspot.com/pkg/github.com/pebbe/textcat)
+ * [package help](http://godoc.org/github.com/pebbe/textcat)
