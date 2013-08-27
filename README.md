@@ -5,6 +5,8 @@ To do:
  * write documentation
  * make it faster
 
+Keywords: text categorization, language detector
+
 ## Install
 
     go get github.com/pebbe/textcat
