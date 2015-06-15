@@ -11,7 +11,7 @@ Most of these lists are based on www.opensubtitles.org, see:
     https://skydrive.live.com/?cid=3732e80b128d016f&id=3732E80B128D016F%213584
 
 Languages: af ar bg ca cs cy da de el en es et eu fa fi fr he hr hu id
-is it lt lv mk ms nl no pl pt ro ru sk sl sq sr sr-latin sv tr uk ur 
+is it lt lv mk ms nl no pl pt ro ru sk sl sq sr sr-latin sv tr uk ur
 
 
 Other language models are based on texts collected from Wikipedia.
