@@ -2,10 +2,12 @@ package textcat
 
 import (
 	"errors"
-	"github.com/pebbe/util"
+	"fmt"
 	"sort"
 	"strings"
 	"unicode/utf8"
+
+	"github.com/pebbe/util"
 )
 
 const (
@@ -28,6 +30,7 @@ type TextCat struct {
 	maxCandidates  int
 	minDocSize     int
 	extra          map[string]map[string]int
+	verbose        bool
 }
 
 type resultType struct {
@@ -57,7 +60,8 @@ func NewTextCat() *TextCat {
 		lang:           make(map[string]bool),
 		thresholdValue: defaultThresholdValue,
 		maxCandidates:  defaultMaxCandidates,
-		minDocSize:     defaultMinDocSize}
+		minDocSize:     defaultMinDocSize,
+	}
 	for d := range data {
 		tc.lang[d] = false
 	}
@@ -87,6 +91,10 @@ func (tc *TextCat) SetMinDocSize(minDocSize int) {
 
 func (tc *TextCat) GetMinDocSize() int {
 	return tc.minDocSize
+}
+
+func (tc *TextCat) SetVerbose(verbose bool) {
+	tc.verbose = verbose
 }
 
 func (tc *TextCat) ActiveLanguages() []string {
@@ -263,7 +271,11 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 	}
 	sort.Sort(resultsType(lowScores))
 	for _, sco := range lowScores {
-		languages = append(languages, sco.lang)
+		if tc.verbose {
+			languages = append(languages, fmt.Sprint(sco.lang, "|", sco.score))
+		} else {
+			languages = append(languages, sco.lang)
+		}
 	}
 
 	return

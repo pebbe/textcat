@@ -3,7 +3,7 @@ The program `textcat` is for classifying text by language.
 
 Usage:
 
-    textcat [-f=textfile] [-i=patternnames] [-p=patternfiles] [-a] [-b|-r] [-l] [-z] [text]
+	textcat [-f=textfile] [-i=patternnames] [-p=patternfiles] [-a] [-b|-r] [-l] [-v] [-z] [text]
 
 The text to be classified is the first applicable of these:
 1) text from a file, loaded with option: -f=filename;
@@ -12,12 +12,12 @@ The text to be classified is the first applicable of these:
 
 By default, only utf-8 patterns are used. Options to change this are:
 
-    -b : both raw and utf-8 patterns
-    -r : raw patterns, instead of utf-8
+	-b : both raw and utf-8 patterns
+	-r : raw patterns, instead of utf-8
 
 You can load additional language patterns with option -p:
 
-    -p=language1,language2
+	-p=language1,language2
 
 Here, both `language1` and `language2` are pattern files create with the
 `textpat` program. Note: pattern files are listed with commas in
@@ -25,7 +25,7 @@ between, and no spaces.
 
 You can omit built-in patterns with the option -i:
 
-    -i=af.utf8,fy.utf8
+	-i=af.utf8,fy.utf8
 
 Note: pattern names are listed with commas in between, and no spaces.
 
@@ -43,13 +43,14 @@ import (
 	"bytes"
 	"flag"
 	"fmt"
-	"github.com/pebbe/textcat"
-	"github.com/pebbe/util"
 	"io"
 	"io/ioutil"
 	"os"
 	"path"
 	"strings"
+
+	"github.com/pebbe/textcat"
+	"github.com/pebbe/util"
 )
 
 var (
@@ -60,6 +61,7 @@ var (
 	opt_f = flag.String("f", "", "file name")
 	opt_p = flag.String("p", "", "pattern file names, separated by comma's (no spaces)")
 	opt_i = flag.String("i", "", "languages to ignore, separated by comma's (no spaces)")
+	opt_v = flag.Bool("v", false, "verbose: show scores")
 	opt_z = flag.Bool("z", false, "ignore all built-in languages")
 )
 
@@ -75,6 +77,7 @@ func main() {
 
 	extras := make([]string, 0)
 	tc := textcat.NewTextCat()
+	tc.SetVerbose(*opt_v)
 	if *opt_p != "" {
 		for _, i := range strings.Split(*opt_p, ",") {
 			name := strings.Split(path.Base(i), ".")[0]
@@ -93,7 +96,6 @@ func main() {
 			for _, extra := range extras {
 				tc.EnableLanguages(extra + ".utf8")
 			}
-
 		}
 	} else {
 		if *opt_r || *opt_b {
