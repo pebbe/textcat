@@ -248,7 +248,7 @@ func (tc *TextCat) Classify(text string) (languages []string, err error) {
 		return
 	}
 
-	minScore := float64(MaxPatterns * MaxPatterns)
+	minScore := float64(MaxPatterns)
 	for _, sco := range scores {
 		if sco.score < minScore {
 			minScore = sco.score
