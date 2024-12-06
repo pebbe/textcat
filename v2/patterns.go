@@ -10,9 +10,7 @@ const (
 	MaxPatterns = 400
 )
 
-var (
-	reInvalid = regexp.MustCompile("[^\\p{L}]+")
-)
+var reInvalid = regexp.MustCompile("[ \t\f\r\n_0-9]+")
 
 type countType struct {
 	S string
@@ -39,7 +37,7 @@ func (c countsType) Less(i, j int) bool {
 func GetPatterns(s string, useRunes bool) []*countType {
 	ngrams := make(map[string]int)
 	if useRunes {
-		s = strings.ToLower(reInvalid.ReplaceAllString(s, " "))
+		s = reInvalid.ReplaceAllString(s, " ")
 		for _, word := range strings.Fields(s) {
 			b := []rune("_" + word + "____")
 			n := len(b) - 4
